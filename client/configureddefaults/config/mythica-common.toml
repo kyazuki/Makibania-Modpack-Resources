@@ -1,0 +1,28 @@
+[mythica_general_settings]
+	#Determines what block the game will generate Mythica return portals out of
+	#Use the block tag mythica:portal_frame_blocks to determine what blocks portals can be built with
+	#If value entered here is not a valid block it will default to generating minecraft:reinforced_deepslate
+	"Return Portal Frame Block ID" = "biomeswevegone:jacaranda_planks"
+
+[terrablender_biome_settings]
+	#Determines how modded biomes from other mods using terrablender are handled in mythica
+	#NO_COPY will not copy any modded biomes to mythica, resulting in only vanilla biomes generating
+	#COPY will simply copy modded biomes from the overworld to mythica
+	#COPY_REMOVE will transfer modded biomes to mythica, removing them from the overworld
+	#Allowed Values: NO_COPY, COPY, COPY_REMOVE
+	"Modded Biome Copy Mode" = "COPY_REMOVE"
+	#Determines the size of regions from each mods that use terrablender, in mythica
+	# Default: 3
+	# Range: 2 ~ 6
+	"Mythica Region Size" = 3
+	#Determines the weight of the vanilla region in mythica
+	# Default: 10
+	# Range: > 1
+	"Vanilla Region Weight" = 1
+	#A list of mod ids to blacklist from having their biome regions copied to mythica
+	#Example: ["modid1", "modid2"]
+	#if a region is registered under a namespace other than the modid, that should be used instead
+	"Region Blacklist" = []
+	#A list of biome resource locations to blacklist from being copied to mythica
+	#Example: ["modid:biome_name1", "modid:biome_name2"]
+	"Biome Blacklist" = ["minecraft:river", "minecraft:frozen_river", "minecraft:stony_shore"]

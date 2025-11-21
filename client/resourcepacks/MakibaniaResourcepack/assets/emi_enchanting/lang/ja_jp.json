@@ -1,0 +1,16 @@
+{
+    "emi.category.emi_enchanting.enchantments": "Enchantment Info",
+    "emi_enchanting.yes_good": "§0はい",
+    "emi_enchanting.no_good": "§4いいえ",
+    "emi_enchanting.yes_bad": "§4はい",
+    "emi_enchanting.no_bad": "§0いいえ",
+    "emi_enchanting.treasure": "トレジャーエンチャント: %s",
+    "emi_enchanting.curse": "呪い: %s",
+    "emi_enchanting.tradeable": "村人から入手可能: %s",
+    "emi_enchanting.random": "宝箱などで抽選可能: %s",
+    "emi_enchanting.maxLvl": "最大レベル: %s",
+    "emi_enchanting.valid_items": "有効な対象",
+    "emi_enchanting.description": "説明",
+    "emi_enchanting.exclusions": "競合",
+    "enchantment.emi_enchanting.unknown.desc": "不明なエンチャント"
+}

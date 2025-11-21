@@ -1,0 +1,15 @@
+{
+  "item": [
+    "forbidden_arcanus:black_hole_unaffected"
+  ],
+  "worldgen/biome":[
+    "forge:is_dry/end",
+    "forge:is_cold/end",
+    "nova_structures:collections/icy",
+    "variantsandventures:collections/frozen",
+    "endermanoverhaul:end_islands_spawns",
+    "c:is_dry",
+    "c:is_icy",
+    "c:is_cold"
+  ]
+}

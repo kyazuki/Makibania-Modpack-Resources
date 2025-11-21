@@ -1,0 +1,27 @@
+{
+	"health": 4.0,
+	"movementSpeed": 0.2,
+	"maxSpawnedInChunk": 6,
+	"spawnBiomes": [
+		{
+			"weight": 19,
+			"minGroupSize": 4,
+			"maxGroupSize": 7,
+			"biomes": [
+				"biomeswevegone:white_mangrove_marshes",
+				"biomeswevegone:cypress_wetlands",
+				"biomeswevegone:bayou",
+				"biomeswevegone:cypress_swamplands",
+				"mythica:warm_ocean",
+				"mythica:lukewarm_ocean"
+			]
+		}
+	],
+	"colorWeights": {
+		"colorRedWeight": 20,
+		"colorBlueWeight": 20,
+		"colorGreenWeight": 20,
+		"colorYellowWeight": 20,
+		"colorPurpleWeight": 20
+	}
+}

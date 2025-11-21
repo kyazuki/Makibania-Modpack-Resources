@@ -1,0 +1,36 @@
+{
+	"health": 8.0,
+	"movementSpeed": 0.25,
+	"maxSpawnedInChunk": 5,
+	"talkInterval": 200,
+	"spawnBiomes": [
+		{
+			"weight": 15,
+			"minGroupSize": 3,
+			"maxGroupSize": 5,
+			"biomes": [
+				"biomeswevegone:baobab_savanna",
+				"biomeswevegone:firecracker_chaparral",
+				"biomeswevegone:prairie"
+			]
+		},
+		{
+			"weight": 50,
+			"minGroupSize": 4,
+			"maxGroupSize": 7,
+			"biomes": [
+				"biomeswevegone:jacaranda_jungle",
+				"biomeswevegone:tropical_rainforest",
+				"biomeswevegone:overgrowth_woodlands"
+			]
+		},
+		{
+			"weight": 25,
+			"minGroupSize": 4,
+			"maxGroupSize": 7,
+			"biomes": [
+				"biomeswevegone:crag_gardens"
+			]
+		}
+	]
+}

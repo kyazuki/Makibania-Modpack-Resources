@@ -1,0 +1,30 @@
+{
+	"health": 10.0,
+	"movementSpeed": 0.25,
+	"flyingSpeed": 0.5,
+	"maxSpawnedInChunk": 6,
+	"spawnBiomes": [
+		{
+			"weight": 22,
+			"minGroupSize": 3,
+			"maxGroupSize": 6,
+			"biomes": [
+				"biomeswevegone:coniferous_forest",
+				"biomeswevegone:aspen_boreal",
+				"biomeswevegone:zelkova_forest",
+				"biomeswevegone:black_forest",
+				"biomeswevegone:overgrowth_woodlands",
+				"biomeswevegone:red_rock_valley",
+				"biomeswevegone:maple_taiga",
+				"biomeswevegone:frosted_coniferous_forest",
+				"biomeswevegone:canadian_shield",
+				"biomeswevegone:sakura_grove"
+			]
+		}
+	],
+	"colorWeights": {
+		"colorWhiteWeight": 33,
+		"colorBrownWeight": 33,
+		"colorBlackWeight": 33
+	}
+}

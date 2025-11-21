@@ -1,0 +1,19 @@
+{
+    "create.track_signal.mode_controlled_by_computer": "信号機のモードはコンピューターで制御されています",
+    "tag.block.c.ores.aluminum": "アルミニウム鉱石",
+    "tag.block.c.ores.copper": "銅鉱石",
+    "tag.block.c.ores.gold": "金鉱石",
+    "tag.block.c.ores.iron": "鉄鉱石",
+    "tag.block.c.ores.lead": "鉛鉱石",
+    "tag.block.c.ores.nickel": "ニッケル鉱石",
+    "tag.block.c.ores.osmium": "オスミウム鉱石",
+    "tag.block.c.ores.platinum": "プラチナ鉱石",
+    "tag.block.c.ores.quicksilver": "水銀鉱石",
+    "tag.block.c.ores.silver": "銀鉱石",
+    "tag.block.c.ores.tin": "錫鉱石",
+    "tag.block.c.ores.uranium": "ウラニウム鉱石",
+    "tag.block.c.ores.zinc": "亜鉛鉱石",
+    "item.create.chocolate_glazed_berries": "スイートベリーのチョコレートがけ",
+    "item.create.dough": "小麦の生地",
+    "item.create.sweet_roll": "スイートロール"
+}

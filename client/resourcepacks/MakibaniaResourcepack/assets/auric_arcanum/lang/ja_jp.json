@@ -1,0 +1,22 @@
+{
+    "block.auric_arcanum.magic_stone": "魔法の石",
+    "block.auric_arcanum.magic_mud": "魔法の泥",
+    "block.auric_arcanum.magic_clay": "魔法の粘土",
+    "block.auric_arcanum.magic_ice": "魔法の氷",
+    "block.auric_arcanum.magic_magma": "魔法のマグマブロック",
+    "item.auric_arcanum.blue_wand": "ラピスラズリの杖",
+    "item.auric_arcanum.red_wand": "レッドストーンの杖",
+    "item.auric_arcanum.green_wand": "エメラルドの杖",
+    "item.auric_arcanum.purple_wand": "アメジストの杖",
+    "item.auric_arcanum.white_wand": "ネザークォーツの杖",
+    "item.auric_arcanum.light_blue_wand": "ダイヤモンドの杖",
+    "itemGroup.auric_arcanum": "オーリック・アルカナム",
+    "element.auric_arcanum.FIRE": "炎",
+    "element.auric_arcanum.ICE": "氷",
+    "element.auric_arcanum.ROCK": "岩",
+    "element.auric_arcanum.LIFE": "生命",
+    "element.auric_arcanum.DEATH": "死",
+    "element.auric_arcanum.WATER": "水",
+    "form.auric_arcanum.PROJECTILE": "発射",
+    "form.auric_arcanum.SELF": "セルフ"
+}

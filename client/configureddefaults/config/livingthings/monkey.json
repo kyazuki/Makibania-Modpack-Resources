@@ -1,0 +1,27 @@
+{
+	"canAttack": true,
+	"health": 6.0,
+	"movementSpeed": 0.23,
+	"attackDamage": 3.0,
+	"maxSpawnedInChunk": 7,
+	"spawnBiomes": [
+		{
+			"weight": 50,
+			"minGroupSize": 4,
+			"maxGroupSize": 7,
+			"biomes": [
+				"biomeswevegone:jacaranda_jungle",
+				"biomeswevegone:baobab_savanna",
+				"biomeswevegone:overgrowth_woodlands"
+			]
+		},
+		{
+			"weight": 25,
+			"minGroupSize": 4,
+			"maxGroupSize": 7,
+			"biomes": [
+				"biomeswevegone:crag_gardens"
+			]
+		}
+	]
+}

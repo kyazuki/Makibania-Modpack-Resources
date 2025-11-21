@@ -1,0 +1,22 @@
+{
+    "create.hint.waterwheel_infinite.title": "水が不足しています",
+    "create.hint.waterwheel_infinite": "対象の水源の大きさが不十分です",
+    "create.hint.waterwheel_biome.title": "不適切なバイオームです",
+    "create.hint.waterwheel_biome": "水車は特定のバイオームでのみ動作します。",
+    "create.hint.waterwheel_source.title": "動力源が不足しています",
+    "create.hint.waterwheel_source": "水車を回転させようとする水源の数が多すぎるか少なすぎます。",
+    "create.hint.windmill_flow.title": "空気の循環が不十分です",
+    "create.hint.windmill_flow": "この風車の周囲には十分な空間がありません。空気の循環が必要です。",
+    "create.hint.windmill_biome.title": "不適切なバイオームです",
+    "create.hint.windmill_biome": "風車は特定のバイオームでのみ動作します。",
+    "create.hint.picky_biome_boost": "バイオーム効率",
+    "create.hint.picky_height_boost": "高度効率",
+    "create.ponder.water_wheel.text_4": "水源が十分に大きければ、水車は隣接する水源から力を引き出します。川のバイオームで強化されます。",
+    "create.ponder.water_wheel.text_5": "水車を完全に沈めたり、必要以上の面が水に触れていたりすると、動力を生み出さなくなります",
+    "create.ponder.water_wheel.text_6": "水車に木材で右クリックすると外観を変更できます",
+    "create.ponder.large_water_wheel.text_6": "水源が十分に大きければ、大型水車は隣接する水源から力を引き出します。川のバイオームで強化されます。",
+    "create.ponder.large_water_wheel.text_7": "追加の面を覆ったり、完全に沈めたりすると、動力出力が無効になります",
+    "create.ponder.large_water_wheel.text_8": "これらは通常の水車の半分の速度でしか回転しません...",
+    "create.ponder.large_water_wheel.text_9": "...しかし、はるかに高い応力を提供します",
+    "create.ponder.large_water_wheel.text_10": "水車に木材で右クリックすると外観を変更できます"
+}

@@ -1,0 +1,20 @@
+type = user_variables
+
+variable {
+  name = resource_group
+  value = default
+  reset_on_launch = true
+}
+
+variable {
+  name = up_to_date
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = server_status
+  value = §cOffline
+  reset_on_launch = true
+}
+

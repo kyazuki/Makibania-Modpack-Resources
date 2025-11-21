@@ -1,0 +1,17 @@
+{
+    "item.mermod.sea_necklace": "海のネックレス",
+    "item.mermod.sea_crystal": "シークリスタル",
+    "item.mermod.mermaid_bra_modifier": "マーメイドブラ",
+    "item.mermod.glowing_pearl_modifier": "きらめく真珠",
+    "item.mermod.tail_gradient_modifier": "虹色の鱗",
+    "item.mermod.tail_moisturizer_modifier": "保湿剤",
+    "item.mermod.moon_rock_modifier": "月の石",
+    "item.mermod.ursula_shell_modifier": "アースラの貝殻",
+    "item.mermod.deep_sea_crystal_modifier": "ディープシークリスタル",
+    "tooltip.mermod.modifiers": "モディファイア:",
+    "tooltip.mermod.remove_modifiers": "しゃがんで右クリックするとモディファイアを削除できます",
+    "tooltip.mermod.modifier": "海のネックレスと組み合わせることができます",
+    "tooltip.mermod.dyeable_modifier": "染色して海のネックレスと組み合わせることができます",
+    "option.mermod.disableNightVisionFlashing": "暗視の点滅を防ぐ",
+    "option.mermod.replaceSwimAnimation": "泳ぎモーションを変更する"
+}

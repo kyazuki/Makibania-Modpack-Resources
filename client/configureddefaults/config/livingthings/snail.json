@@ -1,0 +1,30 @@
+{
+	"health": 4.0,
+	"movementSpeed": 0.1,
+	"maxSpawnedInChunk": 6,
+	"spawnBiomes": [
+		{
+			"weight": 12,
+			"minGroupSize": 3,
+			"maxGroupSize": 5,
+			"biomes": [
+				"biomeswevegone:prairie",
+				"biomeswevegone:amaranth_grassland",
+				"biomeswevegone:pale_bog",
+				"biomeswevegone:overgrowth_woodlands",
+				"biomeswevegone:aspen_boreal",
+				"biomeswevegone:redwood_thicket",
+				"biomeswevegone:cypress_wetlands",
+				"biomeswevegone:sakura_grove"
+			]
+		},
+		{
+			"weight": 10,
+			"minGroupSize": 4,
+			"maxGroupSize": 6,
+			"biomes": [
+				"biomeswevegone:weeping_witch_forest"
+			]
+		}
+	]
+}

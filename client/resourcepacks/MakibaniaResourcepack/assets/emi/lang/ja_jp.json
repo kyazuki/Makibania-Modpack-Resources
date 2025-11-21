@@ -1,0 +1,7 @@
+{
+    "emi.sidebar.cycle": "%s を押してサイドバーを切り替え",
+    "emi.sidebar.favorite_stack": "%s を押してお気に入りのスタックを追加/削除",
+    "tooltip.emi.synfav.obtained": "%s/%s 取得済み",
+    "tooltip.emi.synfav.remaining": "残り %s",
+    "tooltip.emi.synfav.batches_remaining": "残り %s クラフト"
+}

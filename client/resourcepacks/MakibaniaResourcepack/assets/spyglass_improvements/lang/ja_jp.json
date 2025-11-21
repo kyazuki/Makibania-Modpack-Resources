@@ -1,0 +1,16 @@
+{
+    "options.spyglass-improvements.spyglassOverlay.0": "デフォルト",
+    "options.spyglass-improvements.spyglassOverlay.1": "クリア",
+    "options.spyglass-improvements.spyglassOverlay.2": "円形",
+    "options.spyglass-improvements.spyglassOverlay.3": "なし",
+    "category.spyglass-improvements": "Spyglass Improvements",
+    "key.spyglass-improvements.use": "望遠鏡を覗く",
+    "options.spyglass-improvements.zoomQuantity": "ズーム段階: %s ステップ",
+    "options.spyglass-improvements.hideSettingsButton": "設定ボタンを非表示: %s",
+    "options.spyglass-improvements.hideSettingsButton.tooltip": "Minecraftのオプション画面の設定ボタンを非表示にします。この画面にはMod Menuからアクセス可能です",
+    "options.spyglass-improvements.showCrosshair": "照準を表示: %s",
+    "options.spyglass-improvements.smoothCamera": "カメラを滑らかに: %s",
+    "options.spyglass-improvements.spyglassOverlay": "望遠鏡のオーバーレイ: %s",
+    "options.spyglass-improvements.title": "望遠鏡改良設定",
+    "options.spyglass-improvements.reset": "設定をリセット"
+}

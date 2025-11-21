@@ -1,0 +1,7 @@
+{
+    "entity.creeperoverhaul.birch_creeper": "シラカバクリーパー",
+    "item.creeperoverhaul.birch_creeper_spawn_egg": "シラカバクリーパーのスポーンエッグ",
+    "gui.creeperoverhaul.cosmetics": "コスメティクス",
+    "gui.creeperoverhaul.cosmetics.login": "Creeper Overhaulにログイン",
+    "gui.creeperoverhaul.cosmetics.preview_in_game": "コスメティクスをプレビューするにはゲーム内にいる必要があります。"
+}

@@ -1,0 +1,6 @@
+{
+    "ftbteams.team_already_exists": "チーム %s は既に存在します！",
+    "ftbteams.gui.toggle_chat": "クリックで切り替え",
+    "ftbteams.message.chat_redirected.on": "チャットメッセージはチームチャットにリダイレクトされます",
+    "ftbteams.message.chat_redirected.off": "チャットメッセージはバニラチャットに送信されます"
+}

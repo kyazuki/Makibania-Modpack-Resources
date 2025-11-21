@@ -1,0 +1,29 @@
+{
+	"canAttack": true,
+	"health": 10.0,
+	"movementSpeed": 0.25,
+	"attackDamage": 2.0,
+	"maxSpawnedInChunk": 4,
+	"spawnBiomes": [
+		{
+			"weight": 60,
+			"minGroupSize": 5,
+			"maxGroupSize": 8,
+			"biomes": [
+				"#mythica:is_beach",
+				"#mythica:is_river"
+			]
+		}
+	],
+	"colorVariants": {
+		"colorRedWeight": 45,
+		"colorBlueWeight": 10,
+		"colorWhiteWeight": 45
+	},
+	"scalingVariants": {
+		"scalingNormalWeight": 30,
+		"scalingSmallWeight": 30,
+		"scalingLargeWeight": 25,
+		"scalingExtraLargeWeight": 15
+	}
+}

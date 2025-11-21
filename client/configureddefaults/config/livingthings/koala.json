@@ -1,0 +1,32 @@
+{
+	"health": 10.0,
+	"movementSpeed": 0.17,
+	"maxSpawnedInChunk": 5,
+	"spawnBiomes": [
+		{
+			"weight": 50,
+			"minGroupSize": 3,
+			"maxGroupSize": 8,
+			"biomes": [
+				"biomeswevegone:tropical_rainforest"
+			]
+		},
+		{
+			"weight": 25,
+			"minGroupSize": 3,
+			"maxGroupSize": 8,
+			"biomes": [
+				"biomeswevegone:jacaranda_jungle",
+				"biomeswevegone:fragment_jungle"
+			]
+		},
+		{
+			"weight": 10,
+			"minGroupSize": 3,
+			"maxGroupSize": 8,
+			"biomes": [
+				"biomeswevegone:crag_gardens"
+			]
+		}
+	]
+}
