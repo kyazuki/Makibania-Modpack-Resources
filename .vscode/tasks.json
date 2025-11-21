@@ -10,9 +10,26 @@
             "dependsOrder": "sequence",
             "dependsOn": [
                 "Clean",
+                "Archive Default Config",
                 "Archive Datapack",
                 "Archive Resourcepack"
             ],
+        },
+        {
+            "label": "Archive Default Config",
+            "type": "shell",
+            "command": "Compress-Archive",
+            "args": [
+                "-Path",
+                "*",
+                "-DestinationPath",
+                "${workspaceFolder}/client/configureddefaults.zip",
+                "-Force"
+            ],
+            "group": "build",
+            "options": {
+                "cwd": "${workspaceFolder}/client/configureddefaults"
+            },
         },
         {
             "label": "Archive Datapack",
@@ -52,7 +69,7 @@
             "command": "pwsh",
             "args": [
                 "-Command",
-                "if (Test-Path '${workspaceFolder}/client/datapacks/MakibaniaDatapack.zip') { Remove-Item '${workspaceFolder}/client/datapacks/MakibaniaDatapack.zip' -Force }; if (Test-Path '${workspaceFolder}/client/resourcepacks/MakibaniaResourcepack.zip') { Remove-Item '${workspaceFolder}/client/resourcepacks/MakibaniaResourcepack.zip' -Force }"
+                "if (Test-Path '${workspaceFolder}/client/configureddefaults.zip') { Remove-Item '${workspaceFolder}/client/configureddefaults.zip' -Force }; if (Test-Path '${workspaceFolder}/client/datapacks/MakibaniaDatapack.zip') { Remove-Item '${workspaceFolder}/client/datapacks/MakibaniaDatapack.zip' -Force }; if (Test-Path '${workspaceFolder}/client/resourcepacks/MakibaniaResourcepack.zip') { Remove-Item '${workspaceFolder}/client/resourcepacks/MakibaniaResourcepack.zip' -Force }"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
