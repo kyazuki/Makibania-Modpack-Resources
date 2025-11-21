@@ -1,0 +1,62 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build All",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "dependsOrder": "sequence",
+            "dependsOn": [
+                "Clean",
+                "Archive Datapack",
+                "Archive Resourcepack"
+            ],
+        },
+        {
+            "label": "Archive Datapack",
+            "type": "shell",
+            "command": "Compress-Archive",
+            "args": [
+                "-Path",
+                "*",
+                "-DestinationPath",
+                "${workspaceFolder}/client/datapacks/MakibaniaDatapack.zip",
+                "-Force"
+            ],
+            "group": "build",
+            "options": {
+                "cwd": "${workspaceFolder}/client/datapacks/MakibaniaDatapack"
+            },
+        },
+        {
+            "label": "Archive Resourcepack",
+            "type": "shell",
+            "command": "Compress-Archive",
+            "args": [
+                "-Path",
+                "*",
+                "-DestinationPath",
+                "${workspaceFolder}/client/resourcepacks/MakibaniaResourcepack.zip",
+                "-Force"
+            ],
+            "group": "build",
+            "options": {
+                "cwd": "${workspaceFolder}/client/resourcepacks/MakibaniaResourcepack"
+            },
+        },
+        {
+            "label": "Clean",
+            "type": "shell",
+            "command": "pwsh",
+            "args": [
+                "-Command",
+                "if (Test-Path '${workspaceFolder}/client/datapacks/MakibaniaDatapack.zip') { Remove-Item '${workspaceFolder}/client/datapacks/MakibaniaDatapack.zip' -Force }; if (Test-Path '${workspaceFolder}/client/resourcepacks/MakibaniaResourcepack.zip') { Remove-Item '${workspaceFolder}/client/resourcepacks/MakibaniaResourcepack.zip' -Force }"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+        }
+    ]
+}
