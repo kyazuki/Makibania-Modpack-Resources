@@ -1,0 +1,422 @@
+{
+	"farming_root":{
+		"title": "簡易収穫",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+   			}
+		},
+		"description": "右クリックで作物を収穫し、植えなおせるようになります。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:beetroot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:easy_harvest",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"cooking_root":{
+		"title": "料理上手",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+   			}
+		},
+		"description": "料理を作成または設置したとき、食欲をそそる匂いを放ちます。\n[Shift]を押して詳細を表示",
+		"extra_description": "焚き火やフライパンで調理した際は周囲のプレイヤーにも効果が及びます。\n効果を受けているプレイヤーは、満腹でも食事ができるようになります。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "farmersdelight:cooking_pot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:zesty_culinary",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"zesty_duration+0.05":{
+		"title": "食欲持続",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "調理時、自分や周囲に与える食欲増進効果が15秒長く続きます。",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "farmers_attributes:appetite"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:zesty_culinary",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"zesty_power+1":{
+		"title": "食欲効果",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "調理時、自分や周囲に与える食欲増進効果が強化され、食事による追加効果の持続時間を+0.5倍します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:cake"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:zesty_culinary",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"short_order_cooking+5%":{
+		"title": "時短料理",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "焚き火や鍋、フライパンでの調理スピードが5%上昇します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:campfire"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:short_order_cooking",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"short_order_cooking+10%":{
+		"title": "時短料理(大)",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "焚き火や鍋、フライパンでの調理スピードが10%上昇します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:soul_campfire"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:short_order_cooking",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"farmers_weapon+0.3":{
+		"title": "武装農家",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "農家や料理人向けの武器の攻撃力が0.3増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "farmersdelight:iron_knife"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:farmers_weapon",
+					"value": 0.3,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"farmers_armor+0.2":{
+		"title": "農家の忍耐",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "農家や料理人向けの防具の防御力が0.2増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "carved_pumpkin"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:farmers_weapon",
+					"value": 0.2,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"crouch_bonemeal+5%":{
+		"title": "大きくな～れ",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "しゃがむと周囲の植物に骨粉効果が適用される確率が5%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:bone_meal"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:crouch_bonemeal_chance",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"crouch_bonemeal+10%":{
+		"title": "大きくな～れ(大)",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "しゃがむと周囲の植物に骨粉効果が適用される確率が5%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:bone"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:crouch_bonemeal_chance",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"green_thumb+2%":{
+		"title": "緑の親指",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "植物が大きく育ったり、多く収穫できたりする確率が2%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:carrot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:green_thumb",
+					"value": 0.02,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"green_thumb+5%":{
+		"title": "緑の親指(大)",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "植物が大きく育ったり、多く収穫できたりする確率が5%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:golden_carrot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farmers_attributes:green_thumb",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"tamed_resistance+2%":{
+		"title": "ペット保護",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "自分のペットが受けるダメージを2%軽減します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "turtle_egg"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:tamed_resistance",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"tamed_damage+2%":{
+		"title": "ペット強化",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "自分のペットが与えるダメージを2%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rabbit_foot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:tamed_damage",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"drinking_speed+10%": {
+		"title": "早飲み",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "飲む速度が10%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "milk_bucket"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "artifacts:generic.drinking_speed",
+					"value": 0.1,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"sp2": {
+		"title": "第二専門",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"cost": 0,
+		"required_skills": 0,
+		"description": "第二専門を選択可能になります。\n[Shift]で詳細を表示",
+		"extra_description":"ツリー内に40ポイント必要です。",
+		"required_spent_points": 40,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:nether_star"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:general",
+					"points": 1
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,2 @@
+#function event_games:hell_cauldron_start
+function event_games:hell_cauldron/start

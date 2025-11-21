@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "values": [
+        "mythica:dripstone_caves",
+        "mythica:lush_caves",
+        "yungscavebiomes:frosted_caves",
+        "yungscavebiomes:lost_caves"
+    ]
+}

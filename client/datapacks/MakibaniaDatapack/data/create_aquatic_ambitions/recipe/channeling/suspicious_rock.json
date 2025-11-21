@@ -1,0 +1,14 @@
+{
+  "type": "create_aquatic_ambitions:channeling",
+  "ingredients": [
+    {
+      "item": "create_aquatic_ambitions:suspicious_rock"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.1,
+      "id": "create_aquatic_ambitions:spiky_shell"
+    }
+  ]
+}

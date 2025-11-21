@@ -1,0 +1,17 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "biomeswevegone:coconino_meadow",
+    "biomeswevegone:allium_shrubland",
+    "biomeswevegone:prairie",
+    "biomeswevegone:pumpkin_valley",
+    "biomeswevegone:rose_fields",
+    "biomeswevegone:temperate_grove"
+  ],
+  "spawners": {
+    "type": "crittersandcompanions:ferret",
+    "maxCount": 3,
+    "minCount": 2,
+    "weight": 4
+  }
+}

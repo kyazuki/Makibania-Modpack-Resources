@@ -1,0 +1,23 @@
+{
+  "type": "oritech:foundry",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    {
+      "item": "northstar:titanium_ingot"
+    },
+    {
+      "tag": "c:ingots/nickel"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "oritech:adamant_ingot"
+    }
+  ],
+  "time": 120
+}

@@ -1,0 +1,369 @@
+{
+	"stamina+2%": {
+		"title": "持久力",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "空腹度の減少を2%緩和します。",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "saturation"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:stamina",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"eating_speed+5%": {
+		"title": "早食い",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "食事速度が5%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "cooked_beef"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "artifacts:generic.drinking_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"movement_efficiency-5%": {
+		"title": "鈍足耐性",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "鈍足耐性が5%増加します。",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "slowness"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_efficiency",
+					"value": -0.05,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"move_speed+2%": {
+		"title": "移動速度",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "移動速度が2%増加します。",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"move_speed+5%": {
+		"title": "移動速度(大)",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "challenge"
+   			}
+		},
+		"description": "移動速度が5%増加します。",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"jump+5%": {
+		"title": "ジャンプ",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "ジャンプ力が5%増加します。",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "jump_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:jump",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"sprint_speed+4%": {
+		"title": "走り速度",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "走る時の速度が4%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "golden_boots"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:sprinting_speed",
+					"value": 0.04,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"mount_speed+5%": {
+		"title": "騎乗速度",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "騎乗時の速度が5%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "saddle"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "artifacts:generic.mount_speed",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"burn_time-4%": {
+		"title": "炎上耐性",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "炎上してから鎮火までの時間が4%減少します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "water_bucket"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.burning_time",
+					"value": -0.04,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"swim_speed+2%": {
+		"title": "泳ぎ速度",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "泳ぐ速度が2%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "trident"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "neoforge:swim_speed",
+					"value": 0.02,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"luck+0.2": {
+		"title": "目利き",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "釣りやチェストルートに影響する幸運値が0.2増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.luck",
+					"value": 0.2,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"step_height+0.2": {
+		"title": "段差乗り越え",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "ジャンプをせずに上がれる高さが0.2ブロック増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ladder"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.step_height",
+					"value": 0.2,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"step_height+0.5": {
+		"title": "段差乗り越え(大)",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "challenge"
+   			}
+		},
+		"description": "ジャンプをせずに上がれる高さが0.5ブロック増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ladder"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.step_height",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"sp2": {
+		"title": "第二専門",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"cost": 0,
+		"required_skills": 0,
+		"description": "第二専門を選択可能になります。\n[Shift]で詳細を表示",
+		"extra_description":"ツリー内に40ポイント必要です。",
+		"required_spent_points": 40,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:nether_star"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:general",
+					"points": 1
+				}
+			}
+		]
+	}
+}

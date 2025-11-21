@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "tag": "forge:dusts/ascension"
+  },
+  "base": {
+    "item": "chromaticarsenal:friendly_fire_flower"
+  },
+  "result": {
+    "item": "chromaticarsenal:super_friendly_fire_flower"
+  },
+  "template": {
+    "item": "chromaticarsenal:chromatic_upgrade_smithing_template"
+  }
+}

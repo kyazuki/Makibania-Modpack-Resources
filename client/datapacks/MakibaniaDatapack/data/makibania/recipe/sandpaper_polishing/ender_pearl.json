@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "tag": "endermanoverhaul:ender_pearls"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:ender_pearl"
+    }
+  ]
+}

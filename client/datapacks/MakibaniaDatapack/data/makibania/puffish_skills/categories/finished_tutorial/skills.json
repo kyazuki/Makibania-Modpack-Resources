@@ -1,0 +1,74 @@
+{
+	"n1fbjnqzqhyxv3kj": {
+		"definition": "armor+1",
+		"x": -64,
+		"y": 0,
+		"root": true
+	},
+	"icq77o703vxj0o59": {
+		"definition": "health+2",
+		"x": 64,
+		"y": 0,
+		"root": true
+	},
+	"42mg63kd03m9xk0v": {
+		"definition": "anti_trampling",
+		"x": 0,
+		"y": 64,
+		"root": true
+	},
+	"86u1j3o2pzza2v94": {
+		"definition": "damage+5%",
+		"x": 0,
+		"y": -64,
+		"root": true
+	},
+	"sj7wt5bdpew4rt5c": {
+		"definition": "stamina+2%",
+		"x": 160,
+		"y": 0,
+		"root": false
+	},
+	"wdn58wv9364gcajk": {
+		"definition": "health+1",
+		"x": -128,
+		"y": 128,
+		"root": false
+	},
+	"auqrroo2lumth5c1": {
+		"definition": "health+1",
+		"x": 128,
+		"y": -128,
+		"root": false
+	},
+	"hgdxx7r5944wa3x9": {
+		"definition": "mining_speed+2%",
+		"x": 128,
+		"y": 128,
+		"root": false
+	},
+	"l4zlnx3bbvl6yn83": {
+		"definition": "damage+2%",
+		"x": 0,
+		"y": -160,
+		"root": false
+	},
+	"vd15o255xchtfc54": {
+		"definition": "mel_res+2%",
+		"x": -160,
+		"y": 0,
+		"root": false
+	},
+	"05hiatfhfsdq241w": {
+		"definition": "ranged_res+2%",
+		"x": -128,
+		"y": -128,
+		"root": false
+	},
+	"1ueu7r8gvv7zsis6": {
+		"definition": "move_speed+2%",
+		"x": 0,
+		"y": 160,
+		"root": false
+	}
+}

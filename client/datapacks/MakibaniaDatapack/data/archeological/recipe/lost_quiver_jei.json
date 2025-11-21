@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:lost_quiver"
+  },
+  "result": {
+    "id": "minecraft:arrow",
+    "count": 7
+  }
+}

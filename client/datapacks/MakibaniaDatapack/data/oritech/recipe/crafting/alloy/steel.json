@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:false"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "c:ingots/iron"
+    },
+    "b": {
+      "item": "iceandfire:ash"
+    }
+  },
+  "pattern": [
+    "aa ",
+    "bb "
+  ],
+  "result": {
+    "count": 1,
+    "id": "oritech:steel_ingot"
+  }
+}

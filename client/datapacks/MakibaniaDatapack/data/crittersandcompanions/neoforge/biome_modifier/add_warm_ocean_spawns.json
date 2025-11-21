@@ -1,0 +1,18 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "mythica:warm_ocean",
+  "spawners": [
+    {
+      "type": "crittersandcompanions:sea_bunny",
+      "maxCount": 4,
+      "minCount": 1,
+      "weight": 32
+    },
+    {
+      "type": "crittersandcompanions:dumbo_octopus",
+      "maxCount": 1,
+      "minCount": 1,
+      "weight": 8
+    }
+  ]
+}

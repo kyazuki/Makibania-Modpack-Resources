@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:rock_scraps"
+  },
+  "result": {
+    "id": "minecraft:flint",
+    "count": 2
+  }
+}

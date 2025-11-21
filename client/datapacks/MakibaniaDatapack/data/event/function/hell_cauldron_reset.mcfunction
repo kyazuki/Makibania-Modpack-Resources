@@ -1,0 +1,2 @@
+#function event_games:hell_cauldron_reset
+function event_games:hell_cauldron/reset

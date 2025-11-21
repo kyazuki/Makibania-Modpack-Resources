@@ -1,0 +1,13 @@
+{
+  "replace": true,
+  "values": [
+    "biomeswevegone:araucaria_savanna",
+    "biomeswevegone:atacama_outback",
+    "biomeswevegone:baobab_savanna",
+    "biomeswevegone:firecracker_chaparral",
+    "biomeswevegone:mojave_desert",
+    "biomeswevegone:redwood_thicket",
+    "biomeswevegone:windswept_desert",
+    "yungscavebiomes:lost_caves"
+  ]
+}

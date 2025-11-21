@@ -1,0 +1,67 @@
+{
+  "essences": {
+    "aureal": 5000,
+    "blood": 20000,
+    "souls": 500
+  },
+  "forge_tier": 4,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:eternal_stella"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "northstar:polished_lunar_sapphire"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:dark_nether_star"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:dragon_scale"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "minecraft:sculk_catalyst"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:dragon_scale"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:dark_nether_star"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "northstar:polished_lunar_sapphire"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:upgrade_final_tier",
+  "main_ingredient": {
+    "item": "forbidden_arcanus:stellarite_block"
+  },
+  "match_tier_exact": true,
+  "result": {
+    "type": "forbidden_arcanus:upgrade_tier",
+    "result_tier": 5
+  }
+}

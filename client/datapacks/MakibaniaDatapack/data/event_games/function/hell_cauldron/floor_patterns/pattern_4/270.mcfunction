@@ -1,0 +1,2 @@
+execute if score evg_rng2 evg_tmp matches 0 run place template event_games:hell_cauldron/floor_patterns/pattern_4 ~-6 ~-12 ~6 counterclockwise_90 none
+execute if score evg_rng2 evg_tmp matches 1 run place template event_games:hell_cauldron/floor_patterns/pattern_4 ~6 ~-12 ~6 counterclockwise_90 left_right

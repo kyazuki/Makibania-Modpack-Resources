@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "oritech:still_biofuel_bucket",
+        "oritech:still_heavy_oil_bucket",
+        "oritech:still_diesel_bucket",
+        "oritech:still_oil_bucket"
+    ]
+}

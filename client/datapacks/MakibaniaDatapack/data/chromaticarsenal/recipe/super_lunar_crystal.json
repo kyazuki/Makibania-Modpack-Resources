@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "tag": "forge:dusts/ascension"
+  },
+  "base": {
+    "item": "chromaticarsenal:lunar_crystal"
+  },
+  "result": {
+    "item": "chromaticarsenal:super_lunar_crystal"
+  },
+  "template": {
+    "item": "chromaticarsenal:chromatic_upgrade_smithing_template"
+  }
+}

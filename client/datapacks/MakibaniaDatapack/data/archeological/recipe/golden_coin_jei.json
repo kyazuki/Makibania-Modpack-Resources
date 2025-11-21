@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:golden_coin"
+  },
+  "result": {
+    "id": "minecraft:gold_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+
+{
+    "replace": true,
+    "values": [
+        "#mythica:is_desert",
+        "biomeswevegone:red_rock_peaks",
+        "biomeswevegone:red_rock_valley",
+        "biomeswevegone:rugged_badlands",
+        "yungscavebiomes:lost_caves"
+    ]
+}

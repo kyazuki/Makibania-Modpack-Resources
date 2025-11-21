@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#makibania:is_mars",
+    "#makibania:is_mercury",
+    "#makibania:is_moon",
+    "#makibania:is_venus",
+    "northstar:void",
+    "#iceandfire:is_dreadland"
+  ]
+}

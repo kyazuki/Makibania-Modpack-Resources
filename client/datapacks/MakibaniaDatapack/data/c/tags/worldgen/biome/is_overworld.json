@@ -1,0 +1,7 @@
+{
+  "values": [
+  ],
+  "remove": [
+    "#mythica:is_mythica"
+  ]
+}

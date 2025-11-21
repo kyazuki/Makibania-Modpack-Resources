@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "cosmeticarmoursmod:rose_gold_ingot"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "cosmeticweaponsmod:rose_gold_battleaxe",
+    "count": 1
+  }
+}

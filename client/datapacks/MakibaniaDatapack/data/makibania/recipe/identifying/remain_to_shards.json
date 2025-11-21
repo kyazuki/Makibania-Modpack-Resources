@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "ingredient": {
+    "tag": "archeological:remain"
+  },
+  "result": {
+    "id": "betterarcheology:artifact_shards",
+    "count": 1
+  }
+}

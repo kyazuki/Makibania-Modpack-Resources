@@ -1,0 +1,8 @@
+{
+  "values": [
+  ],
+  "remove": [
+    "#biomeswevegone:icy",
+    "yungscavebiomes:frosted_caves"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:old_bandages"
+  },
+  "result": {
+    "id": "minecraft:paper",
+    "count": 3
+  }
+}

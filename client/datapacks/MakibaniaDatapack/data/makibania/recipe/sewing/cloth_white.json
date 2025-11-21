@@ -1,0 +1,11 @@
+{
+  "type": "cakescosmetics:sewing",
+  "ingredient": {
+    "count": 1,
+    "item": "cosmeticarmoursmod:thread_white"
+  },
+  "result": {
+    "count": 1,
+    "id": "cosmeticarmoursmod:cloth_white"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "essences": {
+    "aureal": 82,
+    "blood": 1000,
+    "souls": 1
+  },
+  "forge_tier": 3,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "enchanted:creeper_heart"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:stellarite_piece"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "minecraft:netherite_scrap"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:stellarite_piece"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "enchanted:drop_of_luck"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:stellarite_piece"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "minecraft:netherite_scrap"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:stellarite_piece"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "forbidden_arcanus:xpetrified_orb"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "forbidden_arcanus:eternal_stella"
+    }
+  }
+}

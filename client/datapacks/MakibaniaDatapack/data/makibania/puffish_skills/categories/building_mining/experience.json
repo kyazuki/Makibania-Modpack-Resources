@@ -1,0 +1,202 @@
+{
+	"experience_per_level": {
+		"type": "expression",
+		"data": {
+			"expression": "max(100, level ^ (level / 25) + 200 * level)"
+		}
+	},
+	"sources": [
+		{
+			"type": "puffish_skills:break_block",
+			"data": {
+				"variables": {
+					"multiplier_1": {
+						"operations": [
+							{
+								"type": "get_player"
+							},
+							{
+								"type": "as_entity"
+							},
+							{
+								"type": "puffish_skills:has_tag",
+								"data": {
+									"tag": "mkb_mnb1"
+								}
+							},
+							{
+								"type": "switch",
+								"data": {
+									"true": 10,
+									"false": 1
+								}
+							}
+						]
+					},
+					"multiplier_2": {
+						"operations": [
+							{
+								"type": "get_player"
+							},
+							{
+								"type": "as_entity"
+							},
+							{
+								"type": "puffish_skills:has_tag",
+								"data": {
+									"tag": "mkb_mnb2"
+								}
+							},
+							{
+								"type": "switch",
+								"data": {
+									"true": 5,
+									"false": 1
+								}
+							}
+						]
+					},
+					"is_cobble": {
+						"operations": [
+							{
+								"type": "get_broken_block_state"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"block": "minecraft:cobblestone"
+								}
+							}
+						]
+					},
+					"is_deepslate": {
+						"operations": [
+							{
+								"type": "get_broken_block_state"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"block": "minecraft:deepslate"
+								}
+							}
+						]
+					},
+					"deepslate_count": {
+						"operations": [
+							{
+								"type": "get_player"
+							},
+							{
+								"type": "puffish_skills:get_stat_value",
+								"data": {
+									"stat": "mined:deepslate"
+								}
+							}
+						]
+					},
+					"is_cobbled_deepslate": {
+						"operations": [
+							{
+								"type": "get_broken_block_state"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"block": "minecraft:cobbled_deepslate"
+								}
+							}
+						]
+					},
+					"is_stone": {
+						"operations": [
+							{
+								"type": "get_broken_block_state"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"block": "minecraft:stone"
+								}
+							}
+						]
+					},
+					"stone_count": {
+						"operations": [
+							{
+								"type": "get_player"
+							},
+							{
+								"type": "puffish_skills:get_stat_value",
+								"data": {
+									"stat": "mined:stone"
+								}
+							}
+						]
+					},
+					"is_dirt": {
+						"operations": [
+							{
+								"type": "get_broken_block_state"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"block": "minecraft:dirt"
+								}
+							}
+						]
+					},
+					"dirt_count": {
+						"operations": [
+							{
+								"type": "get_player"
+							},
+							{
+								"type": "puffish_skills:get_stat_value",
+								"data": {
+									"stat": "mined:dirt"
+								}
+							}
+						]
+					},
+					"is_sand": {
+						"operations": [
+							{
+								"type": "get_broken_block_state"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"block": "minecraft:sand"
+								}
+							}
+						]
+					}
+				},
+				"experience": [
+					{
+						"condition": "is_dirt",
+						"expression": "multiplier_1 * multiplier_2 * min(1000 / dirt_count, 0.3)"
+					},
+					{
+						"condition": "is_stone",
+						"expression": "multiplier_1 * multiplier_2 * min(2000 / stone_count, 0.6)"
+					},
+					{
+						"condition": "is_sand",
+						"expression": "multiplier_1 * multiplier_2 * 0.2"
+					},
+					{
+						"condition": "is_deepslate",
+						"expression": "multiplier_1 * multiplier_2 * min(10000 / deepslate_count, 0.6)"
+					},
+					{
+						"condition": "!is_sand & !is_dirt & !is_stone & !is_cobble & !is_deepslate & !is_cobbled_deepslate",
+						"expression": "multiplier_1 * multiplier_2 * 1"
+					}
+				]
+			}
+		}
+	]
+}

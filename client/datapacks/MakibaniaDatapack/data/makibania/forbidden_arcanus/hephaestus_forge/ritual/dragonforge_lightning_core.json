@@ -1,0 +1,34 @@
+{
+  "essences": {
+    "aureal": 8300,
+    "blood": 14000,
+    "experience": 1900,
+    "souls": 88
+  },
+  "forge_tier": 4,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "iceandfire:lightning_dragon_heart"
+      }
+    },
+    {
+      "amount": 7,
+      "ingredient": {
+        "item": "iceandfire:dragonforge_lightning_brick"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "minecraft:dragon_egg"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "iceandfire:dragonforge_lightning_core_disabled"
+    }
+  }
+}

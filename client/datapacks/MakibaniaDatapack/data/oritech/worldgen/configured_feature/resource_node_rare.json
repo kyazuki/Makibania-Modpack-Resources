@@ -1,0 +1,46 @@
+{
+  "type": "oritech:resource_node",
+  "config": {
+    "nodeSize": 6,
+    "nodeOreChance": 0.2,
+    "boulderRadius": 3,
+    "nodeOres": [
+      "oritech:resource_node_diamond",
+      "oritech:resource_node_diamond",
+      "oritech:resource_node_gold",
+      "oritech:resource_node_emerald",
+      "oritech:resource_node_uranium",
+      "oritech:resource_node_uranium"
+    ],
+    "boulderOres": [
+      "northstar:moon_deep_diamond_ore",
+      "northstar:moon_deep_gold_ore",
+      "northstar:moon_deep_gold_ore",
+      "northstar:moon_deep_emerald_ore",
+      "oritech:deepslate_uranium_ore",
+      "oritech:deepslate_uranium_ore",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone"
+    ],
+    "overlayBlock": "oritech:still_fuel_block",
+    "overlayHeight": 5
+  }
+}

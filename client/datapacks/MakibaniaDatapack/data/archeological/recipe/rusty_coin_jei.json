@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:rusty_coin"
+  },
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "mythica:lukewarm_ocean",
+    "mythica:deep_lukewarm_ocean",
+    "biomeswevegone:lush_stacks"
+  ],
+  "spawners": [
+    {
+      "type": "crittersandcompanions:sea_bunny",
+      "maxCount": 3,
+      "minCount": 1,
+      "weight": 16
+    },
+    {
+      "type": "crittersandcompanions:dumbo_octopus",
+      "maxCount": 1,
+      "minCount": 1,
+      "weight": 6
+    }
+  ]
+}

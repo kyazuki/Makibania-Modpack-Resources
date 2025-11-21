@@ -1,0 +1,2 @@
+#function event:fishing_reset
+function event_games:fishing_event/clear

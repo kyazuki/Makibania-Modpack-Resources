@@ -1,0 +1,12 @@
+{
+	"title": "農業・料理",
+	"exclusive_root": true,
+	"unlocked_by_default": false,
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "apple"
+		}
+	},
+	"background": "minecraft:textures/block/moss_block.png"
+}

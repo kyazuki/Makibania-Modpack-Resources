@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "#mythica:is_ocean",
+    "#mythica:is_river",
+    "#mythica:is_jungle",
+    "#mythica:is_forest"
+  ]
+}
+

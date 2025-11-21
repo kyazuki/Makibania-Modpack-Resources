@@ -1,0 +1,35 @@
+{
+  "type": "oritech:resource_node",
+  "config": {
+    "nodeSize": 6,
+    "nodeOreChance": 0.3,
+    "boulderRadius": 3,
+    "nodeOres": [
+      "oritech:resource_node_gold",
+      "oritech:resource_node_platinum",
+      "oritech:resource_node_lapis",
+      "oritech:resource_node_platinum",
+      "oritech:resource_node_redstone",
+      "oritech:resource_node_redstone",
+      "oritech:resource_node_redstone"
+    ],
+    "boulderOres": [
+      "northstar:mercury_deep_gold_ore",
+      "oritech:deepslate_platinum_ore",
+      "northstar:mercury_deep_redstone_ore",
+      "northstar:mercury_deep_stone",
+      "northstar:mercury_deep_stone",
+      "northstar:mercury_deep_stone",
+      "northstar:mercury_deep_stone",
+      "northstar:mercury_deep_stone",
+      "northstar:mercury_deep_stone",
+      "northstar:mercury_deep_stone",
+      "northstar:mercury_deep_stone",
+      "northstar:mercury_deep_stone",
+      "northstar:mercury_deep_stone",
+      "northstar:mercury_deep_stone"
+    ],
+    "overlayBlock": "minecraft:lava",
+    "overlayHeight": 5
+  }
+}

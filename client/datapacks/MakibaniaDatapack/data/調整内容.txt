@@ -1,0 +1,83 @@
+#artifacts
+ルートテーブル
+v 翻訳ミミックがミシックになっている
+
+# Enchanted
+tongue of dogはmimic tongueに変更
+Otherwhere chalkはEnd素材を要求する
+
+#archeological
+v archeology tableはbetter archeologyのものを使う(レシピを移動)
+
+#brewin'n'chewing
+pizza を creatfoodに合わせる
+
+#iceandfireCE
+v dragonforge coreにドラゴンエッグ要求する
+
+#oritech
+v プラチナはエンドとmercuryに生成する
+v nickel は moon, uraniumはvenusに配置する
+Creative itemを非表示にhide black hole
+v oilはmars
+v remove steel/electrum/adamant recipe and use superheated for create
+v amethyst crystalレシピ改変
+v nodesを惑星に移動
+v platingに惑星素材を要求
+fluidパイプは加圧流体パイプ
+v cooler blockにnorthstar coolerを使う
+v reacter condenserは工業用ガラスを使う
+
+#create
+v 線状鉱石生成はMythicaに移動する
+v zincはMythicaにも生成する
+
+#create: northstar
+v ロケット素材にドラゴンフォージを使う
+v northstar:saltは使わない→釣り餌に翻訳する
+v northstar:incomplete_titanium_ingot dry plant fiber およびbiofuel(+bucket) northstar:salt非表示
+v solar panelに oritech:fluxiteを使う
+v dry plant fiber およびv biofuelレシピ削除
+
+#cosmetic weapons/armors
+v 本を消す
+v enchantedのspinning wheelでthreadを、
+cakescosmeticsのsewing_tableでclothを作成可能にする
+※Woolはすべてclothまたはthreadに置換し、clothとthreadはsewing_tableで作成可能にする
+v ナイフの翻訳を短刀に
+v Blank weapon style templateはレシピを削除してドロップにする
+
+#realmsRPG fallen adventurers
+v 生成をow/mythicaだけにする
+
+#cave delight
+remove wild cave carrots in end
+
+#expanded delight
+v saltは岩塩
+
+#mermod
+v sea crystalの入手先を作る
+v 素材は全部別MODでクラフトする
+
+#create:aquatic ambition
+v OPレシピ削除
+
+#icarus
+icarus:white_feathered_wingsのレシピ改変（forbidden)
+からくりはcreate
+
+#forbidden
+deorum ingot/mundabitur dust レシピ改変(enchanted)
+arcane crystal dust レシピ改変(create)
+silver dragon scale/aquatic dragon scale/golden dragon scale レシピ改変(iaf鋼を使う)
+v dark matter 削除
+v remove corrupti dust
+v remove ender pearl fragment
+remove arcane dragon egg recipe
+
+#immersive aircraft
+Mythicaで解禁
+
+#repeatable trial vaults
+古代の鍵を使う

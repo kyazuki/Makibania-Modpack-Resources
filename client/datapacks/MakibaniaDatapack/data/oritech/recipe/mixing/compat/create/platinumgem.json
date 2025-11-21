@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:mixing",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "item": "oritech:platinum_gem"
+    },
+    {
+      "item": "oritech:platinum_gem"
+    },
+    {
+      "item": "oritech:platinum_gem"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "oritech:platinum_ingot"
+    }
+  ]
+}

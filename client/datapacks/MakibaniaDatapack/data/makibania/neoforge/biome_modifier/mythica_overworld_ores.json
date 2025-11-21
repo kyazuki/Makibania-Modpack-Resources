@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#mythica:is_mythica",
+  "features": [
+    "makibania:zinc_ore",
+    "minecraft:ore_gold",
+    "minecraft:ore_gold_lower",
+    "makibania:iron_ore"
+  ],
+  "step": "underground_ores"
+}

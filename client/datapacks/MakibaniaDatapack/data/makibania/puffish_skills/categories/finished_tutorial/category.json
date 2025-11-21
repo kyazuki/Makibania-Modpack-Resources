@@ -1,0 +1,11 @@
+{
+	"title": "基礎スキル",
+	"unlocked_by_default": false,
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "grass_block"
+		}
+	},
+	"background": "textures/block/dirt.png"
+}

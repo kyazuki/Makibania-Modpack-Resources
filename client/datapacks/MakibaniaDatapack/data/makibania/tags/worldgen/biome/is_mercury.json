@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "northstar:mercury_magmatic_caverns",
+        "northstar:mercury_icy_caverns",
+        "northstar:mercury_hills",
+        "northstar:mercury_basins"
+    ]
+}

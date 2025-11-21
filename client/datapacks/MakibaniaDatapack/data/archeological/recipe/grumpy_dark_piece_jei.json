@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "archeological:grumpy_dark_piece"
+    },
+    {
+      "item": "archeological:deepslate_template"
+    }
+  ],
+  "result": {
+    "id": "archeological:grumpy_dark_piece",
+    "count": 2
+  }
+}

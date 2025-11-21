@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:rusty_axe"
+  },
+  "result": {
+    "id": "minecraft:iron_axe",
+    "count": 1
+  }
+}

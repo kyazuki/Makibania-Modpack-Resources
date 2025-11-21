@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "#mythica:is_ocean",
+    "#mythica:is_river",
+    "#mythica:is_beach",
+    "#mythica:is_mountain",
+    "#mythica:is_hot",
+    "#mythica:is_cold"
+  ]
+}

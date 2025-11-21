@@ -1,0 +1,65 @@
+{
+  "enhancers": "forbidden_arcanus:divine_pact",
+  "essences": {
+    "aureal": 1500,
+    "blood": 375,
+    "experience": 220,
+    "souls": 20
+  },
+  "forge_tier": 4,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:soul"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:corrupt_soul"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:enchanted_soul"
+      }
+    },
+    {
+      "amount": 2,
+      "ingredient": {
+        "item": "biomeswevegone:soul_fruit"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "endermanoverhaul:ancient_pearl"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "endermanoverhaul:summoner_pearl"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "endermanoverhaul:soul_pearl"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "betterarcheology:soul_totem"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "forbidden_arcanus:soul_binding_crystal"
+    }
+  }
+}

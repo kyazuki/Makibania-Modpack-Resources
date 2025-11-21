@@ -1,0 +1,396 @@
+{
+	"pickaxe_speed+2%": {
+		"title": "採掘速度",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "ツルハシのブロック破壊速度が2%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_pickaxe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:pickaxe_speed",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"mining_root": {
+		"title": "採掘速度",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "challenge"
+   			}
+		},
+		"description": "ツルハシのブロック破壊速度が2%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_pickaxe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:pickaxe_speed",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"pickaxe_speed+5%": {
+		"title": "採掘速度(大)",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "ツルハシのブロック破壊速度が5%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:golden_pickaxe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:pickaxe_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"shovel_speed+2%": {
+		"title": "掘削速度",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "シャベルのブロック破壊速度が2%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_shovel"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:shovel_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"building_root": {
+		"title": "掘削速度",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "challenge"
+   			}
+		},
+		"description": "シャベルのブロック破壊速度が2%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_shovel"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:shovel_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"shovel_speed+5%": {
+		"title": "掘削速度(大)",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "シャベルのブロック破壊速度が5%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:golden_shovel"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:shovel_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"axe_speed+2%": {
+		"title": "伐採速度",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "斧のブロック破壊速度が2%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_axe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:axe_speed",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"axe_speed+5%": {
+		"title": "伐採速度(大)",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "斧のブロック破壊速度が5%増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:golden_axe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:axe_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"mining_speed+2%": {
+		"title": "ブロック破壊速度",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "使用ツールに関わらず、ブロック破壊速度が2%増加します。",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:mining_speed",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"fortune+2%": {
+		"title": "幸運",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "採掘時にドロップが増える確率が2%増加します。",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:fortune",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"fortune+5%": {
+		"title": "幸運 (大)",
+		"frame": {
+    		"type": "advancement",
+    		"data": {
+        		"frame": "task"
+   			}
+		},
+		"description": "採掘時にドロップが増える確率が5%増加します。",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:fortune",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"fall_reduction+0.5":{
+		"title": "落下ダメージ軽減",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+   			}
+		},
+		"description": "落下ダメージを0.5ブロックの高さ分軽減します。",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:slow_falling"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:fall_reduction",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"reach+0.5":{
+		"title": "ブロック設置距離",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"description": "設置距離が0.5ブロック分増加します。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "create:extendo_grip"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "player.block_interaction_range",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"sp2a": {
+		"title": "第二専門",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"cost": 0,
+		"description": "第二専門を選択可能になります。\n[Shift]で詳細を表示",
+		"extra_description":"ツリー内に45ポイント必要です。",
+		"required_spent_points": 45,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:nether_star"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:general",
+					"points": 1
+				}
+			}
+		]
+	},
+	"sp2b": {
+		"title": "第二専門",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"cost": 0,
+		"description": "第二専門を選択可能になります。\n[Shift]で詳細を表示",
+		"extra_description":"ツリー内に30ポイント必要です。",
+		"required_spent_points": 30,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:nether_star"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:general",
+					"points": 1
+				}
+			}
+		]
+	}
+}

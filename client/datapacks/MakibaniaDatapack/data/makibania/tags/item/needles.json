@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "makibania:iron_needle",
+        "enchanted:bone_needle",
+        "enchanted:icy_needle"
+    ]
+}

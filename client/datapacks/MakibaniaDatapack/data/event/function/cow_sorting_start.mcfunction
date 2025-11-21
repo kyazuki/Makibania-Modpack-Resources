@@ -1,0 +1,2 @@
+#function event:cow_sorting_start
+function event_games:cow_sorting/start

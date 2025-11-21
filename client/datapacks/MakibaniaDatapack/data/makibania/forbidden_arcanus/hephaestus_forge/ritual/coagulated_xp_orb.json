@@ -1,0 +1,28 @@
+{
+  "essences": {
+    "aureal": 1300,
+    "blood": 0,
+    "experience": 900,
+    "souls": 0
+  },
+  "forge_tier": 3,
+  "inputs": [
+    {
+      "amount": 8,
+      "ingredient": {
+        "item": "makibania:packed_xp_orb"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "makibania:packed_xp_orb"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "makibania:coagulated_xp_orb"
+    }
+  }
+}

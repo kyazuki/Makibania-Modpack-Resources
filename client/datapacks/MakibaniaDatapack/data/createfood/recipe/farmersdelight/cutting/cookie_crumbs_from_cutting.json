@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "tag": "c:crushable_cookies"
+        }
+    ],
+    "tool": {
+        "item": "expandeddelight:crushing_mallet"
+    },
+    "result": [
+        {
+            "item": {
+                "count": 2,
+                "id": "createfood:cookie_crumbs"
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "mythica:beach",
+    "mythica:snowy_beach",
+    "mythica:stony_shore",
+    "biomeswevegone:basalt_barrera",
+    "biomeswevegone:dacite_shore",
+    "biomeswevegone:rainbow_beach"
+  ]
+}

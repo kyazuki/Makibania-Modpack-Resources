@@ -1,0 +1,13 @@
+{
+  "type": "create_aquatic_ambitions:channeling",
+  "ingredients": [
+    {
+      "tag": "iceandfire:scales/sea_serpent"
+    }
+  ],
+  "results": [
+    {
+      "id": "mermod:tail_gradient_modifier"
+    }
+  ]
+}

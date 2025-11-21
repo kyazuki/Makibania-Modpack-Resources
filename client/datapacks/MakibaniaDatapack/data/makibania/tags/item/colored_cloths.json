@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        "cosmeticarmoursmod:cloth_white",
+        "cosmeticarmoursmod:cloth_light_grey",
+        "cosmeticarmoursmod:cloth_grey",
+        "cosmeticarmoursmod:cloth_black",
+        "cosmeticarmoursmod:cloth_brown",
+        "cosmeticarmoursmod:cloth_red",
+        "cosmeticarmoursmod:cloth_orange",
+        "cosmeticarmoursmod:cloth_yellow",
+        "cosmeticarmoursmod:cloth_lime",
+        "cosmeticarmoursmod:cloth_green",
+        "cosmeticarmoursmod:cloth_cyan",
+        "cosmeticarmoursmod:cloth_light_blue",
+        "cosmeticarmoursmod:cloth_blue",
+        "cosmeticarmoursmod:cloth_purple",
+        "cosmeticarmoursmod:cloth_magenta", 
+        "cosmeticarmoursmod:cloth_pink"  
+    ]
+}

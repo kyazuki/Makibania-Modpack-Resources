@@ -1,0 +1,14 @@
+{
+  "type": "iceandfire:dragonforge",
+  "dragonType": "lightning",
+  "cookTime": 1000,
+  "input": {
+    "item": "forbidden_arcanus:crimson_stone"
+  },
+  "blood": {
+    "item": "biomeswevegone:yellow_glow_bottle"
+  },
+  "result": {
+    "id": "northstar:rutile_concentrate"
+  }
+}

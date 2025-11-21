@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:reinforced_deepslate",
+    "biomeswevegone:jacaranda_planks",
+    "#biomeswevegone:jacaranda_logs",
+    "biomeswevegone:jacaranda_bookshelf"
+  ]
+}

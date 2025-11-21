@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:false"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:kelp"
+    },
+    "B": {
+      "item": "mermod:sea_crystal"
+    },
+    "C": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "mermod:mermaid_bra_modifier"
+  }
+}

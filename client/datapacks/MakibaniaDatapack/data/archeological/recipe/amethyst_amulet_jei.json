@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:amethyst_amulet"
+  },
+  "result": {
+    "id": "minecraft:amethyst_shard",
+    "count": 1
+  }
+}

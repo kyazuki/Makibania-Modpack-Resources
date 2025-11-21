@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "oritech:platinum_ingot"
+    },
+    "B": {
+      "item": "minecraft:blue_ice"
+    },
+    "C": {
+      "item": "create:basin"
+    },
+    "I": {
+      "tag": "c:plates/iron"
+    }
+  },
+  "pattern": [
+    "IBI",
+    "BCB",
+    "IPI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "northstar:ice_box"
+  }
+}

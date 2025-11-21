@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "#c:is_overworld",
+    "#mythica:is_mythica"
+  ]
+}

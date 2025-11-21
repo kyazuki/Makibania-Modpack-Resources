@@ -1,0 +1,16 @@
+{
+    "type": "create_aquatic_ambitions:channeling",
+    "ingredients": [
+        {
+            "item": "archeological:weathered_trident"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:trident",
+            "components": {
+                "minecraft:damage": 125
+            }
+        }
+    ]
+}

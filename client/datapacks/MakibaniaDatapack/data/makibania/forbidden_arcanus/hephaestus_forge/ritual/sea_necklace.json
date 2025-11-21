@@ -1,0 +1,46 @@
+{
+  "essences": {
+    "aureal": 400,
+    "blood": 50,
+    "experience": 0,
+    "souls": 1
+  },
+  "forge_tier": 1,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "iceandfire:silver_nugget"
+      }
+    },
+    {
+      "amount": 3,
+      "ingredient": {
+        "item": "crittersandcompanions:silk"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "iceandfire:siren_tear"
+      }
+    },
+    {
+      "amount": 3,
+      "ingredient": {
+        "item": "crittersandcompanions:silk"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "archeological:amethyst_amulet"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "mermod:sea_necklace"
+    }
+  }
+}

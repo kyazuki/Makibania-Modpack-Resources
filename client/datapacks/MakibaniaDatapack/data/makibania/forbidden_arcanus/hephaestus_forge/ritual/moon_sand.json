@@ -1,0 +1,29 @@
+{
+  "enhancers": "forbidden_arcanus:crescent_moon",
+  "essences": {
+    "aureal": 1200,
+    "blood": 0,
+    "experience": 220,
+    "souls": 9
+  },
+  "forge_tier": 2,
+  "inputs": [
+    {
+      "amount": 8,
+      "ingredient": {
+        "item": "enchanted:gypsum"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "biomeswevegone:windswept_sand"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "northstar:moon_sand"
+    }
+  }
+}

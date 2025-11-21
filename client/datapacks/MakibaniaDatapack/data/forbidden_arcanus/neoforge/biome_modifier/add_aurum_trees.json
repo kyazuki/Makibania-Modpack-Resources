@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "biomeswevegone:weeping_witch_forest",
+  "features": "forbidden_arcanus:aurum_trees",
+  "step": "vegetal_decoration"
+}

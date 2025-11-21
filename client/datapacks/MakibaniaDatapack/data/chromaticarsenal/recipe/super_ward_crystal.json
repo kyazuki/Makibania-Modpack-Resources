@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "tag": "forge:dusts/ascension"
+  },
+  "base": {
+    "item": "chromaticarsenal:ward_crystal"
+  },
+  "result": {
+    "item": "chromaticarsenal:super_ward_crystal"
+  },
+  "template": {
+    "item": "chromaticarsenal:chromatic_upgrade_smithing_template"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "enhancers": "forbidden_arcanus:elementarium",
+  "essences": {
+    "aureal": 3600,
+    "blood": 2000,
+    "experience": 2170,
+    "souls": 30
+  },
+  "forge_tier": 4,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "iceandfire:fire_dragon_blood"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "create:rose_quartz"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "netherdepthsupgrade:eyeball"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "endermanoverhaul:crimson_pearl"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:enchanted_soul"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "forbidden_arcanus:quantum_core"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "iceandfire:summoning_crystal_fire"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:sheaf_pottery_sherd"
+    },
+    {
+      "item": "archeological:pottery_template"
+    }
+  ],
+  "result": {
+    "id": "minecraft:sheaf_pottery_sherd",
+    "count": 2
+  }
+}

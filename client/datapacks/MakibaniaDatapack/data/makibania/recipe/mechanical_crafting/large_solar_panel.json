@@ -1,0 +1,43 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "northstar:advanced_circuit"
+    },
+    "G": {
+      "item": "minecraft:tinted_glass"
+    },
+    "F": {
+      "item": "oritech:fluxite"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "T": {
+      "tag": "c:plates/titanium"
+    },
+    "V": {
+      "item": "oritech:basic_generator_block"
+    },
+    "B": {
+      "item": "oritech:advanced_battery"
+    },
+    "U": {
+      "item": "oritech:flux_gate"
+    }
+  },
+  "pattern": [
+    "GGGGG",
+    "FFFFF",
+    "  S  ",
+    "TBCBT",
+    "TUVUT"
+  ],
+  "result": {
+    "count": 1,
+    "id": "oritech:big_solar_panel_block"
+  },
+  "show_notification": false
+}

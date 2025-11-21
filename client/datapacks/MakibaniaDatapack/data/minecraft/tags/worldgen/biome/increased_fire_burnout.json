@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#mythica:is_swamp",
+        "#mythica:is_jungle"
+    ]
+}

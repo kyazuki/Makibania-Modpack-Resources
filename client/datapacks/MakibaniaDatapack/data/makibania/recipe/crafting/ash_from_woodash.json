@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "enchanted:wood_ash"
+    },
+    {
+      "item": "enchanted:wood_ash"
+    },
+    {
+      "item": "enchanted:wood_ash"
+    },
+    {
+      "item": "enchanted:wood_ash"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "iceandfire:ash"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "archeological:blocks/archeology_table",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "betterarcheology:archeology_table"
+        }
+      ]
+    }
+  ]
+}

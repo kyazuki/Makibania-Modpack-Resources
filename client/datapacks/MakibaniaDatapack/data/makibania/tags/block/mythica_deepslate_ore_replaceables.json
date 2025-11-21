@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "#minecraft:deepslate_ore_replaceables",
+        "yungscavebiomes:ancient_sandstone",
+        "yungscavebiomes:layered_ancient_sandstone",
+        "yungscavebiomes:brittle_ancient_sandstone",
+        "yungscavebiomes:ancient_sand"
+    ]
+}

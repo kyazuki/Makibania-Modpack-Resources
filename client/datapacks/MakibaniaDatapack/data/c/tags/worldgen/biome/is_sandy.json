@@ -1,0 +1,8 @@
+{
+  "values": [
+  ],
+  "remove": [
+    "#biomeswevegone:sandy",
+    "yungscavebiomes:lost_caves"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#mythica:is_jungle",
+  "features": "expandeddelight:patch_wild_sweet_potato",
+  "step": "vegetal_decoration"
+}

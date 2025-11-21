@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "tag": "c:graham_cracker"
+        }
+    ],
+    "tool": {
+        "item": "expandeddelight:crushing_mallet"
+    },
+    "result": [
+        {
+            "item": {
+                "count": 2,
+                "id": "createfood:graham_cracker_crumbs"
+            }
+        }
+    ]
+}

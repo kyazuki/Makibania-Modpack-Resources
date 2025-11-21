@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "archeological:sword_petroglyph"
+    },
+    {
+      "item": "archeological:stone_template"
+    }
+  ],
+  "result": {
+    "id": "archeological:sword_petroglyph",
+    "count": 2
+  }
+}

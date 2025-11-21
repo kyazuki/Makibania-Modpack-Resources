@@ -1,0 +1,175 @@
+{
+	"experience_per_level": {
+		"type": "expression",
+		"data": {
+			"expression": "max(100000, 1000 * (level ^ (level / 25)) + 200000 * level)"
+		}
+	},
+	"sources": [
+		{
+			"type": "puffish_skills:increase_stat",
+			"data": {
+				"variables": {
+					"multiplier_1": {
+						"operations": [
+							{
+								"type": "get_player"
+							},
+							{
+								"type": "as_entity"
+							},
+							{
+								"type": "puffish_skills:has_tag",
+								"data": {
+									"tag": "mkb_exp1"
+								}
+							},
+							{
+								"type": "switch",
+								"data": {
+									"true": 10,
+									"false": 1
+								}
+							}
+						]
+					},
+					"multiplier_2": {
+						"operations": [
+							{
+								"type": "get_player"
+							},
+							{
+								"type": "as_entity"
+							},
+							{
+								"type": "puffish_skills:has_tag",
+								"data": {
+									"tag": "mkb_exp2"
+								}
+							},
+							{
+								"type": "switch",
+								"data": {
+									"true": 5,
+									"false": 1
+								}
+							}
+						]
+					},
+					"is_climb": {
+						"operations": [
+							{
+								"type": "get_stat"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"stat": "minecraft.custom:minecraft.climb_one_cm"
+								}
+							}
+						]
+					},
+					"is_crouch": {
+						"operations": [
+							{
+								"type": "get_stat"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"stat": "minecraft.custom:minecraft.crouch_one_cm"
+								}
+							}
+						]
+					},
+					"is_swim": {
+						"operations": [
+							{
+								"type": "get_stat"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"stat": "minecraft.custom:minecraft.swim_one_cm"
+								}
+							}
+						]
+					},
+					"is_horse": {
+						"operations": [
+							{
+								"type": "get_stat"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"stat": "minecraft.custom:minecraft.horse_one_cm"
+								}
+							}
+						]
+					},
+					"is_boat": {
+						"operations": [
+							{
+								"type": "get_stat"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"stat": "minecraft.custom:minecraft.boat_one_cm"
+								}
+							}
+						]
+					},
+					"is_sprint": {
+						"operations": [
+							{
+								"type": "get_stat"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"stat": "minecraft.custom:minecraft.sprint_one_cm"
+								}
+							}
+						]
+					},
+					"is_walk": {
+						"operations": [
+							{
+								"type": "get_stat"
+							},
+							{
+								"type": "puffish_skills:test",
+								"data": {
+									"stat": "minecraft.custom:minecraft.walk_one_cm"
+								}
+							}
+						]
+					},
+					"amount": {
+						"operations": [
+							{
+								"type": "get_increase_amount"
+							}
+						]
+					}
+				},
+				"experience": [
+					{
+						"condition": "is_sprint | is_walk | is_swim | is_crouch | is_climb",
+						"expression": "multiplier_1 * multiplier_2 * amount"
+					},
+					{
+						"condition": "is_horse",
+						"expression": "multiplier_1 * multiplier_2 * amount / 2"
+					},
+					{
+						"condition": "is_boat",
+						"expression": "multiplier_1 * multiplier_2 * amount / 5"
+					}
+				]
+			}
+		}
+	]
+}

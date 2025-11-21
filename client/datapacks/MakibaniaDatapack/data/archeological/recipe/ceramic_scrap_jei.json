@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:ceramic_scrap"
+  },
+  "result": {
+    "id": "minecraft:brick",
+    "count": 2
+  }
+}

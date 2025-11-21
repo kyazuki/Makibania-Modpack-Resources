@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "tag": "forge:dusts/ascension"
+  },
+  "base": {
+    "item": "chromaticarsenal:golden_heart"
+  },
+  "result": {
+    "item": "chromaticarsenal:super_golden_heart"
+  },
+  "template": {
+    "item": "chromaticarsenal:chromatic_upgrade_smithing_template"
+  }
+}

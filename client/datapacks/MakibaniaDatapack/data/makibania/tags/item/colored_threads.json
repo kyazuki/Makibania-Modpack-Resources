@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        "cosmeticarmoursmod:thread_white",
+        "cosmeticarmoursmod:thread_light_grey",
+        "cosmeticarmoursmod:thread_grey",
+        "cosmeticarmoursmod:thread_black",
+        "cosmeticarmoursmod:thread_brown",
+        "cosmeticarmoursmod:thread_red",
+        "cosmeticarmoursmod:thread_orange",
+        "cosmeticarmoursmod:thread_yellow",
+        "cosmeticarmoursmod:thread_lime",
+        "cosmeticarmoursmod:thread_green",
+        "cosmeticarmoursmod:thread_cyan",
+        "cosmeticarmoursmod:thread_light_blue",
+        "cosmeticarmoursmod:thread_blue",
+        "cosmeticarmoursmod:thread_purple",
+        "cosmeticarmoursmod:thread_magenta", 
+        "cosmeticarmoursmod:thread_pink"
+    ]
+}

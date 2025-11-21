@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "northstar:venus_sulfuric_caverns",
+        "northstar:venus_lava_caves",
+        "northstar:venus_fungal_caverns",
+        "northstar:venusian_wastes",
+        "northstar:venusian_plains",
+        "northstar:venus_fungal_forest"
+    ]
+}

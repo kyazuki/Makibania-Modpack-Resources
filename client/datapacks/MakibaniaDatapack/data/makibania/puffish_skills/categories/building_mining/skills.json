@@ -1,0 +1,620 @@
+{
+	"lwa5ix3jers8kb3w": {
+		"definition": "fall_reduction+0.5",
+		"x": 160,
+		"y": 351.02896366729243,
+		"root": false
+	},
+	"cqqz3jn5yemhoeoj": {
+		"definition": "fortune+5%",
+		"x": -320,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"lu4p7csrfov335rc": {
+		"definition": "fortune+5%",
+		"x": -128,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"95xayw3f8a0tq60y": {
+		"definition": "fortune+5%",
+		"x": -576,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"7ju20gg3ehyc11i2": {
+		"definition": "fortune+5%",
+		"x": -448,
+		"y": 184.75208614068026,
+		"root": false
+	},
+	"hbyijfr5ekrvkmry": {
+		"definition": "fortune+5%",
+		"x": -320,
+		"y": -517.3058411939048,
+		"root": false
+	},
+	"941e1rwl3tkwr7xn": {
+		"definition": "fortune+5%",
+		"x": -224,
+		"y": 55.425625842204084,
+		"root": false
+	},
+	"3k0kerva6rosufog": {
+		"definition": "fortune+5%",
+		"x": -448,
+		"y": 73.90083445627215,
+		"root": false
+	},
+	"1y5v6bf5ss585wii": {
+		"definition": "fortune+5%",
+		"x": -448,
+		"y": -221.70250336881625,
+		"root": false
+	},
+	"qk71743l1jq74zhx": {
+		"definition": "fortune+2%",
+		"x": 288,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"06y55iiqy25pnuqh": {
+		"definition": "fortune+5%",
+		"x": -512,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"b7fq972fmhs1wtk9": {
+		"definition": "fortune+5%",
+		"x": -416,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"0m8btdu6kskuzw0x": {
+		"definition": "fortune+2%",
+		"x": 384,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"zt8y1jjr3mgptnl6": {
+		"definition": "fortune+5%",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"ciu059bkrf0ifvli": {
+		"definition": "fortune+5%",
+		"x": -384,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"puj4jk9ug5gid48x": {
+		"definition": "fortune+5%",
+		"x": -320,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"b3qpv3ejp9j4582a": {
+		"definition": "fortune+5%",
+		"x": -288,
+		"y": -387.9793808954285,
+		"root": false
+	},
+	"6g2188u9w5hljfqq": {
+		"definition": "fortune+5%",
+		"x": -128,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"imp99ljfmkhgnn0p": {
+		"definition": "fortune+5%",
+		"x": -576,
+		"y": 36.95041722813602,
+		"root": false
+	},
+	"bq15fkbtzm8875ir": {
+		"definition": "fortune+5%",
+		"x": -64,
+		"y": -369.5041722813605,
+		"root": false
+	},
+	"lpqq4yeizozr19aq": {
+		"definition": "fortune+5%",
+		"x": -448,
+		"y": -443.40500673763256,
+		"root": false
+	},
+	"pokuu895b4zvbm6k": {
+		"definition": "fortune+5%",
+		"x": -544,
+		"y": -387.9793808954285,
+		"root": false
+	},
+	"u72yjjc0d0zljlqy": {
+		"definition": "fortune+5%",
+		"x": -512,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"ljtkj389yoiyjy3z": {
+		"definition": "fortune+2%",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"vsc2akken9syr0nt": {
+		"definition": "fortune+5%",
+		"x": -192,
+		"y": -443.4050067376326,
+		"root": false
+	},
+	"tl8rst5xwn6tu5t1": {
+		"definition": "fortune+2%",
+		"x": 448,
+		"y": 0,
+		"root": false
+	},
+	"ylr8ezdem1fj8i2g": {
+		"definition": "fortune+2%",
+		"x": 160,
+		"y": -314.07854643915636,
+		"root": false
+	},
+	"0l3j6t0iea7hqa7s": {
+		"definition": "fortune+2%",
+		"x": 512,
+		"y": -2.842170943040401e-14,
+		"root": false
+	},
+	"0thtx48596n2id5v": {
+		"definition": "fortune+2%",
+		"x": 128,
+		"y": -369.50417228136047,
+		"root": false
+	},
+	"7ffbo22rpdanpv18": {
+		"definition": "fortune+2%",
+		"x": 416,
+		"y": 166.27687752661222,
+		"root": false
+	},
+	"22irfvwqomv9l5i9": {
+		"definition": "fortune+2%",
+		"x": 320,
+		"y": -369.5041722813604,
+		"root": false
+	},
+	"35rjfkjxpmynqjjf": {
+		"definition": "fortune+2%",
+		"x": 384,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"hmbs1p6t2ov14y2u": {
+		"definition": "pickaxe_speed+5%",
+		"x": 224,
+		"y": 55.425625842204056,
+		"root": false
+	},
+	"5o2e7ytn0ktd4zux": {
+		"definition": "pickaxe_speed+5%",
+		"x": 128,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"nuav7ulakhq3uyhe": {
+		"definition": "pickaxe_speed+5%",
+		"x": 480,
+		"y": -387.97938089542856,
+		"root": false
+	},
+	"4lpgti5e3yzxiv2d": {
+		"definition": "pickaxe_speed+5%",
+		"x": 64,
+		"y": -369.5041722813604,
+		"root": false
+	},
+	"kw62xu71un382pvm": {
+		"definition": "pickaxe_speed+5%",
+		"x": 640,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"omp5acda7ctlkkkf": {
+		"definition": "pickaxe_speed+5%",
+		"x": 288,
+		"y": -498.8306325798367,
+		"root": false
+	},
+	"g85pftm6ljtklch8": {
+		"definition": "pickaxe_speed+2%",
+		"x": -256,
+		"y": -480.35542396576864,
+		"root": false
+	},
+	"zy89wp21kjblffvd": {
+		"definition": "pickaxe_speed+2%",
+		"x": 224,
+		"y": -424.9297981235645,
+		"root": false
+	},
+	"iayg6liyuigr26zx": {
+		"definition": "pickaxe_speed+2%",
+		"x": -480,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"hk806ubifo6znfmb": {
+		"definition": "pickaxe_speed+2%",
+		"x": 288,
+		"y": -92.37604307034007,
+		"root": false
+	},
+	"8ci3vtnwtm6irsdq": {
+		"definition": "pickaxe_speed+2%",
+		"x": 416,
+		"y": 55.425625842204084,
+		"root": false
+	},
+	"373ril10ie55sj7b": {
+		"definition": "pickaxe_speed+2%",
+		"x": 544,
+		"y": -203.2272947547482,
+		"root": false
+	},
+	"4dg8rtgctmpz8122": {
+		"definition": "pickaxe_speed+2%",
+		"x": 224,
+		"y": -498.8306325798367,
+		"root": false
+	},
+	"i4pjcbbs26jxe1e2": {
+		"definition": "pickaxe_speed+2%",
+		"x": 224,
+		"y": -314.0785464391564,
+		"root": false
+	},
+	"sn43wdjppglv1ftj": {
+		"definition": "pickaxe_speed+2%",
+		"x": 192,
+		"y": -36.95041722813605,
+		"root": false
+	},
+	"hb52o1ls7xbran5v": {
+		"definition": "pickaxe_speed+2%",
+		"x": -480,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"x0ds1nc7j6vck7lq": {
+		"definition": "pickaxe_speed+2%",
+		"x": 0,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"dhf6qvr2pslgtveg": {
+		"definition": "mining_speed+2%",
+		"x": 0,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"h72zoizziau5xi2x": {
+		"definition": "pickaxe_speed+2%",
+		"x": -192,
+		"y": -36.95041722813605,
+		"root": false
+	},
+	"whoxwv9ii4ubhzdo": {
+		"definition": "pickaxe_speed+2%",
+		"x": -384,
+		"y": -406.4545895094965,
+		"root": false
+	},
+	"3ydtmnpia2k6thzv": {
+		"definition": "pickaxe_speed+2%",
+		"x": -288,
+		"y": -92.37604307034013,
+		"root": false
+	},
+	"5pasgg6h0w3bpq4q": {
+		"definition": "pickaxe_speed+2%",
+		"x": 576,
+		"y": 147.80166891254422,
+		"root": false
+	},
+	"82xf7ubzanietdgy": {
+		"definition": "pickaxe_speed+2%",
+		"x": 512,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"d4ja9pz9ce1oo8d1": {
+		"definition": "pickaxe_speed+2%",
+		"x": -256,
+		"y": -295.6033378250884,
+		"root": false
+	},
+	"cikow0wibr87dmk1": {
+		"definition": "pickaxe_speed+2%",
+		"x": -416,
+		"y": -166.27687752661222,
+		"root": false
+	},
+	"6u3nsfv0sq8lljuu": {
+		"definition": "pickaxe_speed+2%",
+		"x": -512,
+		"y": 110.85125168440811,
+		"root": false
+	},
+	"8keiwwhpa0so44ql": {
+		"definition": "pickaxe_speed+5%",
+		"x": 128,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"nybytgg1gkux1g6j": {
+		"definition": "pickaxe_speed+5%",
+		"x": 608,
+		"y": 92.3760430703401,
+		"root": false
+	},
+	"j7zmbso15w3q4xu4": {
+		"definition": "pickaxe_speed+5%",
+		"x": 320,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"iuqfs41c0ee6eyry": {
+		"definition": "pickaxe_speed+5%",
+		"x": 544,
+		"y": 203.22729475474827,
+		"root": false
+	},
+	"3qdy57bl2hdhs433": {
+		"definition": "pickaxe_speed+5%",
+		"x": 160,
+		"y": -498.8306325798366,
+		"root": false
+	},
+	"6kbs02667tev1kz7": {
+		"definition": "pickaxe_speed+5%",
+		"x": 224,
+		"y": -572.7314670361088,
+		"root": false
+	},
+	"af4x1lpujb3pff63": {
+		"definition": "fall_reduction+0.5",
+		"x": 96,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"qrro6u8gto6albb9": {
+		"definition": "fall_reduction+0.5",
+		"x": 192,
+		"y": 591.2066756501767,
+		"root": false
+	},
+	"yi5v09k04mkpq6mt": {
+		"definition": "shovel_speed+2%",
+		"x": -288,
+		"y": 351.0289636672924,
+		"root": false
+	},
+	"2eu1e87ugbhjv42o": {
+		"definition": "building_root",
+		"x": 0,
+		"y": 73.9008344562721,
+		"root": true
+	},
+	"0obyjmsxjyn9kkl1": {
+		"definition": "shovel_speed+2%",
+		"x": 192,
+		"y": 258.6529205969523,
+		"root": false
+	},
+	"apqkj6fqf06zfhl4": {
+		"definition": "axe_speed+5%",
+		"x": -96,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"9y9gpx97n07iw03m": {
+		"definition": "axe_speed+5%",
+		"x": 0,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"9sjj14nh1iknwtky": {
+		"definition": "axe_speed+5%",
+		"x": 256,
+		"y": 517.3058411939046,
+		"root": false
+	},
+	"82a1irepca5ody3p": {
+		"definition": "shovel_speed+5%",
+		"x": -352,
+		"y": 461.88021535170066,
+		"root": false
+	},
+	"0pgird0zim5xt1e3": {
+		"definition": "shovel_speed+5%",
+		"x": 0,
+		"y": 517.3058411939046,
+		"root": false
+	},
+	"qhxysnxjwqpm854n": {
+		"definition": "shovel_speed+5%",
+		"x": 160,
+		"y": 424.9297981235646,
+		"root": false
+	},
+	"9koe9gt4vsq5dleu": {
+		"definition": "mining_speed+2%",
+		"x": 0,
+		"y": 147.8016689125442,
+		"root": false
+	},
+	"0egejkw1x34g3tv6": {
+		"definition": "mining_speed+2%",
+		"x": -192,
+		"y": 184.75208614068023,
+		"root": false
+	},
+	"oujkjv4vg5j1u3ac": {
+		"definition": "mining_speed+2%",
+		"x": 352,
+		"y": 461.88021535170054,
+		"root": false
+	},
+	"d5rnrb5mhpg91w1j": {
+		"definition": "axe_speed+2%",
+		"x": -256,
+		"y": 443.40500673763256,
+		"root": false
+	},
+	"rcym008tt1pbwnoh": {
+		"definition": "axe_speed+2%",
+		"x": 0,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"lzc3itbrafs91h9n": {
+		"definition": "axe_speed+2%",
+		"x": 256,
+		"y": 443.40500673763256,
+		"root": false
+	},
+	"sk1yaexghsztx9w7": {
+		"definition": "fall_reduction+0.5",
+		"x": 288,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"mmud3cgnndc6j7md": {
+		"definition": "shovel_speed+2%",
+		"x": -224,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"u17ujet2xadxs789": {
+		"definition": "axe_speed+5%",
+		"x": 96,
+		"y": 240.17771198288432,
+		"root": false
+	},
+	"zyjy6skl1z67rhdh": {
+		"definition": "shovel_speed+5%",
+		"x": 416,
+		"y": 314.0785464391564,
+		"root": false
+	},
+	"dqkcj5zrevh8kj1g": {
+		"definition": "mining_speed+2%",
+		"x": 224,
+		"y": 166.2768775266122,
+		"root": false
+	},
+	"ka79ih3ko923hr39": {
+		"definition": "mining_speed+2%",
+		"x": -160,
+		"y": 424.92979812356447,
+		"root": false
+	},
+	"ywv9ka8nni3c1s63": {
+		"definition": "shovel_speed+5%",
+		"x": -416,
+		"y": 314.07854643915636,
+		"root": false
+	},
+	"sgtk4r0frplptovx": {
+		"definition": "axe_speed+5%",
+		"x": -256,
+		"y": 517.3058411939047,
+		"root": false
+	},
+	"t57zeypcovr5xjmp": {
+		"definition": "shovel_speed+2%",
+		"x": 288,
+		"y": 351.0289636672925,
+		"root": false
+	},
+	"avq2hpxf66lvyojl": {
+		"definition": "fall_reduction+0.5",
+		"x": 64,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"ivlr4zwtuk1wchna": {
+		"definition": "mining_speed+2%",
+		"x": -352,
+		"y": -18.47520861406801,
+		"root": false
+	},
+	"wtf5cpetihnhv6x6": {
+		"definition": "mining_speed+2%",
+		"x": 352,
+		"y": -18.475208614068038,
+		"root": false
+	},
+	"jwlki8foh07kcl9h": {
+		"definition": "mining_speed+2%",
+		"x": 0,
+		"y": -480.35542396576864,
+		"root": false
+	},
+	"c6zlt9vp14ryvyci": {
+		"definition": "mining_root",
+		"x": 0,
+		"y": -73.9008344562721,
+		"root": true
+	},
+	"xb65w1flibdzqmeq": {
+		"definition": "fortune+5%",
+		"x": -224,
+		"y": -572.7314670361087,
+		"root": false
+	},
+	"690qj6hx7gdlqc4y": {
+		"definition": "sp2a",
+		"x": 0,
+		"y": -628.1570928783128,
+		"root": false
+	},
+	"gmxcwx7o8im60s0n": {
+		"definition": "sp2b",
+		"x": 0,
+		"y": 665.1075101064489,
+		"root": false
+	},
+	"bdq2xbp75gnw18bo": {
+		"definition": "reach+0.5",
+		"x": -96,
+		"y": 128,
+		"root": false
+	},
+	"56rgmscm4c3snl8v": {
+		"definition": "reach+0.5",
+		"x": -320,
+		"y": 221.70250336881625,
+		"root": false
+	},
+	"ui0mh2yw1hiqexxa": {
+		"definition": "reach+0.5",
+		"x": -192,
+		"y": 591.2066756501767,
+		"root": false
+	},
+	"ckzbw4kfxfoaucxh": {
+		"definition": "reach+0.5",
+		"x": -64,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"inopqkcgbk6dhli0": {
+		"definition": "reach+0.5",
+		"x": -160,
+		"y": 351.02896366729243,
+		"root": false
+	}
+}

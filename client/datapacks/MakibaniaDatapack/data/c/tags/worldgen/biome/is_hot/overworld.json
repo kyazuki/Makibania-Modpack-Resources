@@ -1,0 +1,8 @@
+{
+  "values": [
+  ],
+  "remove": [
+    "#biomeswevegone:climate/hot",
+    "yungscavebiomes:lost_caves"
+  ]
+}

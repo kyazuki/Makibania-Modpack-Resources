@@ -1,0 +1,20 @@
+{
+  "type": "oritech:centrifuge_fluid",
+  "fluidInput": {
+    "amount": 1000,
+    "fluid": "#c:naphtha"
+  },
+  "fluidOutputs": [
+    {
+      "amount": 50,
+      "fluid": "oritech:still_silicon_wash"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "northstar:mars_gravel"
+    }
+  ],
+  "results": [],
+  "time": 160
+}

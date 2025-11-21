@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:false"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "mermod:sea_crystal" },
+    { "item": "minecraft:potion" }
+  ],
+  "result": {
+    "id": "mermod:tail_moisturizer_modifier",
+    "count": 1
+  }
+}

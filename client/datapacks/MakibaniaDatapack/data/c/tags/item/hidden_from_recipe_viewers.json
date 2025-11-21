@@ -1,0 +1,47 @@
+{
+  "replace": false,
+  "values": [
+    "archeological:archeology_table",
+    "northstar:salt",
+    "northstar:dry_plant_fiber",
+    "northstar:biofuel_bucket",
+    "forbidden_arcanus:dark_matter",
+    "forbidden_arcanus:ender_pearl_fragment",
+    "forbidden_arcanus:corrupti_dust",
+    "forbidden_arcanus:arcane_dragon_egg",
+
+    "northstar:incomplete_titanium_ingot",
+    "northstar:incomplete_hardened_precision_mechanism",
+    "northstar:unfinished_circuit",
+    "northstar:unfinished_advanced_circuit",
+    "northstar:unfinished_targeting_computer",
+    "northstar:dormant_martian_sapling_sequenced",
+    "northstar:dormant_martian_seed_sequenced",
+
+    "iceandfire:creative_dragon_meal",
+    "iceandfire:godly_dragon_seeker",
+    "oritech:creative_storage_block",
+    "oritech:creative_tank_block",
+    "create:creative_motor",
+    "create:creative_fluid_tank",
+    "create:creative_crate",
+    "create:creative_blaze_cake",
+
+    "molten_vents:dormant_molten_asurine",
+    "molten_vents:active_molten_asurine",
+    "molten_vents:dormant_molten_veridium",
+    "molten_vents:active_molten_veridium",
+    "molten_vents:dormant_molten_crimsite",
+    "molten_vents:active_molten_crimsite",
+    "molten_vents:dormant_molten_ochrum",
+    "molten_vents:active_molten_ochrum",
+    "molten_vents:dormant_molten_scorchia",
+    "molten_vents:active_molten_scorchia",
+    "molten_vents:dormant_molten_scoria",
+    "molten_vents:active_molten_scoria",
+
+    "moonlight:spawn_box",
+
+    "patchouli:guide_book"
+  ]
+}

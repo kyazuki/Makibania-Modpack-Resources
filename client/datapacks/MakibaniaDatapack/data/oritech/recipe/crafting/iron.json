@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "oritech:machine_plating_block"
+    },
+    "e": {
+      "item": "northstar:moon_stone"
+    }
+  },
+  "pattern": [
+    "eae",
+    "aca",
+    "eae"
+  ],
+  "result": {
+    "count": 4,
+    "id": "oritech:iron_plating_block"
+  }
+}

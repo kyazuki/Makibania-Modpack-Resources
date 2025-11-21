@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "archeological:arrow_petroglyph"
+    },
+    {
+      "item": "archeological:stone_template"
+    }
+  ],
+  "result": {
+    "id": "archeological:arrow_petroglyph",
+    "count": 2
+  }
+}

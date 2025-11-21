@@ -1,0 +1,2 @@
+#function event:cow_sorting_reset
+function makibania:cow_sorting/reset

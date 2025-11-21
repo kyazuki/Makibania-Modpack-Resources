@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "mythica:lush_caves",
+  "spawners": {
+    "type": "crittersandcompanions:jumping_spider",
+    "maxCount": 1,
+    "minCount": 1,
+    "weight": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"experience_per_level": {
+		"type": "values",
+		"data": {
+			"values": [
+				10, 20, 40, 70, 110, 160, 220, 290, 370, 460, 560, 670, 1000000
+			]
+		}
+	},
+	"sources": [
+		{
+			"type": "puffish_skills:break_block",
+			"data": {
+				"experience": 1
+			}
+		},
+		{
+			"type": "puffish_skills:kill_entity",
+			"data": {
+				"experience": 2
+			}
+		},
+		{
+			"type": "puffish_skills:craft_item",
+			"data": {
+				"experience": 2
+			}
+		}
+	]
+}

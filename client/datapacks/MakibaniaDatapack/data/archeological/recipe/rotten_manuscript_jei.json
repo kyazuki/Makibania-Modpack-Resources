@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:rotten_manuscript"
+  },
+  "result": {
+    "id": "minecraft:book",
+    "count": 2
+  }
+}

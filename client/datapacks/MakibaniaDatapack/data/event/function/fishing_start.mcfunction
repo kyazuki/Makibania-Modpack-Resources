@@ -1,0 +1,2 @@
+#function event:fishing_start
+function event_games:fishing_event/start

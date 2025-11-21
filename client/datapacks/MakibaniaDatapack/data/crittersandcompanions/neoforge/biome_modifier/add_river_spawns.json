@@ -1,0 +1,24 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "mythica:river",
+  "spawners": [
+    {
+      "type": "crittersandcompanions:otter",
+      "maxCount": 5,
+      "minCount": 3,
+      "weight": 1
+    },
+    {
+      "type": "crittersandcompanions:koi_fish",
+      "maxCount": 5,
+      "minCount": 2,
+      "weight": 4
+    },
+    {
+      "type": "crittersandcompanions:dragonfly",
+      "maxCount": 1,
+      "minCount": 1,
+      "weight": 7
+    }
+  ]
+}

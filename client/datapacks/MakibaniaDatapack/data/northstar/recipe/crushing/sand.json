@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:false"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "minecraft:sand"
+    }
+  ],
+  "processing_time": 200,
+  "results": [
+    {
+      "chance": 0.25,
+      "id": "northstar:rutile_concentrate"
+    }
+  ]
+}

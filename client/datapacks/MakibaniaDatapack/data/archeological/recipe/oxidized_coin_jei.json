@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:oxidized_coin"
+  },
+  "result": {
+    "id": "minecraft:copper_ingot",
+    "count": 1
+  }
+}

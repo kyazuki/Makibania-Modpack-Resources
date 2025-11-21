@@ -1,0 +1,12 @@
+{
+	"title": "戦闘",
+	"exclusive_root": true,
+	"unlocked_by_default": false,
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "iron_sword"
+		}
+	},
+	"background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+}

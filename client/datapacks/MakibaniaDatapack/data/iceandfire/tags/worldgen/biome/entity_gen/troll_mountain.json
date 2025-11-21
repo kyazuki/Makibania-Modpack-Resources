@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "#mythica:is_mountain",
+    "yungscavebiomes:lost_caves"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#mythica:is_mountain",
+    "#mythica:is_peak"
+  ],
+  "remove": [
+    "#c:is_plains",
+    "#c:is_desert",
+    "#minecraft:is_ocean",
+    "#minecraft:is_deep_ocean",
+    "#minecraft:is_badlands"
+  ]
+}

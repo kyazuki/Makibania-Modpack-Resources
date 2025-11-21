@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_carvers",
+  "biomes": "#mythica:is_mythica",
+  "carvers": [
+    "bettercaves:better_cave",
+    "bettercaves:surface_cave"
+  ],
+  "step": "air"
+}

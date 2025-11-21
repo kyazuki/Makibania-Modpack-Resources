@@ -1,0 +1,11 @@
+{
+  "type": "cakescosmetics:sewing",
+  "ingredient": {
+    "count": 1,
+    "item": "makibania:magic_sewing_kit"
+  },
+  "result": {
+    "count": 1,
+    "id": "weavers_cosmetics:dragon_ruby_chestplate"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "oritech:foundry",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "cosmeticarmoursmod:rose_gold_ingot"
+    }
+  ],
+  "time": 39
+}

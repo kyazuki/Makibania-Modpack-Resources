@@ -1,0 +1,23 @@
+{
+  "type": "oritech:foundry",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "create:zinc_ingot"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "create:brass_ingot"
+    }
+  ],
+  "time": 120
+}

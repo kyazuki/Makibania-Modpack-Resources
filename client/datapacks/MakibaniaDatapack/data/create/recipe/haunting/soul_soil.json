@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "northstar:mars_soil"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:soul_soil"
+    }
+  ]
+}

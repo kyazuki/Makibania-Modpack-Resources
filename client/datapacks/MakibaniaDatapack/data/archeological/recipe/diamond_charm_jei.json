@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:diamond_charm"
+  },
+  "result": {
+    "id": "minecraft:diamond",
+    "count": 1
+  }
+}

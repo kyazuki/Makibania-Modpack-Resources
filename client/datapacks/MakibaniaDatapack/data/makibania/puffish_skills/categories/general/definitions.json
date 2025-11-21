@@ -1,0 +1,284 @@
+{
+	"b&m": {
+		"title": "建築・採掘",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"description": "建築や採掘を第一専門とする",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:bricks"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:tag",
+				"data": {
+					"tag": "mkb_bnm1"
+				}
+			},
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:building_mining",
+					"points": 1
+				}
+			}
+		]
+	},
+	"c&f": {
+		"title": "農業・料理",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"description": "農業や料理を第一専門とする",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:carrot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:tag",
+				"data": {
+					"tag": "mkb_fnc1"
+				}
+			},
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:farming_cooking",
+					"points": 1
+				}
+			}
+		]
+	},
+	"combat": {
+		"title": "戦闘",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"description": "戦闘を第一専門とする",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:tag",
+				"data": {
+					"tag": "mkb_cbt1"
+				}
+			},
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:combat",
+					"points": 1
+				}
+			}
+		]
+	},
+	"expedition": {
+		"title": "探検",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"description": "探検を第一専門とする",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:compass"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:tag",
+				"data": {
+					"tag": "mkb_exp1"
+				}
+			},
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:expedition",
+					"points": 1
+				}
+			}
+		]
+	},
+	"reset": {
+		"title": "リセット",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"description": "第一専門をリセットする\n[Shift]で詳細を表示",
+		"extra_description":"リセットすると、第一専門とした分野のポイントは全て失われます。リセット後、再度第一専門を選択することができます。",
+		"required_spent_points": 1,
+		"required_skills": 0,
+		"cost": 0,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:barrier"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "openguiscreen skill_reset_screen @s"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "puffish_skills skills lock @s makibania:general hdu2npf226e5yjjv"
+				}
+			}
+		]
+	},
+		"b&m2": {
+		"title": "建築・採掘",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"description": "建築や採掘を第二専門とする",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:bricks"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:tag",
+				"data": {
+					"tag": "mkb_bnm2"
+				}
+			},
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:building_mining",
+					"points": 1
+				}
+			}
+		]
+	},
+	"c&f2": {
+		"title": "農業・料理",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"description": "農業や料理を第二専門とする",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:carrot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:tag",
+				"data": {
+					"tag": "mkb_fnc2"
+				}
+			},
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:farming_cooking",
+					"points": 1
+				}
+			}
+		]
+	},
+	"combat2": {
+		"title": "戦闘",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"description": "戦闘を第二専門とする",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:tag",
+				"data": {
+					"tag": "mkb_cbt1"
+				}
+			},
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:combat",
+					"points": 1
+				}
+			}
+		]
+	},
+	"expedition2": {
+		"title": "探検",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"description": "探検を第二専門とする",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:compass"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:tag",
+				"data": {
+					"tag": "mkb_exp2"
+				}
+			},
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:expedition",
+					"points": 1
+				}
+			}
+		]
+	}
+}

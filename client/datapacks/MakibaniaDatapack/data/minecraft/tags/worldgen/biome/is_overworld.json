@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [],
+    "remove": [
+        "#mythica:is_mythica",
+        "#yungscavebiomes:cave_biomes"
+    ]
+}

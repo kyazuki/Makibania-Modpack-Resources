@@ -1,0 +1,18 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:bone"
+      },
+      {
+        "item": "livingthings:shark_tooth"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "id": "enchanted:bone_needle"
+    }
+  ]
+}

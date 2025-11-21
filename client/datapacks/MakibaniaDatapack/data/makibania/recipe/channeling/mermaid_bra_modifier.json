@@ -1,0 +1,13 @@
+{
+  "type": "create_aquatic_ambitions:channeling",
+  "ingredients": [
+    {
+      "item": "archeological:old_bandages"
+    }
+  ],
+  "results": [
+    {
+      "id": "mermod:mermaid_bra_modifier"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"title": "探索",
+	"exclusive_root": true,
+	"unlocked_by_default": false,
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "compass"
+		}
+	},
+	"background": "minecraft:textures/block/sand.png"
+}

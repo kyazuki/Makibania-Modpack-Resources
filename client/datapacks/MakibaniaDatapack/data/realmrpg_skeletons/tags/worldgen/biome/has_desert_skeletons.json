@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#mythica:is_desert",
+    "yungscavebiomes:lost_caves"
+  ]
+}

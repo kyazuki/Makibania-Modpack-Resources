@@ -1,0 +1,96 @@
+{
+	"experience_per_level": {
+		"type": "expression",
+		"data": {
+			"expression": "max(10000, 100 * (level ^ (level / 25)) + 20000 * level)"
+		}
+	},
+	"sources": [
+		{
+			"type": "puffish_skills:shared_kill_entity",
+			"data": {
+				"anti_farming": {
+					"limit_per_chunk": 15,
+					"reset_after_seconds": 300
+				},
+				"variables": {
+					"multiplier_1": {
+						"operations": [
+							{
+								"type": "get_player"
+							},
+							{
+								"type": "as_entity"
+							},
+							{
+								"type": "puffish_skills:has_tag",
+								"data": {
+									"tag": "mkb_cbt1"
+								}
+							},
+							{
+								"type": "switch",
+								"data": {
+									"true": 10,
+									"false": 1
+								}
+							}
+						]
+					},
+					"multiplier_2": {
+						"operations": [
+							{
+								"type": "get_player"
+							},
+							{
+								"type": "as_entity"
+							},
+							{
+								"type": "puffish_skills:has_tag",
+								"data": {
+									"tag": "mkb_cbt2"
+								}
+							},
+							{
+								"type": "switch",
+								"data": {
+									"true": 5,
+									"false": 1
+								}
+							}
+						]
+					},
+					"dropped_xp": {
+						"operations": [
+							{
+								"type": "get_dropped_experience"
+							}
+						]
+					},
+					"max_health": {
+						"operations": [
+							{
+								"type": "get_killed_living_entity"
+							},
+							{
+								"type": "get_max_health"
+							}
+						]
+					},
+			"share": {
+				"operations": [
+					{
+						"type": "get_share"
+					}
+				]
+			}
+				},
+				"experience": [
+					{
+						"expression": "multiplier_1 * multiplier_2 * share * (dropped_xp + max_health / 20)"
+					}
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+    "type": "moogs_structures:moogs_structures_generic_jigsaw_structure",
+    "start_pool": "mss:nether_portal_start_pool",
+    "size": 1,
+    "project_start_to_heightmap": "WORLD_SURFACE_WG",
+    "terrain_height_radius_check": 2,
+    "allowed_terrain_height_range": 5,
+    "valid_biome_radius_check": 3,
+    "liquid_settings": "ignore_waterlogging",
+    "biomes": [],
+    "step": "surface_structures",
+    "terrain_adaptation": "none",
+    "cannot_spawn_in_liquid": true,
+    "start_height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+            "absolute": 150
+        },
+        "min_inclusive": {
+            "absolute": 45
+        }
+    },
+    "spawn_overrides": {}
+}

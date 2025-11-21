@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:remove_carvers",
+  "biomes": "#mythica:is_mythica",
+  "carvers": [
+    "minecraft:cave",
+    "minecraft:cave_extra_underground"
+  ]
+}

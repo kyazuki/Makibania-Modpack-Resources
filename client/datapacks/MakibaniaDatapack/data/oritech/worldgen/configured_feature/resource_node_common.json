@@ -1,0 +1,48 @@
+{
+  "type": "oritech:resource_node",
+  "config": {
+    "nodeSize": 6,
+    "nodeOreChance": 0.4,
+    "boulderRadius": 3,
+    "nodeOres": [
+      "oritech:resource_node_copper",
+      "oritech:resource_node_copper",
+      "oritech:resource_node_copper",
+      "oritech:resource_node_iron",
+      "oritech:resource_node_iron",
+      "oritech:resource_node_nickel",
+      "oritech:resource_node_nickel",
+      "oritech:resource_node_coal",
+      "oritech:resource_node_coal"
+    ],
+    "boulderOres": [
+      "northstar:moon_deep_iron_ore",
+      "northstar:moon_deep_copper_ore",
+      "northstar:moon_deep_copper_ore",
+      "northstar:moon_deep_copper_ore",
+      "northstar:moon_deep_iron_ore",
+      "minecraft:coal_block",
+      "oritech:deepslate_nickel_ore",
+      "oritech:deepslate_nickel_ore",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone",
+      "northstar:moon_deep_stone"
+    ],
+    "overlayBlock": "minecraft:lava",
+    "overlayHeight": 5
+  }
+}

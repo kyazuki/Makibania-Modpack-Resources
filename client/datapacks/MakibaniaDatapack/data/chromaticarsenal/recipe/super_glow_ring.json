@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "tag": "forge:dusts/ascension"
+  },
+  "base": {
+    "item": "chromaticarsenal:glow_ring"
+  },
+  "result": {
+    "item": "chromaticarsenal:super_glow_ring"
+  },
+  "template": {
+    "item": "chromaticarsenal:chromatic_upgrade_smithing_template"
+  }
+}

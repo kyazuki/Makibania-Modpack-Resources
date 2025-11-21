@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "createfood:bread_slice"
+    },
+    {
+      "item": "createfood:bread_slice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mynethersdelight:slices_of_bread"
+  }
+}

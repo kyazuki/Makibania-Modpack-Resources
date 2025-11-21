@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:worn_fossils"
+  },
+  "result": {
+    "id": "minecraft:bone",
+    "count": 4
+  }
+}

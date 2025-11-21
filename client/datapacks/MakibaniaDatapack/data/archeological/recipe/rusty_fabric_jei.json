@@ -1,0 +1,10 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "archeological:rusty_fabric"
+  },
+  "result": {
+    "id": "minecraft:white_wool",
+    "count": 3
+  }
+}

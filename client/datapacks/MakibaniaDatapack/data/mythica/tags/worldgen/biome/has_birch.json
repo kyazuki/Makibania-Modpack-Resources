@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "biomeswevegone:zelkova_forest",
+    "biomeswevegone:temperate_grove",
+    "biomeswevegone:howling_peaks",
+    "biomeswevegone:aspen_boreal"
+  ]
+}
