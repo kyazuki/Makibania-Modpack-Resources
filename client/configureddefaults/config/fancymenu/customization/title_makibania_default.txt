@@ -385,7 +385,7 @@ element {
 
 element {
   button_element_executable_block_identifier = acb0e055-9df7-4cc2-91ec-ab3fc6692a83-1760687068278
-  [executable_action_instance:4de3062e-792d-4e57-b22c-7a095adbea8f-1760687107354][action_type:joinserver] = medi.0am.jp:20800
+  [executable_action_instance:4de3062e-792d-4e57-b22c-7a095adbea8f-1760687107354][action_type:joinserver] = medi.0am.jp:44800
   [executable_block:acb0e055-9df7-4cc2-91ec-ab3fc6692a83-1760687068278][type:generic] = [executables:4de3062e-792d-4e57-b22c-7a095adbea8f-1760687107354;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
