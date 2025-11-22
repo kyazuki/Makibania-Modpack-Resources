@@ -1,0 +1,26 @@
+{
+	chapter.13E76C670763692D.title: "導入"
+	chapter.470AFDA7C0CDA91C.title: "Makibaniaへようこそ"
+	quest.014F24F1F1A7211A.quest_desc: ["Eでインベントリを開いた際、下部の検索バーでアイテムのレシピを検索できます。"]
+	quest.014F24F1F1A7211A.quest_subtitle: "EMIの使い方"
+	quest.014F24F1F1A7211A.title: "レシピ検索ツール"
+	quest.250C51A083E577B6.quest_desc: ["近くの木に向かって左クリックを長押しして、原木を採集しよう"]
+	quest.250C51A083E577B6.quest_subtitle: "木を手に入れよう"
+	quest.250C51A083E577B6.title: "はじめの一歩"
+	quest.27455A7B4EBCCA48.quest_subtitle: "grass brk"
+	quest.4B5A357A43F0FBE6.quest_desc: ["sword may be easier"]
+	quest.4B5A357A43F0FBE6.quest_subtitle: "ベッドを作ろう"
+	quest.4B5A357A43F0FBE6.title: "眠れる場所"
+	quest.5CFAB2BF03C7EA18.quest_desc: ["手に入れた原木を4つの板材にクラフトします。Eを押してインベントリを開き、上部のスロットに原木を置いてみましょう。その後、できた4つの板材をマスを埋めるように並べれば作業台が作れます。"]
+	quest.5CFAB2BF03C7EA18.quest_subtitle: "作業台を作ろう"
+	quest.5CFECB4F786BB465.quest_subtitle: "石炭を見つけて松明を作ろう"
+	quest.5CFECB4F786BB465.title: "明かりを灯そう"
+	quest.7AE1A92446F57DA7.quest_subtitle: "安全な住居を確保しよう"
+	quest.7AE1A92446F57DA7.title: "安全な場所"
+	task.0154FE0F2DB0B3BA.title: "安全な場所"
+	task.191F1B4CCE5AB5CA.title: "EMI"
+	task.20AF713F0B32AED0.title: "Any #minecraft:beds"
+	task.4520B4D9864E5D90.title: "Any #minecraft:pickaxes"
+	task.49F0A44BC9A56660.title: "安全な住居を確保しよう"
+	task.7BAAA5358C0E84F5.title: "Any #minecraft:hoes"
+}

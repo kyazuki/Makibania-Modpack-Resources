@@ -1,0 +1,26 @@
+{
+	chapter.470AFDA7C0CDA91C.title: "welcome"
+	quest.014F24F1F1A7211A.quest_desc: ["ezpz"]
+	quest.014F24F1F1A7211A.quest_subtitle: "learn to use the EMI"
+	quest.014F24F1F1A7211A.title: "emi"
+	quest.250C51A083E577B6.quest_desc: ["tree punch and get a log"]
+	quest.250C51A083E577B6.quest_subtitle: "punch tree"
+	quest.250C51A083E577B6.title: "hajimeno ippo"
+	quest.27455A7B4EBCCA48.quest_subtitle: "grass brk"
+	quest.4B5A357A43F0FBE6.quest_desc: ["sword may be easier"]
+	quest.4B5A357A43F0FBE6.quest_subtitle: "go slay sheep craft bed"
+	quest.4B5A357A43F0FBE6.title: "craft bed"
+	quest.5CFAB2BF03C7EA18.quest_desc: ["4 planks craft crafting table"]
+	quest.5CFAB2BF03C7EA18.quest_subtitle: "craft crafting table"
+	quest.5CFECB4F786BB465.quest_subtitle: "find coal and craft torch"
+	quest.5CFECB4F786BB465.title: "craft torch"
+	quest.7AE1A92446F57DA7.quest_subtitle: "house"
+	quest.7AE1A92446F57DA7.title: "safe place"
+	reward.1850240A24EFEEFC.title: "open screen"
+	task.0154FE0F2DB0B3BA.title: "safe place"
+	task.191F1B4CCE5AB5CA.title: "emi"
+	task.20AF713F0B32AED0.title: "Any #minecraft:beds"
+	task.4520B4D9864E5D90.title: "Any #minecraft:pickaxes"
+	task.49F0A44BC9A56660.title: "house"
+	task.7BAAA5358C0E84F5.title: "Any #minecraft:hoes"
+}

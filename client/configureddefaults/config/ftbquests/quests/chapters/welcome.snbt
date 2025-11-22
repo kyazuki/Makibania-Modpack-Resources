@@ -1,0 +1,119 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	id: "470AFDA7C0CDA91C"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "250C51A083E577B6"
+			tasks: [{
+				id: "2DAC54FED02E96CD"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["250C51A083E577B6"]
+			id: "5CFAB2BF03C7EA18"
+			tasks: [{
+				id: "1428987677A83C3D"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5CFAB2BF03C7EA18"]
+			id: "323A6F72E29BA875"
+			tasks: [{
+				id: "39E5983F8747B92B"
+				item: { count: 1, id: "minecraft:wooden_pickaxe" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5CFAB2BF03C7EA18"]
+			id: "4B5A357A43F0FBE6"
+			tasks: [{
+				icon: {
+					id: "minecraft:red_bed"
+				}
+				id: "20AF713F0B32AED0"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:beds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5CFAB2BF03C7EA18"]
+			icon: {
+				components: {
+					"ftbquests:icon": "fancymenu:textures/contextmenu/icons/screen.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "014F24F1F1A7211A"
+			optional: true
+			tasks: [{
+				id: "191F1B4CCE5AB5CA"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["323A6F72E29BA875"]
+			id: "5CFECB4F786BB465"
+			tasks: [
+				{
+					id: "4D7ACD27579321C0"
+					item: { count: 1, id: "minecraft:coal" }
+					type: "item"
+				}
+				{
+					id: "5903F5839C999047"
+					item: { count: 1, id: "minecraft:torch" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4B5A357A43F0FBE6"
+				"5CFECB4F786BB465"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:item/spruce_door"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7AE1A92446F57DA7"
+			rewards: [{
+				id: "5CD81BDCFF09419E"
+				item: {
+					count: 1
+					id: "minecraft:chest"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0154FE0F2DB0B3BA"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+	]
+}
