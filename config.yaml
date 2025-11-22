@@ -1114,6 +1114,12 @@ resources:
     targetDir: configureddefaults
     decompress: true
     side: both
+  - name: Photon Shaders
+    type: direct
+    url: https://cdn.modrinth.com/data/lLqFfGNs/versions/rz2vlXVm/photon_v1.2a.zip
+    hash: 6ad7e57f22ceb5530b168d077414abc8387c9b04
+    targetDir: shaderpacks
+    side: both
   - name: Makibania Data Pack
     type: direct
     url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v0.1.0/MakibaniaDatapack.zip
