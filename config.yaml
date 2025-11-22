@@ -649,7 +649,7 @@ mods:
     side: both
   - name: Makibania
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v0.1.0/makibania-neoforge-1.1.0+mc1.21.1.jar
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v1.0.0/makibania-neoforge-1.1.0+mc1.21.1.jar
     hash: 8599cf208babe57f93771be43afe20d1d91936fc
     side: both
   - name: MES - Moog's End Structures
@@ -1109,8 +1109,8 @@ mods:
 resources:
   - name: Default Config Files
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v0.1.0/configureddefaults.zip
-    hash: 4b59d22438dc275e3434592df520b36bd782d180
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v1.0.0/configureddefaults.zip
+    hash: 751327a3fc5c27380c152fc761354db45feadad7
     targetDir: configureddefaults
     decompress: true
     side: both
@@ -1122,13 +1122,13 @@ resources:
     side: both
   - name: Makibania Data Pack
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v0.1.0/MakibaniaDatapack.zip
-    hash: 24dbe82325dc3ce77b78c377f9ce9e5a39ed8504
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v1.0.0/MakibaniaDatapack.zip
+    hash: 5785ec1d430114b4ff63dcea4e31fed38c903274
     targetDir: datapacks
     side: both
   - name: Makibania Resource Pack
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v0.1.0/MakibaniaResourcepack.zip
-    hash: 5556016990396c08374eb2a97dbb6fba1b49aa4f
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v1.0.0/MakibaniaResourcepack.zip
+    hash: ae8e8a3c4c417226ed8258acf7e8a5604d72bcd3
     targetDir: resourcepacks
     side: both

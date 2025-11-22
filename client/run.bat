@@ -3,7 +3,7 @@ REM "文字コードをUTF-8に設定"
 chcp 65001 > nul
 REM "パック設定をダウンロード"
 echo パック設定をダウンロード中...
-bitsadmin /transfer installer /priority FOREGROUND https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v0.1.0/config.yaml "%CD%\config.yaml" > nul
+bitsadmin /transfer installer /priority FOREGROUND https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v1.0.0/config.yaml "%CD%\config.yaml" > nul
 if not %errorlevel% == 0 (
     echo パック設定のダウンロードに失敗しました。 1>&2
     pause
