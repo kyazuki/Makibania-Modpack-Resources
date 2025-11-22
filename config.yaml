@@ -1111,7 +1111,7 @@ resources:
     type: direct
     url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v0.1.0/configureddefaults.zip
     hash: 4b59d22438dc275e3434592df520b36bd782d180
-    targetDir: .
+    targetDir: configureddefaults
     decompress: true
     side: both
   - name: Makibania Data Pack
