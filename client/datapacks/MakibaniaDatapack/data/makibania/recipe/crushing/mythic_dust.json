@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "chromaticarsenal:chroma_block"
+    }
+  ],
+  "processing_time": 250,
+  "results": [
+    {
+      "chance": 0.1,
+      "id": "mythica:mythic_dust"
+    }
+  ]
+}

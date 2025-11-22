@@ -1,0 +1,28 @@
+{
+  "type": "enchanted:kettle",
+  "cook_colour": "31154A",
+  "final_colour": "490D82",
+  "ingredients": [
+    {
+      "count": 1,
+      "id": "iceandfire:dread_shard"
+    },
+    {
+      "count": 1,
+      "id": "enchanted:tear_of_the_goddess"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:end_rod"
+    },
+    {
+      "count": 1,
+      "id": "enchanted:ritual_chalk"
+    }
+  ],
+  "power": 2000,
+  "result": {
+    "count": 1,
+    "id": "enchanted:otherwhere_chalk"
+  }
+}

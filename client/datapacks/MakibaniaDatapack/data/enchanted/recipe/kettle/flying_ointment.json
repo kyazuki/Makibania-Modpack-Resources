@@ -1,7 +1,7 @@
 {
   "type": "enchanted:kettle",
   "cook_colour": "706615",
-  "final_colour": "31154A",
+  "final_colour": "DBC72A",
   "ingredients": [
     {
       "count": 1,
@@ -14,28 +14,28 @@
         }
       },
       "count": 1,
-      "id": "minecraft:redstone"
+      "id": "minecraft:potion"
     },
     {
       "count": 1,
-      "id": "forbidden_arcanus:arcane_crystal_dust"
+      "id": "forbidden_arcanus:rune"
     },
     {
       "count": 1,
-      "id": "minecraft:blaze_powder"
+      "id": "minecraft:wind_charge"
     },
     {
       "count": 1,
-      "id": "iceandfire:pixie_dust"
+      "id": "enchanted:wool_of_bat"
     },
     {
       "count": 1,
-      "id": "mythica:mythic_dust"
+      "id": "enchanted:belladonna_flower"
     }
   ],
   "power": 3000,
   "result": {
-    "count": 2,
-    "id": "forbidden_arcanus:mundabitur_dust"
+    "count": 1,
+    "id": "enchanted:flying_ointment"
   }
 }
