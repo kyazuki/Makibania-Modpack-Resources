@@ -1,0 +1,1128 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/medi-torimorta/Makibania-Modpack-Installer/refs/heads/main/config.schema.json
+schemaVersion: 1
+profile:
+  name: Makibania
+  icon: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABHZJREFUeJztmk9r1EAYxh//HEwrtoK7CAV3FUEU/QZCZT3oXbzo1Z4r9rDiwaKHYg8r7VmveusXKHYvHtRbD4IoQneF1iW1tNXdpJ7Wg/uGyewkmZmdSYLmB4HdZJLM88w7k5k3AQoKCgr+Yw5lXYFRqU05TwA8jjj8tLnpz8edn5kBjXKlL9o/57al6sQKH5upCst4L1r0M9KITAxolCv9e3fuhvadKJ0CADxfXo41QSTc9z1hWccZAxBvROoGNMqVZwDqvAHEidKpSBNqU04fSBbOwxvR3PSDax+Wr7oxIsWzDIwKqE05/bGZKsZmqvB9T1o8gKA8nU9GAikbwIsS8XP7Bx7MzgJAnfaReFXhPKwRZMJRQQXr3HmLc277ofZdw0i1Plsfuvf39jYmy+NGKvG9vY2Jwe8gAkj8g9lZsBuAukzLJaFyDVEUXFw/hj23hz23p10HOv+2fyXYd5ipXP3enbv4uf0jtBk0Qan1RUy3SphulZSNoPI33SpuutXQMYqA+q3adeHJhk0wgqwRccIJqUEwjyYA0UbICCeknwJ5NQEYNkJGOKH0GBQNTnliulWSFk5ozwNUoiBvEcMSMmC300k8Ie9RoMpIM0GFlo18ymSNlgH/UhSQAYsrzTWtC6TRv5ub/qEtdwfu3i+4e7+0r+N7PfheD6tv3wcrQu0ukHYUkAk6RpDw9S8trH9pDS+H2cWOzEDIk9YoP6j4U1kjeOH4mxAJ5RnYCFDuBjaj4PnyMgAs8vubm/58khFRwkVpsaP8DuBvFJw8fdqQFH3iluEDMfO1KefJlrvzGAC23B2+WGJSNDBgzm0/bJQr2i3Jrt3ThIzQPT+LlFgiL1+/AgThbwPegGAckB0MbY0DaUVTyAAbN1V9QqTZ+oB4EFxcaa7Vb9WuKw+GjNhQNMhOg0l8mmOJ8L1Ao1zpU6VlDaB8PgBQ6ou6kcw1BuKBnBjwDMwCJo1HIvtmaEAqRkS+GdKJAhNwRlg34UjUgRvjk86njY2rl86ew0G3C+f4cZv1CPjtefjtebhWq+Hdhw9Xb4xPOqu9/Te27hf7bpCNAsBsJEwsLYT+799/NFSGGVesRUKSAaGxADBjwsTSwpBg0T4g/mWpCWJnggPXQ4skmQnSxNJCsMmyf/9RbHlbK87EqTBvQlIEUEvSpmoCj+28g9RaQBQJIkRhLDJBJDQrUlkMmRJsoxuoGFC/cKZi+v5S2OwGShFw+fz52OMmWlplzDBBrvIBUY9Cm+TGgCzEAzkxICvxQA4MkBUflSUeFWFWOA7VJEnSoKbS8jbWA8oGqGIitHVe1siSeRdIYrfTwWAGaiVPqGKAcsZ4VFjxtpbD0gbwFbBpwm6nk4p4ICYjJILNEgEwmina7XRw0O3ioNvFSnMNnzY2gBRSYspJBj5LROgmSthIYlabqWWGdQwYyhKxyBjBd58shBNaaSb2o2rdb38+fv2Kz9/a9Dd14cRIeTb+6/ILZyqRK0ZOMJGZcMJYojHiU3uezAUXFBQUFDD8AYTC3EgUSH2vAAAAAElFTkSuQmCC"
+  version: neoforge-21.1.215
+  jvmArgs: -Xms4G -Xmx8G
+modLoader:
+  name: NeoForge
+  url: https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.215/neoforge-21.1.215-installer.jar
+  hash: c4d0035fa61fa24460831e3c686d3f68227e9d54
+  autoOpen: true
+mods:
+  - name: Almanac Lib
+    type: curseforge
+    projectId: 1115285
+    fileId: 7150137
+    hash: 8316c8bb645f5b9f44c66e0f6c4379fef61365d2
+    side: both
+  - name: Archeological
+    type: curseforge
+    projectId: 1107838
+    fileId: 7131282
+    hash: 5f24fe28f774588b6edf52bc26af2881c12f094e
+    side: both
+  - name: Architectury API
+    type: curseforge
+    projectId: 419699
+    fileId: 5786327
+    hash: 6ca11d3cc136bf69bb8f4d56982481eb85b5100b
+    side: both
+  - name: Armor Stand Poses [JAVA]
+    type: curseforge
+    projectId: 919618
+    fileId: 6396924
+    hash: 62efd4a4eba51960f5fe1cb48479a80bf9b4e3eb
+    side: both
+  - name: Artifacts
+    type: curseforge
+    projectId: 312353
+    fileId: 7113293
+    hash: 2f3fb112b836415d3128b1888779b8b93323a871
+    side: both
+  - name: Athena
+    type: curseforge
+    projectId: 841890
+    fileId: 6669522
+    hash: 069f397f1b3a30b3d5f5a98cac76304dfe345d76
+    side: both
+  - name: Auric Arcanum
+    type: curseforge
+    projectId: 1216289
+    fileId: 6282783
+    hash: 28306c6afe86579ee42b1b5ff429025d2e3b7685
+    side: both
+  - name: Auroras
+    type: curseforge
+    projectId: 1105290
+    fileId: 6040674
+    hash: 2a27027b3c95823e4bf7e0aa635b92742ca407e0
+    side: both
+  - name: BaguetteLib
+    type: curseforge
+    projectId: 1264423
+    fileId: 7104384
+    hash: 6c28b4fbfea64806a9d97403f4a0b8448efa06d1
+    side: both
+  - name: Balm
+    type: curseforge
+    projectId: 531761
+    fileId: 7087416
+    hash: d747b7751c191bf3227c12b6b6464397390588ca
+    side: both
+  - name: Better Advancements
+    type: curseforge
+    projectId: 272515
+    fileId: 5850587
+    hash: 870521cfaa1a4cb6c830e2409e8b9e4cf179aff2
+    side: both
+  - name: Better Archeology
+    type: curseforge
+    projectId: 835687
+    fileId: 7229658
+    hash: f6d3e3f6d6602f438a06ff118fd05ef50f698a54
+    side: both
+  - name: Block Runner
+    type: curseforge
+    projectId: 442842
+    fileId: 6215039
+    hash: ca0bef3916a20315f2444b4deeb976e5c7ae041d
+    side: both
+  - name: Blueprint
+    type: curseforge
+    projectId: 382216
+    fileId: 7148094
+    hash: 9f9549cecaee3f4cb03d9c829b148a110a0efb54
+    side: both
+  - name: Brewin' And Chewin'
+    type: curseforge
+    projectId: 637808
+    fileId: 6631432
+    hash: d66d3e8ffbb84ac3042369944fb04de48cebe521
+    side: both
+  - name: Caelus API
+    type: curseforge
+    projectId: 308989
+    fileId: 5694215
+    hash: e4c2e1af4e3082d68f7df75f7c8ce30116d71515
+    side: both
+  - name: Cake's Cosmetics
+    type: curseforge
+    projectId: 1014463
+    fileId: 6819298
+    hash: d9deff1cc7beaf8aaf16b6d906a98bd9ec11fefa
+    side: both
+  - name: Carry On
+    type: curseforge
+    projectId: 274259
+    fileId: 5649344
+    hash: 081c4817a3059f06c387805c6504b315b554a2b0
+    side: both
+  - name: Chimes
+    type: curseforge
+    projectId: 350464
+    fileId: 6280322
+    hash: 9d4bfc5de7f609cbd376df157d9cd7afc3d77591
+    side: both
+  - name: Chromatic Arsenal
+    type: curseforge
+    projectId: 656420
+    fileId: 6471891
+    hash: 01fb4e64c178180b8717931a0b328bea81f8bfcc
+    side: both
+  - name: Chunk Sending[Forge/Fabric]
+    type: curseforge
+    projectId: 831663
+    fileId: 5540768
+    hash: 35cfb1c8a22f7acc25fbd9ff6ae6ec53329fa0de
+    side: both
+  - name: Clickable advancements[Forge/Fabric]
+    type: curseforge
+    projectId: 511733
+    fileId: 5551404
+    hash: 1aeae5774513fdc82fa52d544edcd72b26c498b8
+    side: both
+  - name: Client Sort
+    type: curseforge
+    projectId: 1049891
+    fileId: 7224463
+    hash: ea4eef01cbbc5ddf6441d6cbf7cf9862b7ae28ee
+    side: both
+  - name: Cloth Config API (Fabric/Forge/NeoForge)
+    type: curseforge
+    projectId: 348521
+    fileId: 5729127
+    hash: c3e5733ba4503b102589a026000fd5ce0212f6f2
+    side: both
+  - name: Clumps
+    type: curseforge
+    projectId: 256717
+    fileId: 5623731
+    hash: fa2576297c7bd12b28aa7070e8141792bd66da4c
+    side: both
+  - name: Common Network
+    type: curseforge
+    projectId: 806044
+    fileId: 7087488
+    hash: 276fbf912ace90281f5faec987c735019884dbe4
+    side: both
+  - name: Concurrent Chunk Management Engine
+    type: curseforge
+    projectId: 533097
+    fileId: 7199400
+    hash: ca069117629d0bb17f4dbd55ff887f0f6301a964
+    side: both
+  - name: Configured Defaults
+    type: curseforge
+    projectId: 930131
+    fileId: 6060028
+    hash: 64c6ae1cb0cb37b976bbd0afb2551beae61bcdaa
+    side: both
+  - name: Connectivity
+    type: curseforge
+    projectId: 470193
+    fileId: 7032388
+    hash: afc0f8cb7c5997b108c9c20dbe4e67f6243411a1
+    side: both
+  - name: Controlling
+    type: curseforge
+    projectId: 250398
+    fileId: 6368976
+    hash: 8a34424fc1428778be2fdbfa4da67b21b70bcbfe
+    side: both
+  - name: CorgiLib
+    type: curseforge
+    projectId: 693313
+    fileId: 6808264
+    hash: a84b16272a6cd1b3fec0ff0e2ffdd05cf92dc02a
+    side: both
+  - name: Corpse
+    type: curseforge
+    projectId: 316582
+    fileId: 7018307
+    hash: 4f42091ef36e98e99c2f28a273ded960c0ac08bd
+    side: both
+  - name: Corpse x Curios API Compat
+    type: curseforge
+    projectId: 1138130
+    fileId: 7088158
+    hash: 2aa5e83940a26c6e529e58a3a8a0260df3078c6d
+    side: both
+  - name: CosmeticArmours
+    type: curseforge
+    projectId: 630406
+    fileId: 7211088
+    hash: 433e6df6026eaa1fef791e8c4efc982c444ec046
+    side: both
+  - name: CosmeticWeapons
+    type: curseforge
+    projectId: 1187696
+    fileId: 7211074
+    hash: 40ff75bd2824d2f59a0e0591301a60ee1e5b6ffd
+    side: both
+  - name: CraterLib
+    type: curseforge
+    projectId: 867099
+    fileId: 6534798
+    hash: 84c054c1b7afef104edfee9bf8ef200275785648
+    side: both
+  - name: Create
+    type: curseforge
+    projectId: 328085
+    fileId: 7178775
+    hash: eee603ac7b083c9cd3a8ded4d4e3ed1a9a836f96
+    side: both
+  - name: Create Picky Wheels
+    type: curseforge
+    projectId: 866839
+    fileId: 6932330
+    hash: 943bbe3c1e6aba473fb6907fd01ea96580d09fd0
+    side: both
+  - name: "Create: Aquatic Ambitions"
+    type: curseforge
+    projectId: 1005676
+    fileId: 7192082
+    hash: 39945d25188f3cb8feb74d09b78d7f7f7a74aaa7
+    side: both
+  - name: "Create: Food"
+    type: curseforge
+    projectId: 959439
+    fileId: 6741509
+    hash: d865b6a64ff1e662564cdb00f288fcdbdfe8ae0a
+    side: both
+  - name: "Create: Molten Vents"
+    type: curseforge
+    projectId: 824654
+    fileId: 6803367
+    hash: 0d645330128d1d7dc0b330760f4517d3ff4a2a9d
+    side: both
+  - name: "Create: Northstar - Redux"
+    type: curseforge
+    projectId: 1318310
+    fileId: 7182058
+    hash: faf0061b8e782b3fd4722cad9509ba4a6e4f2288
+    side: both
+  - name: "Create: Power Loader"
+    type: curseforge
+    projectId: 936020
+    fileId: 6549980
+    hash: d7197ab489c30761dadfb7ef963b99bc8d505df1
+    side: both
+  - name: "Create: Smart Bounds"
+    type: curseforge
+    projectId: 1300292
+    fileId: 6731245
+    hash: 9d271d70b1d2870d5c232e71e2923abaac3a6767
+    side: both
+  - name: Creeper Overhaul
+    type: curseforge
+    projectId: 561625
+    fileId: 6051279
+    hash: 5a07cc032df790e7d110ad3dedb7a76253ffd565
+    side: both
+  - name: Critters and Companions
+    type: curseforge
+    projectId: 574913
+    fileId: 7147511
+    hash: c32ae5df533d081f845a153ab67c8d1c61cf339f
+    side: both
+  - name: Cubes Without Borders
+    type: curseforge
+    projectId: 975120
+    fileId: 5855532
+    hash: 6fe849c4a488107572c9af9d7d8329d93376f343
+    side: both
+  - name: Cupboard
+    type: curseforge
+    projectId: 326652
+    fileId: 6078150
+    hash: 8f6eb497f60fb6a2cf2b276113d33e61b9a5c2a5
+    side: both
+  - name: Curios API (Forge/NeoForge)
+    type: curseforge
+    projectId: 309927
+    fileId: 6529130
+    hash: 418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4
+    side: both
+  - name: Curious Armor Stands
+    type: curseforge
+    projectId: 398784
+    fileId: 5578731
+    hash: 81d1e3aa0754e88b778fe201e0f67241f2f716e6
+    side: both
+  - name: Cut Through
+    type: curseforge
+    projectId: 969423
+    fileId: 5731913
+    hash: 550f272c140566f0961c1bb3fdfb1a6272be30dd
+    side: both
+  - name: Diagonal Fences
+    type: curseforge
+    projectId: 458048
+    fileId: 5918197
+    hash: d77da342ec4fcdea694911cba068e310a0230621
+    side: both
+  - name: Ding (Forge)
+    type: curseforge
+    projectId: 231275
+    fileId: 5478493
+    hash: 67be6a0f10b3fcd98ead58770e00636eb677389a
+    side: both
+  - name: "Distant Horizons: A Level of Detail mod"
+    type: curseforge
+    projectId: 508933
+    fileId: 7104615
+    hash: e8a97b52e89bf96f67af547cda3bc6b15f5ceb73
+    side: both
+  - name: Drippy Loading Screen
+    type: curseforge
+    projectId: 511770
+    fileId: 6412226
+    hash: d54a81ceeb1df321dbb0cbc22fc8c9fa96f9be55
+    side: both
+  - name: EMI
+    type: curseforge
+    projectId: 580555
+    fileId: 6420931
+    hash: cbbd038194cd63249db185c53b1d50a1767f80a3
+    side: both
+  - name: EMI Enchanting
+    type: curseforge
+    projectId: 936713
+    fileId: 5733125
+    hash: 02ad74769ffcec259fd9bb14a1760593f6182b5c
+    side: both
+  - name: EMI Loot
+    type: curseforge
+    projectId: 681783
+    fileId: 6449102
+    hash: 5429623ee1e27c6d4e820c0514233089140fd48c
+    side: both
+  - name: EMI Ores
+    type: curseforge
+    projectId: 974009
+    fileId: 6060348
+    hash: 2326620a11ad9ca463ef3a8cfa7d8f5ae169b756
+    side: both
+  - name: EMIffect (Status Effects EMI Plugin)
+    type: curseforge
+    projectId: 735528
+    fileId: 6759924
+    hash: 4d48dec751310a0221254aca09d6325530e60731
+    side: both
+  - name: Easy Shulker Boxes
+    type: curseforge
+    projectId: 594006
+    fileId: 6697879
+    hash: 9491302950e20bec758f67f13ff21663ecf40986
+    side: both
+  - name: Emojiful
+    type: curseforge
+    projectId: 284324
+    fileId: 6630130
+    hash: 9593141e8e9853cdbc2a1d9be57245db092b2bf8
+    side: both
+  - name: "Enchanted: Witchcraft"
+    type: curseforge
+    projectId: 560363
+    fileId: 6948369
+    hash: 98db9bbdb139cc379a2518f4dd9309093e0afe0c
+    side: both
+  - name: Enderman Overhaul
+    type: curseforge
+    projectId: 574409
+    fileId: 6023706
+    hash: 87bd5be58cfeb6bccb255cfc3af7cc90b46a309a
+    side: both
+  - name: Expanded Delight
+    type: curseforge
+    projectId: 620770
+    fileId: 6785113
+    hash: 3ff3acb6b8736e454ca7ae95abf41cd8fd5a0a8f
+    side: both
+  - name: FTB Filter System
+    type: curseforge
+    projectId: 943925
+    fileId: 6899527
+    hash: b204841312985130c66a910ee6e3bb2fe30676c9
+    side: both
+  - name: FTB Library (Forge)
+    type: curseforge
+    projectId: 404465
+    fileId: 7182154
+    hash: 7d8a63d41284d5be2aca14d42a58d16a354a292c
+    side: both
+  - name: FTB Quests (NeoForge)
+    type: curseforge
+    projectId: 289412
+    fileId: 7213963
+    hash: 03bdfa2d7e48095f4c260a464f476336b7fc1e8d
+    side: both
+  - name: FTB Teams (NeoForge)
+    type: curseforge
+    projectId: 404468
+    fileId: 7209616
+    hash: 2ff0b6f0e1e6f329cdd899c34eb566825b549ba7
+    side: both
+  - name: FTB XMod Compat
+    type: curseforge
+    projectId: 889915
+    fileId: 6979171
+    hash: 7dd6789cc0f1dad8f3bf71ee915ac1d279073f67
+    side: both
+  - name: FancyMenu
+    type: curseforge
+    projectId: 367706
+    fileId: 6919001
+    hash: a7f7feeb0273ebfa0eafacc2ed3169d7abec8ef1
+    side: both
+  - name: "Farmer's Cutting: Oh The Biomes We've Gone"
+    type: curseforge
+    projectId: 1094819
+    fileId: 6274107
+    hash: add7e0e1a8dd747ada512c8d0763ef952e962bcc
+    side: both
+  - name: Farmer's Delight
+    type: curseforge
+    projectId: 398521
+    fileId: 6917256
+    hash: 9abe078f48781e4b87288dbc59691c8ba1152d8d
+    side: both
+  - name: Farmer's Delight Wearable Cooking Pot
+    type: curseforge
+    projectId: 1171888
+    fileId: 6053984
+    hash: 48049d0849b555e2bf92196c156357b2310402c9
+    side: both
+  - name: Fast Async World Save[Forge/Fabric]
+    type: curseforge
+    projectId: 951499
+    fileId: 6935204
+    hash: 87e019715314631f2c8288cf7c73a52a61b2d61b
+    side: both
+  - name: Fast Item Frames
+    type: curseforge
+    projectId: 1210171
+    fileId: 6963018
+    hash: 76bf4f0ae0117c86e0d5fda598d459537576ed2e
+    side: both
+  - name: Fast Paintings
+    type: curseforge
+    projectId: 883287
+    fileId: 6759508
+    hash: e2cf74928a5d9d8ff3aacda7621ef73902a97cf4
+    side: both
+  - name: FastBoot
+    type: curseforge
+    projectId: 1030285
+    fileId: 6998687
+    hash: 1c9101baf7e4b111fc55e0b5a8687e67be2f626c
+    side: both
+  - name: FastSuite
+    type: curseforge
+    projectId: 475117
+    fileId: 6751538
+    hash: c445f512f2bee24b91d405767e1b129f236505f8
+    side: both
+  - name: FerriteCore ((Neo)Forge)
+    type: curseforge
+    projectId: 429235
+    fileId: 5850121
+    hash: 7279fc52c32a033acc2864a9bcb018b2e04bbd03
+    side: both
+  - name: Forbidden and Arcanus
+    type: curseforge
+    projectId: 309858
+    fileId: 6875895
+    hash: 1de105be68b88de87a5e6749f320c790d550c120
+    side: both
+  - name: Formations (Structure Library)
+    type: curseforge
+    projectId: 915115
+    fileId: 6789388
+    hash: 3845f96c9304f6956688f7a35205e9354bf411b0
+    side: both
+  - name: Formations Nether
+    type: curseforge
+    projectId: 918840
+    fileId: 5627771
+    hash: 12b69c1cd22bbbe8c5888a030bef791b992b0d39
+    side: both
+  - name: Formations Overworld
+    type: curseforge
+    projectId: 915324
+    fileId: 6792381
+    hash: edbc169c78f9f1cdf5233e996f12b21e7e1cdf18
+    side: both
+  - name: Fzzy Config
+    type: curseforge
+    projectId: 1005914
+    fileId: 7085021
+    hash: 5080991f845375be2d9ffe87538d64ced1a9e576
+    side: both
+  - name: GeckoLib
+    type: curseforge
+    projectId: 388172
+    fileId: 7023453
+    hash: b2d84a5ea8b8944be66dbf817f0d4aa3f494db7a
+    side: both
+  - name: Get It Together, Drops!
+    type: curseforge
+    projectId: 411045
+    fileId: 6775278
+    hash: ead940a50f69313802960c497e252acd3956334f
+    side: both
+  - name: Global Packs
+    type: curseforge
+    projectId: 317134
+    fileId: 6634585
+    hash: 55cf667b16b81df9b8f7fead042cf2f732b21b85
+    side: both
+  - name: Horseman
+    type: curseforge
+    projectId: 1082085
+    fileId: 7112835
+    hash: 6add163e931aa72eb54781e351dbbf68a477a4da
+    side: both
+  - name: Icarus
+    type: curseforge
+    projectId: 428151
+    fileId: 7238423
+    hash: 2e7a8c7fe4e0ae05f2bf106e2c0f9efb2c3f2222
+    side: both
+  - name: IceAndFire Community Edition
+    type: curseforge
+    projectId: 1040076
+    fileId: 7210417
+    hash: 8221fde15a0b27a55155134b3c9639b41650c738
+    side: both
+  - name: Immersive Aircraft [Fabric/Forge]
+    type: curseforge
+    projectId: 666014
+    fileId: 6992093
+    hash: bea2251c01fffd3460b483ac336a2454e7318a10
+    side: both
+  - name: In Control!
+    type: curseforge
+    projectId: 257356
+    fileId: 7064451
+    hash: 88a5367be7ef108dd83e7ad53ac22149981eacc8
+    side: both
+  - name: Iris & Oculus Flywheel Compat
+    type: curseforge
+    projectId: 659897
+    fileId: 7076536
+    hash: fde6df059fe7b88007ca57a734b710dfd37c2c6e
+    side: both
+  - name: Iris Shaders
+    type: curseforge
+    projectId: 455508
+    fileId: 6661598
+    hash: a3e6355915c7d3b2bc392724795113e51d289378
+    side: both
+  - name: Jade Addons (Neo/Forge)
+    type: curseforge
+    projectId: 583345
+    fileId: 6315149
+    hash: d0aef07e67f9e2dd7ae68f9f27d845511d8eaff3
+    side: both
+  - name: "Jade 🔍"
+    type: curseforge
+    projectId: 324717
+    fileId: 6853386
+    hash: 0c7e9b04e2481d26c9080dd5d32351490d1fed3a
+    side: both
+  - name: JamLib
+    type: curseforge
+    projectId: 623764
+    fileId: 6421954
+    hash: efd3a1e2e05589338f976764270ae98fc62f4e1f
+    side: both
+  - name: Jupiter
+    type: curseforge
+    projectId: 1072905
+    fileId: 6843052
+    hash: 7b10eaf047dca32c6a3724b94e12316225dd9305
+    side: both
+  - name: Just Enough Breeding (JEBr)
+    type: curseforge
+    projectId: 899386
+    fileId: 6816404
+    hash: 4f47678f57e2cadebd42484897bf5417d7fa344a
+    side: both
+  - name: Konkrete
+    type: curseforge
+    projectId: 410295
+    fileId: 5453385
+    hash: 97771eb287d5ac7fe667d1df9493d5e54c8ca1fa
+    side: both
+  - name: Kotlin for Forge
+    type: curseforge
+    projectId: 351264
+    fileId: 6994056
+    hash: cdde4af2f1cecc97d320d230093e5564212f9fb2
+    side: both
+  - name: Let Me Despawn
+    type: curseforge
+    projectId: 663477
+    fileId: 6311236
+    hash: 576fe2edaa96e7e71015287457bd52f87646d968
+    side: both
+  - name: Living Things
+    type: curseforge
+    projectId: 397252
+    fileId: 6672681
+    hash: b5a54f8fd82c5e34558f3034e6c1fa00d3a3284c
+    side: both
+  - name: Lodestone
+    type: curseforge
+    projectId: 616457
+    fileId: 6630047
+    hash: bd0c9548412abbb7f164f12af70311ef268435d0
+    side: both
+  - name: Lost Libraries
+    type: curseforge
+    projectId: 900205
+    fileId: 6125215
+    hash: f6cc23f4014b32f8ab80bd90fc8fce213abb4704
+    side: both
+  - name: Makibania
+    type: direct
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v0.1.0/makibania-neoforge-1.1.0+mc1.21.1.jar
+    hash: 8599cf208babe57f93771be43afe20d1d91936fc
+    side: both
+  - name: MES - Moog's End Structures
+    type: curseforge
+    projectId: 892382
+    fileId: 6918257
+    hash: 3d49d77db1d1264216c55f476ed1030dc61a1114
+    side: both
+  - name: MMV - Moog's Missing Villages
+    type: curseforge
+    projectId: 1153951
+    fileId: 7098537
+    hash: 169f06dbf76c079ff93dc134fd8931beef2a1a82
+    side: both
+  - name: MNS - Moog's Nether Structures
+    type: curseforge
+    projectId: 967466
+    fileId: 7228566
+    hash: e0328d451b734a851a96bb1190427836fb6886c9
+    side: both
+  - name: MSS - Moog's Soaring Structures
+    type: curseforge
+    projectId: 1040210
+    fileId: 7132460
+    hash: 2bd48d0ffa02cf251c7c5f1ad2ddd4b0695ea10c
+    side: both
+  - name: MVS - Moog's Voyager Structures
+    type: curseforge
+    projectId: 656977
+    fileId: 7233132
+    hash: b197981072872996ccc2b967f561437fb5a3e1e1
+    side: both
+  - name: Melody
+    type: curseforge
+    projectId: 938643
+    fileId: 5453382
+    hash: e83052a92c4ca0016bcfe7f0207273983dc84698
+    side: both
+  - name: Mermod (NeoForge)
+    type: curseforge
+    projectId: 709092
+    fileId: 6974346
+    hash: 87e45e6a0b09133a5bc4b19b6fe71f42e279ba1b
+    side: both
+  - name: MidnightLib
+    type: curseforge
+    projectId: 488090
+    fileId: 6772065
+    hash: f91cfeb927feab9cc31a09f7d64184f431114371
+    side: both
+  - name: Miner's Delight +
+    type: curseforge
+    projectId: 689630
+    fileId: 6860679
+    hash: c19ad4f93945a92f83ae6fc9bb5a0d74d8c5cf73
+    side: both
+  - name: ModernFix
+    type: curseforge
+    projectId: 790626
+    fileId: 7200212
+    hash: 5407ee2d311f6f16773292fe22942a023a19677d
+    side: both
+  - name: Modopedia
+    type: curseforge
+    projectId: 1132038
+    fileId: 6765935
+    hash: 757512b0144c13411b7c34b36fe08bd29a5617a5
+    side: both
+  - name: Moog's Structure Lib (moogs_structures)
+    type: curseforge
+    projectId: 1337167
+    fileId: 7238573
+    hash: cde9ef5e7d4d74bb6d5725367398a6dc4d02ee99
+    side: both
+  - name: Moonlight Lib
+    type: curseforge
+    projectId: 499980
+    fileId: 7238829
+    hash: 66cd7c8c604148b24113021ab2ea2c245e82d44d
+    side: both
+  - name: My Nether's Delight
+    type: curseforge
+    projectId: 1003673
+    fileId: 6938550
+    hash: 146bc38650e09875c678a78014a3ed55d2fd4ca9
+    side: both
+  - name: Mythica - a Second Overworld Dimension
+    type: curseforge
+    projectId: 1354448
+    fileId: 7181325
+    hash: 35c49ee734e025f210d5e356451f951001f4e4c4
+    side: both
+  - name: NeoAuth
+    type: curseforge
+    projectId: 1140741
+    fileId: 5906332
+    hash: 712a05dfe45da5bd50cd36da2d39458676392c06
+    side: both
+  - name: Nether Depths Upgrade
+    type: curseforge
+    projectId: 670011
+    fileId: 6430271
+    hash: 6bc966cbfa01e52eac6c1b8efe6c4b63cfb65c42
+    side: both
+  - name: Not Enough Animations
+    type: curseforge
+    projectId: 433760
+    fileId: 7129314
+    hash: cbb5833153c362834911b20ae5665d913ded91c9
+    side: both
+  - name: Nullscape
+    type: curseforge
+    projectId: 570354
+    fileId: 7078265
+    hash: ae8e1cbd5de6cf6f450bb44cd69cd284dad690dd
+    side: both
+  - name: Ocean's Delight
+    type: curseforge
+    projectId: 841262
+    fileId: 5618115
+    hash: f74863b60417876c67f9cb438bc5a059e8e805c2
+    side: both
+  - name: Oh The Biomes We've Gone
+    type: curseforge
+    projectId: 1070751
+    fileId: 7217863
+    hash: 09664db705620465683ce75b5fc06015148e5384
+    side: both
+  - name: Oh The Trees You'll Grow
+    type: curseforge
+    projectId: 962544
+    fileId: 7096302
+    hash: 32e7cd9e32ac0e4007754b79f5b08f9754c81fda
+    side: both
+  - name: Oritech
+    type: curseforge
+    projectId: 1030830
+    fileId: 7233763
+    hash: 5d88e3b84010c2e4544c3cce931dc572a49ad300
+    side: both
+  - name: Overflowing Bars
+    type: curseforge
+    projectId: 852662
+    fileId: 5770623
+    hash: a9dea4b9ef893fc955512ff2dee75c9c82e09a52
+    side: both
+  - name: Patchouli
+    type: curseforge
+    projectId: 306770
+    fileId: 6842247
+    hash: 97ae42096ee4a0a242cd8468dde293017f3cc39c
+    side: both
+  - name: Ping Wheel
+    type: curseforge
+    projectId: 734339
+    fileId: 7138129
+    hash: 33503a662d5cb7ca4872adf8e95789a7a1d33a4a
+    side: both
+  - name: Placebo
+    type: curseforge
+    projectId: 283644
+    fileId: 6926281
+    hash: 1c2b8c38066d6f36209c5dadee25c184ef65202e
+    side: both
+  - name: Platform
+    type: curseforge
+    projectId: 997634
+    fileId: 7227585
+    hash: abd9437448d930c62871fd214ff37a3a6c74da60
+    side: both
+  - name: Plushie Buddies
+    type: curseforge
+    projectId: 990265
+    fileId: 7132280
+    hash: be92f6f19c846641fe99ef1b4aaa76ea04c7460f
+    side: both
+  - name: Pufferfish's Attributes [Fabric & Forge & NeoForge]
+    type: curseforge
+    projectId: 991341
+    fileId: 7183595
+    hash: fa8dbd06e95fab86941e31e1eb27e12348aa3049
+    side: both
+  - name: Pufferfish's Skills [Fabric & Forge & NeoForge]
+    type: curseforge
+    projectId: 835091
+    fileId: 7038165
+    hash: e5b3fe4ce0f8eeb3593b843ac5a7a531d00fac35
+    side: both
+  - name: Puzzles Lib
+    type: curseforge
+    projectId: 495476
+    fileId: 7140307
+    hash: bcc0900fbbf6d6fc5ca05039cd5725e6145225f2
+    side: both
+  - name: Rabbit Pathfinding Fixed (Unofficial Forge Port)
+    type: direct
+    url: https://cdn.modrinth.com/data/GEndvIfp/versions/7LSMhQzY/rabbit_pathfinding_fix-neoforge-1.0.5.jar
+    hash: cfc9d6af7bf9335eb5e358e51388cc21fae119c7
+    side: both
+  - name: Rainbows!
+    type: curseforge
+    projectId: 1121832
+    fileId: 6416604
+    hash: 82a789be56ea483e0ca94454c780da0b47e937d1
+    side: both
+  - name: "Realm RPG: Fallen Adventurers"
+    type: curseforge
+    projectId: 916895
+    fileId: 6058914
+    hash: 769deb829b0299356d02b3c44c2bb91b3b524de7
+    side: both
+  - name: Rebind Narrator
+    type: curseforge
+    projectId: 296996
+    fileId: 7134458
+    hash: c004c586aba2cd2e214e6a0b119f776b5a14d58e
+    side: both
+  - name: Repeatable Trial Vaults
+    type: curseforge
+    projectId: 1070541
+    fileId: 5643915
+    hash: 6559a203e264afacc40af5010ad6a85b21e20a17
+    side: both
+  - name: Resourceful Config
+    type: curseforge
+    projectId: 714059
+    fileId: 6467772
+    hash: 6bf2b6ea9c071c00a2abcdc552667fb6f7d21031
+    side: both
+  - name: Resourceful Lib
+    type: curseforge
+    projectId: 570073
+    fileId: 5973188
+    hash: 24389c8e48ff0e8594e4686b750c494c66a5f8df
+    side: both
+  - name: Ribbits
+    type: curseforge
+    projectId: 622967
+    fileId: 6988284
+    hash: 1ad756c32ed77a150e9c699884f59b1020dab721
+    side: both
+  - name: Savage Ender Dragon[Forge/Fabric]
+    type: curseforge
+    projectId: 523327
+    fileId: 6828602
+    hash: 9c4b7d0b3568c9cf27668264f0a4d62cd0e002f2
+    side: both
+  - name: Seamless Loading Screen
+    type: curseforge
+    projectId: 429926
+    fileId: 5774794
+    hash: 0e53c533a9032d337ee59740ed228a0002db500e
+    side: both
+  - name: Searchables
+    type: curseforge
+    projectId: 858542
+    fileId: 5831692
+    hash: 5b8a0b43a474c066371b2e16f9bfb88622552a74
+    side: both
+  - name: Server Performance - Smooth Chunk Save[Forge/Fabric]
+    type: curseforge
+    projectId: 582327
+    fileId: 6296628
+    hash: f54d5d352e15560240f151a7d054096a33a58f4a
+    side: both
+  - name: Simple Discord Link Bot
+    type: curseforge
+    projectId: 541320
+    fileId: 6979135
+    hash: 1b5c886d109b4aae5662252ce6956fed529b6bcd
+    side: both
+  - name: Sky Villages [Forge]
+    type: curseforge
+    projectId: 545467
+    fileId: 5647988
+    hash: 645eb49d4019e5550afd4055f380c26edd126611
+    side: both
+  - name: Smithing Template Viewer for JEI/EMI
+    type: curseforge
+    projectId: 1133580
+    fileId: 6502654
+    hash: 1ee2fa37e522b645f7b17ed28062e58aac908ae8
+    side: both
+  - name: Sodium
+    type: curseforge
+    projectId: 394468
+    fileId: 6382651
+    hash: 38af70fa4dc4b2aaac636e92fdba3bedd5a025e1
+    side: both
+  - name: Sparkweave Engine
+    type: curseforge
+    projectId: 911456
+    fileId: 6774230
+    hash: 012d4308400c2c467374c5b36b86bb0c55582496
+    side: both
+  - name: "Spice of Life: Carrot Edition"
+    type: curseforge
+    projectId: 277616
+    fileId: 5957429
+    hash: cd70f4446b99b589702aebf9e4aaae86e376d4d7
+    side: both
+  - name: "Spyglass Improvements: Zoom, Quick Access... [Fabric/NeoForge]"
+    type: curseforge
+    projectId: 571264
+    fileId: 5634604
+    hash: c7a2041f23f99a289fa2307774a2709e42d3d591
+    side: both
+  - name: StateObserver
+    type: curseforge
+    projectId: 701213
+    fileId: 6681296
+    hash: b783697be3cbf6a24073bc938070b90523ce22cb
+    side: both
+  - name: Storage Delight (Forge & Neoforge)
+    type: curseforge
+    projectId: 979761
+    fileId: 6692011
+    hash: c29f16bf47aff5b711d1db0f50a45f3efb21e3da
+    side: both
+  - name: Structure Essentials[Forge/Fabric]
+    type: curseforge
+    projectId: 832882
+    fileId: 6732857
+    hash: 79f88be6fa9d56cf4b13dca68efc46872d54c391
+    side: both
+  - name: Sussy Sniffers
+    type: curseforge
+    projectId: 1083346
+    fileId: 6679817
+    hash: c7c838abeb62f6dc6b1c22336f2a96c592bc5948
+    side: both
+  - name: TerraBlender (NeoForge)
+    type: curseforge
+    projectId: 940057
+    fileId: 6054947
+    hash: 2016eed89eac0eb0510d2190c3b0b80bf4346191
+    side: both
+  - name: Tidal Towns
+    type: curseforge
+    projectId: 891880
+    fileId: 6726370
+    hash: ef3e419d3ef610cae6117b396e0a74b9a40be635
+    side: both
+  - name: TooManyRecipeViewers (TMRV)
+    type: curseforge
+    projectId: 1194921
+    fileId: 7093011
+    hash: a24a52353fd5900964657614f6d7daa2c11d2b8e
+    side: both
+  - name: Transmog
+    type: curseforge
+    projectId: 848032
+    fileId: 6010596
+    hash: fb37ae0a35e8bb9340e61007275121f02cf7a8bc
+    side: both
+  - name: Uranus
+    type: curseforge
+    projectId: 1010827
+    fileId: 6979353
+    hash: 757d8dd20bf22c7157e275c2a7643cde76984e4d
+    side: both
+  - name: Useful Spyglass
+    type: curseforge
+    projectId: 840027
+    fileId: 7174926
+    hash: 4d363420c9ff5225166a18c97b023e13e5db66a9
+    side: both
+  - name: Valhelsia Core
+    type: curseforge
+    projectId: 416935
+    fileId: 6296775
+    hash: e7498e89bd7347c6d0f4411f55bd312490dfe814
+    side: both
+  - name: Vanilla Backport
+    type: curseforge
+    projectId: 417430
+    fileId: 7227055
+    hash: 0a932acc8d15e32c727fb61f99cabef7bfe63c1f
+    side: both
+  - name: Variants&Ventures
+    type: curseforge
+    projectId: 981139
+    fileId: 7132260
+    hash: dc071aa5dfdad81a36f339fb54eb42bbf371b324
+    side: both
+  - name: Weaver's Cosmetics
+    type: curseforge
+    projectId: 666004
+    fileId: 6919884
+    hash: a4d933d58242ee741d2321f9bc2203fc0beb3082
+    side: both
+  - name: Woodworks
+    type: curseforge
+    projectId: 543610
+    fileId: 7118286
+    hash: 60923236a7bbfc412dc2a0fb1526911a72040fbe
+    side: both
+  - name: YUNG's API (NeoForge)
+    type: curseforge
+    projectId: 1015100
+    fileId: 6715463
+    hash: e1c394779fb9e038e4f7a1b4558d0432607d263b
+    side: both
+  - name: YUNG's Better Caves (Forge/NeoForge)
+    type: curseforge
+    projectId: 340583
+    fileId: 6939522
+    hash: c7eaa25a8734525d7085e730728344242a177990
+    side: both
+  - name: YUNG's Better Dungeons (NeoForge)
+    type: curseforge
+    projectId: 1015112
+    fileId: 5954804
+    hash: 73a660c13063450e555e5e2c015ae24d606b32b4
+    side: both
+  - name: YUNG's Cave Biomes (Forge/NeoForge)
+    type: curseforge
+    projectId: 1111586
+    fileId: 6913179
+    hash: bcab81f578b3cb31e599ae327c6634b9fa8d0f04
+    side: both
+  - name: YetAnotherConfigLib
+    type: curseforge
+    projectId: 667299
+    fileId: 6662857
+    hash: 7567715bd90e6f3420eee6d468eec1db861a03f2
+    side: both
+  - name: caramelChat
+    type: direct
+    url: https://cdn.modrinth.com/data/M4vJe1FJ/versions/qSoQkIII/caramelChat-mc1.21.1-neoforge-1.2.2.jar
+    hash: 05338c95b1901a1f33f99d936a720691f44b9b88
+    side: both
+  - name: farmer's attributes
+    type: curseforge
+    projectId: 1355713
+    fileId: 7109056
+    hash: 5ef8aed3b5336460baf64c6a6bcd24b361527362
+    side: both
+  - name: iChunUtil
+    type: curseforge
+    projectId: 229060
+    fileId: 6000439
+    hash: 1f161c8b6288e6094fc57f4a9c10a6050df71081
+    side: both
+  - name: "oωo (owo-lib)"
+    type: curseforge
+    projectId: 532610
+    fileId: 6785734
+    hash: 48dda11a6710591cf162bdbedf982ea21dd1f2ed
+    side: both
+  - name: spark
+    type: curseforge
+    projectId: 361579
+    fileId: 6225208
+    hash: 9430cc2ab64ff89d698be593769fb9f9ee4efae6
+    side: both
+resources:
+  - name: Default Config Files
+    type: direct
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v0.1.0/configureddefaults.zip
+    hash: 4b59d22438dc275e3434592df520b36bd782d180
+    targetDir: .
+    decompress: true
+    side: both
+  - name: Makibania Data Pack
+    type: direct
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v0.1.0/MakibaniaDatapack.zip
+    hash: 24dbe82325dc3ce77b78c377f9ce9e5a39ed8504
+    targetDir: datapacks
+    side: both
+  - name: Makibania Resource Pack
+    type: direct
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v0.1.0/MakibaniaResourcepack.zip
+    hash: 5556016990396c08374eb2a97dbb6fba1b49aa4f
+    targetDir: resourcepacks
+    side: both
