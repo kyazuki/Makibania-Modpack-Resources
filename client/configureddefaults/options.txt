@@ -1,5 +1,6 @@
 fullscreen:true
 narrator:0
+renderClouds:"false"
 autoJump:false
 realmsNotifications:false
 bobView:false
