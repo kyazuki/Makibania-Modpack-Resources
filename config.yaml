@@ -261,8 +261,8 @@ mods:
   - name: "Create: Northstar - Redux"
     type: curseforge
     projectId: 1318310
-    fileId: 7182058
-    hash: faf0061b8e782b3fd4722cad9509ba4a6e4f2288
+    fileId: 7250322
+    hash: 56e9e1c85568188329d3c3f14d77972b29e2fe92
     side: both
   - name: "Create: Power Loader"
     type: curseforge
@@ -401,6 +401,12 @@ mods:
     projectId: 620770
     fileId: 6785113
     hash: 3ff3acb6b8736e454ca7ae95abf41cd8fd5a0a8f
+    side: both
+  - name: Find It
+    type: curseforge
+    projectId: 1098000
+    fileId: 5778573
+    hash: b29256a63ea3749dadbe7d65a6124449174fa7b3
     side: both
   - name: FTB Filter System
     type: curseforge
@@ -670,6 +676,12 @@ mods:
     projectId: 967466
     fileId: 7228566
     hash: e0328d451b734a851a96bb1190427836fb6886c9
+    side: both
+  - name: Mouse Tweaks
+    type: curseforge
+    projectId: 60089
+    fileId: 5637846
+    hash: 6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc
     side: both
   - name: MSS - Moog's Soaring Structures
     type: curseforge
