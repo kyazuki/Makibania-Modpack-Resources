@@ -845,6 +845,12 @@ mods:
     fileId: 7132280
     hash: be92f6f19c846641fe99ef1b4aaa76ea04c7460f
     side: both
+  - name: Polymorph
+    type: curseforge
+    projectId: 388800
+    fileId: 6794589
+    hash: 84f8c539fa326dc723ae62b7a6916d6b01982d07
+    side: both
   - name: Pufferfish's Attributes [Fabric & Forge & NeoForge]
     type: curseforge
     projectId: 991341
