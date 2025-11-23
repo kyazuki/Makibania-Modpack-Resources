@@ -18,6 +18,12 @@ mods:
     fileId: 7150137
     hash: 8316c8bb645f5b9f44c66e0f6c4379fef61365d2
     side: both
+  - name: AppleSkin
+    type: curseforge
+    projectId: 248787
+    fileId: 6616291
+    hash: 8f76d97a7f61f8d61db6d84a83baf29a3bb56330
+    side: both
   - name: Archeological
     type: curseforge
     projectId: 1107838
