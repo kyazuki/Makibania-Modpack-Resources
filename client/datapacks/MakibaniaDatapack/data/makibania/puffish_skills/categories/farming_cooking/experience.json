@@ -7,7 +7,7 @@
 	},
 	"sources": [
 		{
-			"type": "makibania:cook_food",
+			"type": "puffish_skills:cook_food",
 			"data": {
 				"variables": {
 					"multiplier_1": {
