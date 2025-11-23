@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1763765964334
+  last_edited_time = 1763770350342
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:f3b290d5-aecc-4950-b07a-1c8d0b3c555c-1763765938529] = [groups:][instances:]
+  [loading_requirement_container_meta:1749d364-5825-4abf-8b80-32dce7227e47-1763770309318] = [groups:][instances:]
 }
 
 menu_background {
@@ -57,7 +57,7 @@ layout_action_executable_blocks {
   [executable_block:cc42e2dc-809f-4103-9bb4-a71cd6010d57-1760693169125][type:if] = [executables:e34e1c94-d979-4d0c-8bab-c3e614a57386-1760693320993;]
   [if_executable_block_body:cc42e2dc-809f-4103-9bb4-a71cd6010d57-1760693169125] = 6665da55-78ba-4e01-892f-4d2c0efa5098-1760693073665
   [loading_requirement_container_meta:6665da55-78ba-4e01-892f-4d2c0efa5098-1760693073665] = [groups:][instances:0f489b90-e562-4fdc-b107-01384897ffa3-1760693099826;]
-  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][req_id:0f489b90-e562-4fdc-b107-01384897ffa3-1760693099826] = server_status:offline
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][req_id:0f489b90-e562-4fdc-b107-01384897ffa3-1760693099826] = server_status:{"placeholder":"getvariable","values":{"name":"offline"}}
   [executable_block:772db2db-eee7-4f03-9469-e1e9c304eb8f-1760692932749][type:generic] = [executables:045e29a9-1194-486d-ae70-79af19e9aca3-1760693455718;cc42e2dc-809f-4103-9bb4-a71cd6010d57-1760693169125;]
 }
 
@@ -100,63 +100,6 @@ element {
   load_once_per_session = false
   in_editor_color = #FFC800FF
   layer_hidden_in_editor = false
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = 481d0806-7bdd-41f8-899f-959748330afb-1760625581981
-  [executable_block:481d0806-7bdd-41f8-899f-959748330afb-1760625581981][type:generic] = [executables:]
-  restartbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  navigatable = true
-  widget_active_state_requirement_container_identifier = da81400e-3e8b-417b-b446-373df517b186-1760625581981
-  [loading_requirement_container_meta:da81400e-3e8b-417b-b446-373df517b186-1760625581981] = [groups:][instances:]
-  is_template = false
-  template_apply_width = false
-  template_apply_height = false
-  template_apply_posx = false
-  template_apply_posy = false
-  template_apply_opacity = false
-  template_apply_visibility = false
-  template_apply_label = false
-  template_share_with = buttons
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-  element_type = vanilla_button
-  instance_identifier = mojang_logo
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1080
-  sticky_anchor = false
-  anchor_point = top-centered
-  x = -135
-  y = 30
-  width = 270
-  height = 66
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = b872d56b-0e1a-4a94-a2c0-7ce735c95498-1760625581981
-  [loading_requirement_container_meta:b872d56b-0e1a-4a94-a2c0-7ce735c95498-1760625581981] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity_v2 = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
-  is_hidden = false
-  automated_button_clicks = 0
 }
 
 vanilla_button {
@@ -204,6 +147,63 @@ vanilla_button {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 46c09094-e7bd-42df-9961-bf7d22525848-1760625581981
   [loading_requirement_container_meta:46c09094-e7bd-42df-9961-bf7d22525848-1760625581981] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 481d0806-7bdd-41f8-899f-959748330afb-1760625581981
+  [executable_block:481d0806-7bdd-41f8-899f-959748330afb-1760625581981][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = da81400e-3e8b-417b-b446-373df517b186-1760625581981
+  [loading_requirement_container_meta:da81400e-3e8b-417b-b446-373df517b186-1760625581981] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = mojang_logo
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = top-centered
+  x = -135
+  y = 30
+  width = 270
+  height = 66
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = b872d56b-0e1a-4a94-a2c0-7ce735c95498-1760625581981
+  [loading_requirement_container_meta:b872d56b-0e1a-4a94-a2c0-7ce735c95498-1760625581981] = [groups:][instances:]
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false

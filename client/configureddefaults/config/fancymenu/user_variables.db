@@ -1,6 +1,12 @@
 type = user_variables
 
 variable {
+  name = offline
+  value = §cOffline
+  reset_on_launch = false
+}
+
+variable {
   name = resource_group
   value = default
   reset_on_launch = true
@@ -8,13 +14,13 @@ variable {
 
 variable {
   name = up_to_date
-  value = 
+  value = 1
   reset_on_launch = true
 }
 
 variable {
   name = server_status
-  value = §cOffline
+  value = §aOnline
   reset_on_launch = true
 }
 
