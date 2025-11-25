@@ -1,0 +1,1 @@
+$tellraw $(player) {"text":"Discordへ100mp送りました","color":"yellow"}
