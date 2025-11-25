@@ -1,2 +1,2 @@
-$give $(player) makibania:makibania_bill 1
-$tellraw $(player) {"text":"Discordから1000mpをアイテム化しました","color":"yellow"}
+give @s makibania:makibania_bill 1
+tellraw @s {"text":"Discordから1000mpをアイテム化しました","color":"yellow"}
