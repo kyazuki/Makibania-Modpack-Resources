@@ -3,7 +3,9 @@
 	chapter.470AFDA7C0CDA91C.title: "Makibaniaへようこそ"
 	chapter.61E3CB6379AD14AA.title: "EMI"
 	chapter.6F9145B678BF8776.title: "便利ツール"
+	chapter.75EB71CB22641C88.title: "Discordへ送る"
 	chapter_group.0052D0E8EF13B02A.title: "ガイド"
+	chapter_group.0898D4431A7F93CA.title: "まきばポイント"
 	quest.014F24F1F1A7211A.quest_desc: [
 		"1. \"E\"を押してインベントリを開くと、画面下部に検索バーが表示されます。"
 		"2. 検索バーに、用途や入手方法を知りたいアイテムの名前を入力します。"
@@ -55,6 +57,7 @@
 		"なお、「テレポート」は使用できません。"
 	]
 	quest.383741A3FC18FBEA.quest_subtitle: "死亡ログを活用しよう"
+	quest.42790BC0B1A9676C.title: "500 mp"
 	quest.4B5A357A43F0FBE6.quest_desc: [
 		"羊を探して倒し、羊毛を手に入れましょう！組み合わせてベッドが作れます。"
 		"ベッドを右クリックすることで、モンスターの出る夜の時間を飛ばし、復活地点を設定できます。"
@@ -67,6 +70,7 @@
 	]
 	quest.4D6574B7FD45653C.quest_subtitle: "能力を強化しよう"
 	quest.4D6574B7FD45653C.title: "スキルシステム"
+	quest.4E951C174C35AF71.title: "100 mp"
 	quest.4EFBB66A76A35971.quest_desc: [
 		"\"v\"キーを押して、視点の位置にピンを立てることができます。"
 		"ピンはサーバーの全員が見ることができ、数秒間その場に残ってから消えます。"
@@ -84,6 +88,7 @@
 	]
 	quest.522AD37F77928A47.quest_subtitle: "アクセサリー装備"
 	quest.522AD37F77928A47.title: "キュリオ"
+	quest.55D92A4F0898EAF1.title: "1000mp"
 	quest.5CFAB2BF03C7EA18.quest_desc: ["手に入れた原木を4つの板材にクラフトします。Eを押してインベントリを開き、上部のスロットに原木を置いてみましょう。その後、できた4つの板材をマスを埋めるように並べれば作業台が作れます。"]
 	quest.5CFAB2BF03C7EA18.quest_subtitle: "作業台を作ろう"
 	quest.5CFECB4F786BB465.quest_subtitle: "石炭を見つけて松明を作ろう"
@@ -114,6 +119,9 @@
 		"スクリーンショットは、初回インストール時のフォルダー内の「screenshots」に保存されます。"
 	]
 	quest.7AE803414ACD2F6F.quest_subtitle: "カメラ操作"
+	reward.25655EFB55BC6B03.title: "Discordへ1000mpを送信"
+	reward.5C7654889C87028A.title: "Discordへ500mpを送信"
+	reward.71A6D32B083F4086.title: "Discordへ100mpを送信"
 	task.0154FE0F2DB0B3BA.title: "安全な場所"
 	task.03DADA36E8B60DCD.title: "EMI"
 	task.09F733D01AF1A02A.title: "スキルアップ"

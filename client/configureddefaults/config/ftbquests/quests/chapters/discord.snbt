@@ -1,0 +1,87 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "discord"
+	group: "0898D4431A7F93CA"
+	id: "75EB71CB22641C88"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "4E951C174C35AF71"
+			rewards: [{
+				auto: "disabled"
+				command: "/function makibania:mp_transfer/send_100"
+				icon: {
+					components: {
+						"ftbquests:icon": "jamlib:textures/gui/sprites/link_discord.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "71A6D32B083F4086"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "42732AFE6CDCEA76"
+				item: { count: 1, id: "makibania:makibania_coin_silver" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "42790BC0B1A9676C"
+			rewards: [{
+				auto: "disabled"
+				command: "/function makibania:mp_transfer/send_500"
+				icon: {
+					components: {
+						"ftbquests:icon": "jamlib:textures/gui/sprites/link_discord.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "5C7654889C87028A"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "47BB5AA9BBF46DAE"
+				item: { count: 1, id: "makibania:makibania_coin_gold" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "55D92A4F0898EAF1"
+			rewards: [{
+				auto: "disabled"
+				command: "/function makibania:mp_transfer/send_1000"
+				icon: {
+					components: {
+						"ftbquests:icon": "jamlib:textures/gui/sprites/link_discord.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "25655EFB55BC6B03"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "3735AFA4A90CC3C6"
+				item: { count: 1, id: "makibania:makibania_bill" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+	]
+}
