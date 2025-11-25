@@ -1,1 +1,1 @@
-$tellraw $(player) {"text":"Discordへ500mp送りました","color":"yellow"}
+tellraw @s {"text":"Discordへ500mp送りました","color":"yellow"}
