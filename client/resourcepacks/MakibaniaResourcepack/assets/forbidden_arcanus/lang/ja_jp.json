@@ -286,5 +286,7 @@
   "modifier.forbidden_arcanus.magnetized": "磁力の",
   "modifier.forbidden_arcanus.soulbound": "魂縛の",
   "tooltip.forbidden_arcanus.essence.storage_format": "%s / %s",
-  "upgrade.forbidden_arcanus.darkstone_upgrade": "アップグレードを適用"
+  "upgrade.forbidden_arcanus.darkstone_upgrade": "アップグレードを適用",
+  "jei.forbidden_arcanus.category.clibanoCombustion": "カリバノ焼却",
+  "jei.forbidden_arcanus.category.clibanoCombustion.residue": "残滓"
 }

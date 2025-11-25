@@ -115,5 +115,22 @@
 			x: 5.5d
 			y: 0.0d
 		}
+		{
+			dependencies: ["5CFECB4F786BB465"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:item/nether_star"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "664E3C84C2FFD212"
+			optional: true
+			tasks: [{
+				id: "09F733D01AF1A02A"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -2.0d
+		}
 	]
 }

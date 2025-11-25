@@ -42,6 +42,17 @@
 
     "moonlight:spawn_box",
 
-    "patchouli:guide_book"
+    "patchouli:guide_book",
+    "ftblibrary:icon_item",
+    "ftbquests:book",
+    "ftbquests:smart_filter",
+    "ftbquets:detector",
+    "ftbquests:screen_1",
+    "ftbquests:screen_3",
+    "ftbquests:screen_5",
+    "ftbquests:screen_7",
+    "ftbquests:loot_crate_opener",
+    "ftbfiltersystem:smart_filter",
+    "ftbquests:task_screen_configurator"
   ]
 }

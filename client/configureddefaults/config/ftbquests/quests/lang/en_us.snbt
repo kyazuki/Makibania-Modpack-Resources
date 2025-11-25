@@ -1,26 +1,67 @@
 {
 	chapter.470AFDA7C0CDA91C.title: "welcome"
-	quest.014F24F1F1A7211A.quest_desc: ["ezpz"]
+	chapter.6F9145B678BF8776.title: "tools"
+	quest.014F24F1F1A7211A.quest_desc: [
+		"1. Open inventory by pressing \"E\""
+		"2. Enter keyword in the box on the bottom of your screen"
+		"3. Results show up on the right"
+		"4. &lRight click&r to see usages"
+		"5. &lLeft click&r to see how to obtain the item"
+		""
+		"Shortcuts:"
+		"press these keys while hovering over items in your inventory or search results"
+		""
+		"\"a\" - save/remove a bookmark"
+		"\"u\" - see usage of an item"
+		"\"r\" - "
+	]
 	quest.014F24F1F1A7211A.quest_subtitle: "learn to use the EMI"
 	quest.014F24F1F1A7211A.title: "emi"
-	quest.250C51A083E577B6.quest_desc: ["tree punch and get a log"]
-	quest.250C51A083E577B6.quest_subtitle: "punch tree"
-	quest.250C51A083E577B6.title: "hajimeno ippo"
-	quest.27455A7B4EBCCA48.quest_subtitle: "grass brk"
-	quest.4B5A357A43F0FBE6.quest_desc: ["sword may be easier"]
-	quest.4B5A357A43F0FBE6.quest_subtitle: "go slay sheep craft bed"
-	quest.4B5A357A43F0FBE6.title: "craft bed"
-	quest.5CFAB2BF03C7EA18.quest_desc: ["4 planks craft crafting table"]
+	quest.250C51A083E577B6.quest_desc: ["punch a tree <hold Left click> and get a log"]
+	quest.250C51A083E577B6.quest_subtitle: "punch a tree"
+	quest.250C51A083E577B6.title: "first step"
+	quest.383741A3FC18FBEA.quest_desc: ["press U to check your death log and find your corpse"]
+	quest.383741A3FC18FBEA.quest_subtitle: "check your death log"
+	quest.4B5A357A43F0FBE6.quest_desc: ["slay some sheep and get your wool!"]
+	quest.4B5A357A43F0FBE6.quest_subtitle: "craft a bed to skip the night"
+	quest.4B5A357A43F0FBE6.title: "a place to sleep"
+	quest.4D6574B7FD45653C.quest_subtitle: "skill system"
+	quest.4D6574B7FD45653C.title: "skillzzz"
+	quest.4EFBB66A76A35971.quest_desc: ["press V to ping a position to a friend"]
+	quest.4EFBB66A76A35971.quest_subtitle: "Mark your position"
+	quest.522AD37F77928A47.quest_desc: [
+		"\"Curio\"s are powerful accessories that aid your adventure."
+		"They can be equipped via the curio inventory,"
+		"which can be opened by clicking on the small circle above your character in your inventory screen."
+		""
+		"Shortcuts:"
+		"\"g\" - Open Curio inventory"
+	]
+	quest.522AD37F77928A47.quest_subtitle: "Accesories"
+	quest.522AD37F77928A47.title: "Curio"
+	quest.5CFAB2BF03C7EA18.quest_desc: ["craft 4 planks from your log, then craft a crafting table"]
 	quest.5CFAB2BF03C7EA18.quest_subtitle: "craft crafting table"
 	quest.5CFECB4F786BB465.quest_subtitle: "find coal and craft torch"
 	quest.5CFECB4F786BB465.title: "craft torch"
-	quest.7AE1A92446F57DA7.quest_subtitle: "house"
-	quest.7AE1A92446F57DA7.title: "safe place"
-	reward.1850240A24EFEEFC.title: "open screen"
-	task.0154FE0F2DB0B3BA.title: "safe place"
-	task.191F1B4CCE5AB5CA.title: "emi"
+	quest.664E3C84C2FFD212.quest_desc: [
+		"open your skills menu"
+		"by pressing the "
+		"\"k\" key"
+		"and see if you have any skillpoints available"
+	]
+	quest.664E3C84C2FFD212.quest_subtitle: "\"K\" for sKill"
+	quest.7AE1A92446F57DA7.quest_subtitle: "home, sweet home!"
+	quest.7AE1A92446F57DA7.title: "a safe place"
+	task.0154FE0F2DB0B3BA.title: "a safe place"
+	task.03DADA36E8B60DCD.title: "EMI"
+	task.09F733D01AF1A02A.title: "upgrade your skills"
+	task.191F1B4CCE5AB5CA.title: "EMI"
+	task.20168E8E5F242A43.title: "death logs"
 	task.20AF713F0B32AED0.title: "Any #minecraft:beds"
-	task.4520B4D9864E5D90.title: "Any #minecraft:pickaxes"
 	task.49F0A44BC9A56660.title: "house"
-	task.7BAAA5358C0E84F5.title: "Any #minecraft:hoes"
+	task.50CA53F1745F2822.title: "Any #artifacts:artifacts"
+	task.6EDB22570DB3C34A.title: "Ping!"
+	task.7093FB1CE61D1081.title: "Corpses"
+	quest.2DAC91481D5C034F.quest_subtitle: "I see now"
+	quest.01634BB7492ED783.quest_subtitle: "The ultimate recipe viewer"
 }

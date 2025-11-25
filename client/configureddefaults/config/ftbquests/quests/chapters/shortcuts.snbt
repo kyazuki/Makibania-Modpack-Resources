@@ -1,0 +1,122 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "shortcuts"
+	group: "0052D0E8EF13B02A"
+	icon: {
+		components: {
+			"ftbquests:icon": "oritech:item/wrench"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "6F9145B678BF8776"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "fancymenu:textures/contextmenu/icons/screen.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "01634BB7492ED783"
+			tasks: [{
+				id: "03DADA36E8B60DCD"
+				type: "checkmark"
+			}]
+			x: -10.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "realmrpg_skeletons:block/adventurer_skeleton_base"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "383741A3FC18FBEA"
+			tasks: [{
+				id: "7093FB1CE61D1081"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:item/nether_star"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4D6574B7FD45653C"
+			tasks: [{
+				id: "35001500B10DB859"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/shapes/diamond/shape.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4EFBB66A76A35971"
+			tasks: [{
+				id: "6EDB22570DB3C34A"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -5.5d
+		}
+		{
+			id: "2DAC91481D5C034F"
+			tasks: [{
+				id: "64BFC9CE743E512F"
+				item: { count: 1, id: "minecraft:spyglass" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			id: "522AD37F77928A47"
+			tasks: [{
+				id: "50CA53F1745F2822"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(artifacts:artifacts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -2.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/camera"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7AE803414ACD2F6F"
+			tasks: [{
+				id: "437F4F75BD07C140"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			id: "75188EC9CB0174E0"
+			tasks: [{
+				id: "4B6D541296F06408"
+				item: { count: 1, id: "minecraft:map" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+	]
+}
