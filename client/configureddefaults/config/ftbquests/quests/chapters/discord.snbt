@@ -21,6 +21,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "71A6D32B083F4086"
+				permission_level: 2
 				type: "command"
 			}]
 			tasks: [{
@@ -47,6 +48,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "5C7654889C87028A"
+				permission_level: 2
 				type: "command"
 			}]
 			tasks: [{
@@ -72,6 +74,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "25655EFB55BC6B03"
+				permission_level: 2
 				type: "command"
 			}]
 			tasks: [{
