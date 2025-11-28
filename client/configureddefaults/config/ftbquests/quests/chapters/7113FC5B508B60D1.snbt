@@ -1,0 +1,756 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7113FC5B508B60D1"
+	group: "0898D4431A7F93CA"
+	id: "7113FC5B508B60D1"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "01A526AB333C9190"
+			rewards: [{
+				id: "2E6653ECA449E756"
+				item: {
+					count: 1
+					id: "makibania:makibania_coin_gold"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "763F3C48EEC5CEEA"
+				points: false
+				type: "xp"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			id: "0B86D899A0B33BE4"
+			rewards: [{
+				count: 3
+				id: "7C99D352AF51752F"
+				item: {
+					count: 1
+					id: "makibania:makibania_coin_silver"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "artifacts:amateur_archaeologist"
+				criterion: ""
+				id: "6BEB35D0F62245E2"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			id: "7BDE5ADE0512E878"
+			rewards: [{
+				count: 3
+				id: "1C7A1B1BBFD81392"
+				item: {
+					count: 1
+					id: "makibania:makibania_coin_silver"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "betterarcheology:fossil_found"
+				criterion: ""
+				id: "2EA71B3A4EF41446"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			id: "0D9613121C574583"
+			rewards: [{
+				count: 3
+				id: "116A2081255221DA"
+				item: {
+					count: 1
+					id: "makibania:makibania_coin_silver"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "farmersdelight:main/get_mushroom_colony"
+				criterion: ""
+				id: "75BFAD76E0388663"
+				type: "advancement"
+			}]
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			id: "6970178789712CC4"
+			rewards: [{
+				id: "2187CE918884E209"
+				item: {
+					count: 1
+					id: "makibania:makibania_coin_gold"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/avoid_vibration"
+				criterion: ""
+				id: "42FAE20C5739BA05"
+				type: "advancement"
+			}]
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				id: "plushie_buddies:plushie_enderman"
+			}
+			id: "3E320347CCAA04D8"
+			rewards: [{
+				count: 2
+				id: "421C9E4F2523969F"
+				item: {
+					count: 1
+					id: "makibania:makibania_bill"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					entity: "endermanoverhaul:badlands_enderman"
+					id: "090D91E227442344"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:cave_enderman"
+					id: "62E965938A6E20EC"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:coral_enderman"
+					id: "237C67BE5CB1ADEC"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:dark_oak_enderman"
+					id: "66C715F5194293E3"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:desert_enderman"
+					id: "3D9372F72D338A48"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:flower_fields_enderman"
+					id: "4BF4C4533987BDEC"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:ice_spikes_enderman"
+					id: "6C07F4644AACF2F1"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:mushroom_fields_enderman"
+					id: "146F4DBA6D568FA8"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:savanna_enderman"
+					id: "496BF50F5D9A168F"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:snowy_enderman"
+					id: "7602DB4438A5E031"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:swamp_enderman"
+					id: "3A877CE2A8E783FE"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:windswept_hills_enderman"
+					id: "0498CE522D79E8BD"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:enderman"
+					id: "14CDC3C22BBF108A"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			id: "16BDCF6F67724C52"
+			rewards: [{
+				id: "1BC08E2ECE5AEF3A"
+				item: {
+					count: 1
+					id: "makibania:makibania_coin_gold"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:fishing_rod"
+				}
+				id: "6CB951BF5608E908"
+				stat: "minecraft:fish_caught"
+				type: "stat"
+				value: 100
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			id: "63212D3C82B0B4F8"
+			rewards: [{
+				id: "5AE1D031C802EE40"
+				item: {
+					count: 1
+					id: "makibania:makibania_coin_gold"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:red_bed"
+				}
+				id: "0572B147A2C5CBE5"
+				stat: "minecraft:sleep_in_bed"
+				type: "stat"
+				value: 200
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			id: "502FBBC81700B536"
+			rewards: [{
+				count: 3
+				id: "233DBE0E1402AAE1"
+				item: {
+					count: 1
+					id: "makibania:makibania_coin_silver"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "realmrpg_skeletons:basic_skeleton"
+				}
+				id: "541C222016C6281A"
+				stat: "minecraft:deaths"
+				type: "stat"
+				value: 200
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/map/decorations/plains_village.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "667F3862BC3656E4"
+			rewards: [{
+				count: 2
+				id: "5D84AD4D4F20F695"
+				item: {
+					count: 1
+					id: "makibania:makibania_bill"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:emi_ores/biome_icon/ocean"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "55E5B50A117C42E1"
+					structure: "joshie:village_ocean"
+					type: "structure"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:emi_ores/biome_icon/desert"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "52036F65BD602715"
+					structure: "minecraft:village_desert"
+					type: "structure"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:emi_ores/biome_icon/plains"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "0D425C73266C49D1"
+					structure: "minecraft:village_plains"
+					type: "structure"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:emi_ores/biome_icon/savanna"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "4AA1844BF0DE8D79"
+					structure: "minecraft:village_savanna"
+					type: "structure"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:emi_ores/biome_icon/snowy_plains"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "3026F6FFC8619346"
+					structure: "minecraft:village_snowy"
+					type: "structure"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:emi_ores/biome_icon/taiga"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "3616B6B15D09B54C"
+					structure: "minecraft:village_taiga"
+					type: "structure"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:emi_ores/biome_icon/jungle"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "35CA7B13DA56FC74"
+					structure: "mmv:village_jungle"
+					type: "structure"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:emi_ores/biome_icon/swamp"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "765546080BB3E209"
+					structure: "mmv:village_swamp"
+					type: "structure"
+				}
+				{
+					icon: {
+						id: "betterarcheology:villager_fossil_head"
+					}
+					id: "613E945DF34189A9"
+					structure: "betterarcheology:villager_grave"
+					type: "structure"
+				}
+			]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			id: "349E76F0512A29EA"
+			tasks: [{
+				advancement: "cosmeticarmoursmod:agricultural_apprentice_achievement"
+				criterion: ""
+				id: "5100DC941CA9B0A8"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "oceansdelight:guardian_soup"
+			}
+			id: "39A53995EAA4666F"
+			rewards: [{
+				count: 2
+				id: "75EF93E75ABF0E1B"
+				item: {
+					count: 1
+					id: "makibania:makibania_bill"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "0179766357D4EE36"
+					item: { count: 1, id: "minecraft:beetroot_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "1A29DB6A29030C84"
+					item: { count: 1, id: "brewinandchewin:creamy_onion_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "221F9BE8B9785167"
+					item: { count: 1, id: "oceansdelight:bowl_of_guardian_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "0C7B2FD660E8EC7D"
+					item: { count: 1, id: "farmersdelight:chicken_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "540320839CC4C9A2"
+					item: { count: 1, id: "farmersdelight:vegetable_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "1A3A36E1AB79BA3B"
+					item: { count: 1, id: "farmersdelight:pumpkin_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2948484B7D05167D"
+					item: { count: 1, id: "farmersdelight:noodle_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "103287FE6367D6B3"
+					item: { count: 1, id: "expandeddelight:asparagus_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2666026BEEC63883"
+					item: { count: 1, id: "expandeddelight:asparagus_soup_creamy" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "0987001A1536EB12"
+					item: { count: 1, id: "expandeddelight:peanut_honey_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "63F689B1575B96EE"
+					item: { count: 1, id: "minersdelight:bat_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "3472C65685CB6062"
+					item: { count: 1, id: "forbidden_arcanus:bat_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "34C5B2D81237A40F"
+					item: { count: 1, id: "oceansdelight:seagrass_salad" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "7B7BD386B65AD1E3"
+					item: { count: 1, id: "farmersdelight:fruit_salad" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2ACDD914CD6972C5"
+					item: { count: 1, id: "farmersdelight:mixed_salad" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "3A78192B5A317A51"
+					item: { count: 1, id: "createfood:mixed_salad_beetroot_carrot" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "1CC1C34BAA02AA58"
+					item: { count: 1, id: "expandeddelight:peanut_salad" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				id: "minecraft:cake"
+			}
+			id: "1A97B319730A9A67"
+			rewards: [{
+				count: 2
+				id: "301A04D422D232D7"
+				item: {
+					count: 1
+					id: "makibania:makibania_bill"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "54C40B962ADF5A96"
+					item: { count: 1, id: "minecraft:cake" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "30172863C87FEAD9"
+					item: { count: 1, id: "brewinandchewin:flaxen_cheese_wheel" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "59D931F5ACF45D39"
+					item: { count: 1, id: "brewinandchewin:pizza" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2328468F33CFC5AF"
+					item: { count: 1, id: "brewinandchewin:quiche" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "4B3CA6D53D9BB52E"
+					item: { count: 1, id: "farmersdelight:apple_pie" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "6A806D46DAD30E0C"
+					item: { count: 1, id: "farmersdelight:sweet_berry_cheesecake" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "33C0E8807B345E06"
+					item: { count: 1, id: "farmersdelight:chocolate_pie" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "7FBCFC2D402A69BC"
+					item: { count: 1, id: "farmersdelight:roast_chicken_block" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "7CF65743C3BDC6EC"
+					item: { count: 1, id: "farmersdelight:stuffed_pumpkin_block" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "0AF40DA915978B2D"
+					item: { count: 1, id: "farmersdelight:honey_glazed_ham_block" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "07B26D308334A91D"
+					item: { count: 1, id: "farmersdelight:shepherds_pie_block" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "6C265240EE5920DD"
+					item: { count: 1, id: "farmersdelight:rice_roll_medley_block" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "5393D1DF5CBDAE69"
+					item: { count: 1, id: "expandeddelight:goat_cheese_wheel" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "534EBC8E9F6BB02D"
+					item: { count: 1, id: "expandeddelight:cheese_wheel" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2BA113F8592A5210"
+					item: { count: 1, id: "expandeddelight:honeyed_goat_cheese_tart" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "776E927A23EA471A"
+					item: { count: 1, id: "expandeddelight:cranberry_cobbler" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "1FEF7CD1A61629A2"
+			rewards: [{
+				count: 2
+				id: "17D08C677C5C152A"
+				item: {
+					count: 1
+					id: "makibania:makibania_bill"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "2C7FB599010FBB0E"
+					item: { count: 1, id: "create:cardboard_sword" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "1FC586D7A7ADA2C6"
+					item: { count: 1, id: "farmers_attributes:sharp_carrot" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "6CE5CF5F62689B80"
+					item: { count: 1, id: "cosmeticweaponsmod:glass_sword" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2931A52E4E0D76A2"
+					item: { count: 1, id: "enchanted:arthana" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "686EFD4F93FBCDBF"
+					item: { count: 1, id: "archeological:rusty_sword" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "44910E1AA143FCE8"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(makibania:styled_swords)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "535889BD651D6CA4"
+					item: { count: 1, id: "cosmeticweaponsmod:turtle_sword" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "6B01904EB96F392C"
+					item: { count: 1, id: "cosmeticweaponsmod:bone_knife" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "5B76A6C836840A42"
+					item: { count: 1, id: "farmersdelight:flint_knife" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "6107CFA0C75EE90E"
+			rewards: [{
+				id: "2C2DD2C63756BF91"
+				item: {
+					count: 1
+					id: "makibania:makibania_coin_gold"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "03231B3BE99AF4F2"
+					item: { count: 1, id: "createfood:apple_cream_frosting_bottle" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "21FF67D34332C381"
+					item: { count: 1, id: "minecraft:honey_bottle" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "6CE9E02A20A31FB5"
+					item: { count: 1, id: "enchanted:redstone_soup" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "45A3A07C5B7137FC"
+					item: { count: 1, id: "minecraft:ominous_bottle" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "4B2A0086F05595AE"
+					item: { components: { "minecraft:potion_contents": { potion: "minecraft:water" } }, count: 1, id: "minecraft:potion" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -1.0d
+		}
+	]
+}

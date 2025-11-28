@@ -17,11 +17,17 @@
 	]
 	quest.014F24F1F1A7211A.quest_subtitle: "learn to use the EMI"
 	quest.014F24F1F1A7211A.title: "emi"
+	quest.01634BB7492ED783.quest_subtitle: "The ultimate recipe viewer"
+	quest.1A97B319730A9A67.title: "パーティの裏方"
+	quest.1FEF7CD1A61629A2.title: "ソードマスター"
 	quest.250C51A083E577B6.quest_desc: ["punch a tree <hold Left click> and get a log"]
 	quest.250C51A083E577B6.quest_subtitle: "punch a tree"
 	quest.250C51A083E577B6.title: "first step"
+	quest.2DAC91481D5C034F.quest_subtitle: "I see now"
 	quest.383741A3FC18FBEA.quest_desc: ["press U to check your death log and find your corpse"]
 	quest.383741A3FC18FBEA.quest_subtitle: "check your death log"
+	quest.39A53995EAA4666F.title: "スーパーサラダ"
+	quest.3E320347CCAA04D8.title: "エンダーマンの宿敵"
 	quest.4B5A357A43F0FBE6.quest_desc: ["slay some sheep and get your wool!"]
 	quest.4B5A357A43F0FBE6.quest_subtitle: "craft a bed to skip the night"
 	quest.4B5A357A43F0FBE6.title: "a place to sleep"
@@ -43,6 +49,7 @@
 	quest.5CFAB2BF03C7EA18.quest_subtitle: "craft crafting table"
 	quest.5CFECB4F786BB465.quest_subtitle: "find coal and craft torch"
 	quest.5CFECB4F786BB465.title: "craft torch"
+	quest.6107CFA0C75EE90E.title: "瓶のコレクション"
 	quest.664E3C84C2FFD212.quest_desc: [
 		"open your skills menu"
 		"by pressing the "
@@ -50,18 +57,24 @@
 		"and see if you have any skillpoints available"
 	]
 	quest.664E3C84C2FFD212.quest_subtitle: "\"K\" for sKill"
+	quest.667F3862BC3656E4.title: "コネでカネ"
 	quest.7AE1A92446F57DA7.quest_subtitle: "home, sweet home!"
 	quest.7AE1A92446F57DA7.title: "a safe place"
 	task.0154FE0F2DB0B3BA.title: "a safe place"
 	task.03DADA36E8B60DCD.title: "EMI"
 	task.09F733D01AF1A02A.title: "upgrade your skills"
+	task.0D425C73266C49D1.title: "平原の村"
 	task.191F1B4CCE5AB5CA.title: "EMI"
 	task.20168E8E5F242A43.title: "death logs"
 	task.20AF713F0B32AED0.title: "Any #minecraft:beds"
+	task.3026F6FFC8619346.title: "雪原の村"
+	task.3616B6B15D09B54C.title: "タイガの村"
 	task.49F0A44BC9A56660.title: "house"
+	task.4AA1844BF0DE8D79.title: "サバンナの村"
 	task.50CA53F1745F2822.title: "Any #artifacts:artifacts"
+	task.52036F65BD602715.title: "砂漠の村"
+	task.55E5B50A117C42E1.title: "海の村"
+	task.613E945DF34189A9.title: "村人の墓"
 	task.6EDB22570DB3C34A.title: "Ping!"
 	task.7093FB1CE61D1081.title: "Corpses"
-	quest.2DAC91481D5C034F.quest_subtitle: "I see now"
-	quest.01634BB7492ED783.quest_subtitle: "The ultimate recipe viewer"
 }

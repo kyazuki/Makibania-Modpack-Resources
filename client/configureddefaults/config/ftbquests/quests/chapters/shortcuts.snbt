@@ -25,8 +25,8 @@
 				id: "03DADA36E8B60DCD"
 				type: "checkmark"
 			}]
-			x: -10.0d
-			y: -5.5d
+			x: -7.5d
+			y: -5.0d
 		}
 		{
 			icon: {
@@ -40,8 +40,8 @@
 				id: "7093FB1CE61D1081"
 				type: "checkmark"
 			}]
-			x: -7.5d
-			y: -5.5d
+			x: -2.5d
+			y: -5.0d
 		}
 		{
 			icon: {
@@ -56,7 +56,7 @@
 				type: "checkmark"
 			}]
 			x: -5.0d
-			y: -5.5d
+			y: -5.0d
 		}
 		{
 			icon: {
@@ -70,8 +70,8 @@
 				id: "6EDB22570DB3C34A"
 				type: "checkmark"
 			}]
-			x: -2.5d
-			y: -5.5d
+			x: -5.0d
+			y: -2.5d
 		}
 		{
 			id: "2DAC91481D5C034F"
@@ -81,7 +81,7 @@
 				type: "item"
 			}]
 			x: -7.5d
-			y: -2.5d
+			y: 0.0d
 		}
 		{
 			id: "522AD37F77928A47"
@@ -90,8 +90,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(artifacts:artifacts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -10.0d
-			y: -2.5d
+			x: -2.5d
+			y: 0.0d
 		}
 		{
 			icon: {
@@ -105,7 +105,7 @@
 				id: "437F4F75BD07C140"
 				type: "checkmark"
 			}]
-			x: -2.5d
+			x: -7.5d
 			y: -2.5d
 		}
 		{
@@ -116,6 +116,18 @@
 				type: "item"
 			}]
 			x: -5.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "57388BCCA31A8879"
+			tasks: [{
+				id: "512C73D6A9E79615"
+				type: "checkmark"
+			}]
+			x: -2.5d
 			y: -2.5d
 		}
 	]

@@ -3,6 +3,12 @@
 	default_quest_shape: ""
 	filename: "discord"
 	group: "0898D4431A7F93CA"
+	icon: {
+		components: {
+			"ftbquests:icon": "moonlight:textures/gui/sprites/media/discord.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
 	id: "75EB71CB22641C88"
 	order_index: 0
 	quest_links: [ ]

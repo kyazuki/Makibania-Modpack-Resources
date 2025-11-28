@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "cosmeticweaponsmod:blooming_sword",
+        "cosmeticweaponsmod:diamond_sword_reclaimed",
+        "cosmeticweaponsmod:sculked_sword",
+        "cosmeticweaponsmod:shrouded_sword"
+    ]
+}
