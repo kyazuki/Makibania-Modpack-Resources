@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "tag": "c:flours/wheat"
+        },
+        {
+            "item": "expandeddelight:salt"
+        },
+        {
+            "type": "neoforge:single",
+            "amount": 1000,
+            "fluid": "northstar:brine"
+        }
+    ],
+    "results": [
+        {
+            "count": 3,
+            "item": {
+                "id": "farmersdelight:wheat_dough"
+            }
+        }
+    ]
+}
