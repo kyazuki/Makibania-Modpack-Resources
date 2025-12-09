@@ -1,0 +1,30 @@
+{
+    "subtitles.entity.parrot.imitate.piglin_alchemist": "オウムが鳴く",
+    "subtitles.entity.parrot.imitate.piglin_traveler": "オウムが鳴く",
+    "subtitles.entity.parrot.imitate.zombified_piglin": "オウムが鳴く",
+    "subtitles.entity.critical_aura.activate": "クリティカルオーラが発動する",
+    "subtitles.entity.critical_aura.apply": "クリティカルオーラが適用される",
+    "subtitles.entity.critical_aura.deactivate": "クリティカルオーラが解除される",
+    "item.piglinproliferation.travelers_compass": "トラベラーコンパス",
+
+    "block.piglinproliferation.stone_fire_ring": "石の囲炉裏",
+    "block.piglinproliferation.stone_soul_fire_ring": "石の魂の囲炉裏",
+    "block.piglinproliferation.deepslate_fire_ring": "深層岩の囲炉裏",
+    "block.piglinproliferation.deepslate_soul_fire_ring": "深層岩の魂の囲炉裏",
+    "block.piglinproliferation.netherrack_fire_ring": "ネザーラックの囲炉裏",
+    "block.piglinproliferation.netherrack_soul_fire_ring": "ネザーラックの魂の囲炉裏",
+    "block.piglinproliferation.blackstone_fire_ring": "ブラックストーンの囲炉裏",
+    "block.piglinproliferation.blackstone_soul_fire_ring": "ブラックストーンの魂の囲炉裏",
+    "block.piglinproliferation.end_stone_fire_ring": "エンドストーンの囲炉裏",
+    "block.piglinproliferation.end_stone_soul_fire_ring": "エンドストーンの魂の囲炉裏",
+    "piglinproliferation.advancements.nether.add_effect_to_fire_ring.description": "囲炉裏でポーションの効果を空中に拡散させる。",
+    
+    "item.piglinproliferation.buckler.desc.charge_ability": "%ss 突進",
+    "item.piglinproliferation.buckler.desc.details": "[%s を押して詳細を表示]",
+    "item.piglinproliferation.buckler.desc.while_charging": "突進中:",
+    "item.piglinproliferation.buckler.desc.water": "水中では突進できない",
+    "enchantment.piglinproliferation.turning.desc": "突進中の旋回速度が上がるが、バックラーによるシールドバッシュのダメージが減少する。",
+    "piglinproliferation.advancements.nether.obtain_buckler.title": "突進の時間だ！",
+
+    "enchantment.piglinproliferation.bang.desc": "シールドバッシュをすると大爆発を起こし、使用者と周囲のMobにダメージを与える。"   
+}

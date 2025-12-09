@@ -1,0 +1,8 @@
+{
+    "enchantment.usefulspyglass.marking": "マーキング",
+    "enchantment.usefulspyglass.marking.desc": "望遠鏡越しにモブをクリックすると、対象を発光エフェクトでマーキングします。",
+    "enchantment.usefulspyglass.precision": "精密",
+    "enchantment.usefulspyglass.precision.desc": "望遠鏡をオフハンドに持ち、しゃがみながら遠距離武器を使うとズームがかかります。発射物は精度が向上し、追加ダメージを与えます。",
+    "enchantment.usefulspyglass.spotter": "スポッター",
+    "enchantment.usefulspyglass.spotter.desc": "望遠鏡越しにモブをクリックすると、その周囲の生物を発光させるエンダーアイを設置します。"
+}

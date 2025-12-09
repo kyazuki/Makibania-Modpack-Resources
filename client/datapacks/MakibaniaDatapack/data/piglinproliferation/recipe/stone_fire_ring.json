@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+
+    "C": {
+      "tag": "minecraft:coals"
+    },
+    "B": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "S": {
+      "item": "forbidden_arcanus:soulless_sand"
+    }
+  },
+  "pattern": [
+    " C ",
+    "BSB"
+  ],
+  "result": {
+    "id": "piglinproliferation:stone_fire_ring"
+  }
+}

@@ -135,5 +135,7 @@
     "effect.chromaticarsenal.fractured.description": "最大体力がレベルごとに10%減少する",
     "effect.chromaticarsenal.inferno": "獄炎",
     "effect.chromaticarsenal.inferno.description": "効果が切れるまで対象を炎上させる。水で消火されない。",
-    "itemGroup.chromaticarsenal": "Chromatic Arsenal"
+    "itemGroup.chromaticarsenal": "Chromatic Arsenal",
+    "advancement.chromaticarsenal.thunderguard.title": "ビリビリーン",
+    "advancement.chromaticarsenal.thunderguard.description": "硝子の盾に雷を当てて避雷の護りを作る"
 }

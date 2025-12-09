@@ -264,7 +264,7 @@
 				id: "541C222016C6281A"
 				stat: "minecraft:deaths"
 				type: "stat"
-				value: 200
+				value: 100
 			}]
 			x: -4.5d
 			y: -3.0d
@@ -389,6 +389,15 @@
 		}
 		{
 			id: "349E76F0512A29EA"
+			rewards: [{
+				count: 3
+				id: "0E9159A0290EFD4E"
+				item: {
+					count: 1
+					id: "makibania:makibania_coin_silver"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				advancement: "cosmeticarmoursmod:agricultural_apprentice_achievement"
 				criterion: ""
