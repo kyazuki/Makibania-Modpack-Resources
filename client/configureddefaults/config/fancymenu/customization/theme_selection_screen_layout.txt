@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = theme_selection_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1766156263157
+  last_edited_time = 1766159177893
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:3812808f-b802-4fff-ad99-aac26f6b963e-1766156226737] = [groups:][instances:]
+  [loading_requirement_container_meta:3c7f76ff-8f26-4fca-9f36-91ac72fdd8b7-1766159086813] = [groups:][instances:]
 }
 
 customization {
@@ -30,8 +30,7 @@ scroll_list_customization {
 
 layout_action_executable_blocks {
   close_screen_executable_block_identifier = 26cc2d19-37d4-4bb4-ba90-96f7a08b14da-1766156234004
-  [executable_action_instance:06413bcc-4939-4e39-9965-31c820ed6f3a-1766156246561][action_type:reload_resource_packs] = 
-  [executable_block:26cc2d19-37d4-4bb4-ba90-96f7a08b14da-1766156234004][type:generic] = [executables:06413bcc-4939-4e39-9965-31c820ed6f3a-1766156246561;]
+  [executable_block:26cc2d19-37d4-4bb4-ba90-96f7a08b14da-1766156234004][type:generic] = [executables:]
 }
 
 element {
@@ -100,7 +99,8 @@ element {
 element {
   button_element_executable_block_identifier = 020695e9-1881-45dc-bd0f-0b71209e1ceb-1766145518785
   [executable_action_instance:8d0b5573-0344-4bce-a955-d229b222fc29-1766145602670][action_type:set_variable] = theme:default
-  [executable_block:020695e9-1881-45dc-bd0f-0b71209e1ceb-1766145518785][type:generic] = [executables:8d0b5573-0344-4bce-a955-d229b222fc29-1766145602670;]
+  [executable_action_instance:0d2dfaaf-f481-4cde-b7bb-59ef63d0a6b4-1766159134075][action_type:set_variable] = resource_group:default
+  [executable_block:020695e9-1881-45dc-bd0f-0b71209e1ceb-1766145518785][type:generic] = [executables:8d0b5573-0344-4bce-a955-d229b222fc29-1766145602670;0d2dfaaf-f481-4cde-b7bb-59ef63d0a6b4-1766159134075;]
   backgroundhovered = [source:location]makibania:fancy_menu/default/bg.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
@@ -164,7 +164,8 @@ element {
 element {
   button_element_executable_block_identifier = 020695e9-1881-45dc-bd0f-0b71209e1ceb-1766145518785
   [executable_action_instance:8d0b5573-0344-4bce-a955-d229b222fc29-1766145602670][action_type:set_variable] = theme:1_3_0
-  [executable_block:020695e9-1881-45dc-bd0f-0b71209e1ceb-1766145518785][type:generic] = [executables:8d0b5573-0344-4bce-a955-d229b222fc29-1766145602670;]
+  [executable_action_instance:691b9174-120a-4171-abea-98b8fe08ab3f-1766159164479][action_type:set_variable] = resource_group:1_3_0
+  [executable_block:020695e9-1881-45dc-bd0f-0b71209e1ceb-1766145518785][type:generic] = [executables:8d0b5573-0344-4bce-a955-d229b222fc29-1766145602670;691b9174-120a-4171-abea-98b8fe08ab3f-1766159164479;]
   backgroundhovered = [source:location]makibania:fancy_menu/1_3_0/bg.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
