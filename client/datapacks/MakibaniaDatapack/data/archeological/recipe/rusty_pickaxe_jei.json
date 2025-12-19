@@ -1,6 +1,6 @@
 {
   "type": "betterarcheology:identifying",
-  "input": {
+  "ingredient": {
     "item": "archeological:rusty_pickaxe"
   },
   "result": {

@@ -1,6 +1,6 @@
 {
   "type": "betterarcheology:identifying",
-  "input": {
+  "ingredient": {
     "item": "archeological:rock_scraps"
   },
   "result": {

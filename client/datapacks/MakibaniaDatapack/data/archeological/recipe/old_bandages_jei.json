@@ -1,6 +1,6 @@
 {
   "type": "betterarcheology:identifying",
-  "input": {
+  "ingredient": {
     "item": "archeological:old_bandages"
   },
   "result": {

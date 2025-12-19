@@ -1,6 +1,6 @@
 {
   "type": "betterarcheology:identifying",
-  "input": {
+  "ingredient": {
     "item": "archeological:rotten_manuscript"
   },
   "result": {

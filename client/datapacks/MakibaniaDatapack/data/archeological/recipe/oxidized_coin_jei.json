@@ -1,6 +1,6 @@
 {
   "type": "betterarcheology:identifying",
-  "input": {
+  "ingredient": {
     "item": "archeological:oxidized_coin"
   },
   "result": {
