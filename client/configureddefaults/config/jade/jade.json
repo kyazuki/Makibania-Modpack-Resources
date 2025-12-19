@@ -12,7 +12,7 @@
     "extendedReach": 0.0,
     "debug": false,
     "displayBosses": true,
-    "displayMode": "LITE",
+    "displayMode": "TOGGLE",
     "enableTextToSpeech": false,
     "ttsMode": "PRESS",
     "previewOverlay": true,
@@ -42,6 +42,7 @@
     }
   },
   "history": {
+    "hintOverlayToggle": false,
     "themesHash": -328442023
   }
 }
