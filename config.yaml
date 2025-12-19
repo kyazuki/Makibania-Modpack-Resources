@@ -27,8 +27,8 @@ mods:
   - name: Archeological
     type: curseforge
     projectId: 1107838
-    fileId: 7131282
-    hash: 5f24fe28f774588b6edf52bc26af2881c12f094e
+    fileId: 7341635
+    hash: 1196343e95723454de83b8106d230d4f10771b5f
     side: both
   - name: Architectury API
     type: curseforge
@@ -75,8 +75,8 @@ mods:
   - name: Balm
     type: curseforge
     projectId: 531761
-    fileId: 7087416
-    hash: d747b7751c191bf3227c12b6b6464397390588ca
+    fileId: 7264790
+    hash: 288003dfab9ef7d4aa600c9325cb64ce861c3d4d
     side: both
   - name: Better Advancements
     type: curseforge
@@ -177,8 +177,8 @@ mods:
   - name: Concurrent Chunk Management Engine
     type: curseforge
     projectId: 533097
-    fileId: 7199400
-    hash: ca069117629d0bb17f4dbd55ff887f0f6301a964
+    fileId: 7263293
+    hash: b00b795c80c69be602d2245812358fcd01951d63
     side: both
   - name: Configured Defaults
     type: curseforge
@@ -246,6 +246,12 @@ mods:
     fileId: 6932330
     hash: 943bbe3c1e6aba473fb6907fd01ea96580d09fd0
     side: both
+  - name: Create Railways Navigator
+    type: curseforge
+    projectId: 935929
+    fileId: 7227739
+    hash: e24db63cec8d7cb1f35c569a5ca85d03ed34de9b
+    side: both
   - name: "Create: Aquatic Ambitions"
     type: curseforge
     projectId: 1005676
@@ -267,8 +273,8 @@ mods:
   - name: "Create: Northstar - Redux"
     type: curseforge
     projectId: 1318310
-    fileId: 7250322
-    hash: 56e9e1c85568188329d3c3f14d77972b29e2fe92
+    fileId: 7349865
+    hash: f6d4ce218fb1e20add1e54391b363210680aff20
     side: both
   - name: "Create: Power Loader"
     type: curseforge
@@ -339,14 +345,14 @@ mods:
   - name: "Distant Horizons: A Level of Detail mod"
     type: curseforge
     projectId: 508933
-    fileId: 7104615
-    hash: e8a97b52e89bf96f67af547cda3bc6b15f5ceb73
+    fileId: 7350266
+    hash: ed4dcd8363226bcaf7cbad9233e41d8e61805c50
     side: both
   - name: Drippy Loading Screen
     type: curseforge
     projectId: 511770
-    fileId: 6412226
-    hash: d54a81ceeb1df321dbb0cbc22fc8c9fa96f9be55
+    fileId: 7248439
+    hash: 907f43294b63cd845bf2fdad1ea5fe5c52552508
     side: both
   - name: EMI
     type: curseforge
@@ -363,8 +369,8 @@ mods:
   - name: EMI Loot
     type: curseforge
     projectId: 681783
-    fileId: 6449102
-    hash: 5429623ee1e27c6d4e820c0514233089140fd48c
+    fileId: 7265577
+    hash: ba81fe23071416381c029e69abcb97a8eac567c0
     side: both
   - name: EMI Ores
     type: curseforge
@@ -390,6 +396,12 @@ mods:
     fileId: 6630130
     hash: 9593141e8e9853cdbc2a1d9be57245db092b2bf8
     side: both
+  - name: Emotecraft
+    type: curseforge
+    projectId: 403422
+    fileId: 6941989
+    hash: 1228c7597c4b6cbaec10a090f9b5b471ca9042d4
+    side: both
   - name: "Enchanted: Witchcraft"
     type: curseforge
     projectId: 560363
@@ -401,6 +413,12 @@ mods:
     projectId: 574409
     fileId: 6023706
     hash: 87bd5be58cfeb6bccb255cfc3af7cc90b46a309a
+    side: both
+  - name: Enemy Echelons
+    type: curseforge
+    projectId: 656060
+    fileId: 6874524
+    hash: 3b37af0ca47d537552b5883d9d5fa80e3ceb93e0
     side: both
   - name: Expanded Delight
     type: curseforge
@@ -423,14 +441,14 @@ mods:
   - name: FTB Library (Forge)
     type: curseforge
     projectId: 404465
-    fileId: 7182154
-    hash: 7d8a63d41284d5be2aca14d42a58d16a354a292c
+    fileId: 7312258
+    hash: 10a0674a76a6f5d736ee43d4179512f22fce5d03
     side: both
   - name: FTB Quests (NeoForge)
     type: curseforge
     projectId: 289412
-    fileId: 7213963
-    hash: 03bdfa2d7e48095f4c260a464f476336b7fc1e8d
+    fileId: 7260682
+    hash: cfa7c09cc2fd6fecd60af9e6e3bbd49f1c7ffb1c
     side: both
   - name: FTB Teams (NeoForge)
     type: curseforge
@@ -447,8 +465,8 @@ mods:
   - name: FancyMenu
     type: curseforge
     projectId: 367706
-    fileId: 6919001
-    hash: a7f7feeb0273ebfa0eafacc2ed3169d7abec8ef1
+    fileId: 7256741
+    hash: 061a2c1ae0563d9d433928c243c58ee9b45f630f
     side: both
   - name: "Farmer's Cutting: Oh The Biomes We've Gone"
     type: curseforge
@@ -552,6 +570,12 @@ mods:
     fileId: 6634585
     hash: 55cf667b16b81df9b8f7fead042cf2f732b21b85
     side: both
+  - name: GottschCore
+    type: curseforge
+    projectId: 272450
+    fileId: 6863231
+    hash: 4e6850394a1e4c36e46160cbcf457d0597666ce5
+    side: both
   - name: Horseman
     type: curseforge
     projectId: 1082085
@@ -561,14 +585,20 @@ mods:
   - name: Icarus
     type: curseforge
     projectId: 428151
-    fileId: 7238423
-    hash: 2e7a8c7fe4e0ae05f2bf106e2c0f9efb2c3f2222
+    fileId: 7269567
+    hash: e831076c3c3d1564940a5bfd204b4bfbb735ef2b
     side: both
   - name: IceAndFire Community Edition
     type: curseforge
     projectId: 1040076
-    fileId: 7210417
-    hash: 8221fde15a0b27a55155134b3c9639b41650c738
+    fileId: 7350158
+    hash: bc58111ad61feb1180d7197d42154281d9f38dab
+    side: both
+  - name: Illager Invasion
+    type: curseforge
+    projectId: 891324
+    fileId: 6492670
+    hash: 48bea606f6e3f10e2100349de2c6c65c76c20786
     side: both
   - name: Immersive Aircraft [Fabric/Forge]
     type: curseforge
@@ -651,8 +681,8 @@ mods:
   - name: Lodestone
     type: curseforge
     projectId: 616457
-    fileId: 6630047
-    hash: bd0c9548412abbb7f164f12af70311ef268435d0
+    fileId: 7264731
+    hash: d1f7c638fac5192e01b1873f27e694a3c262ad11
     side: both
   - name: Lost Libraries
     type: curseforge
@@ -668,8 +698,8 @@ mods:
   - name: MES - Moog's End Structures
     type: curseforge
     projectId: 892382
-    fileId: 6918257
-    hash: 3d49d77db1d1264216c55f476ed1030dc61a1114
+    fileId: 7257822
+    hash: 141058406bc15b7304400913688b1649f06ddcf8
     side: both
   - name: MMV - Moog's Missing Villages
     type: curseforge
@@ -680,8 +710,8 @@ mods:
   - name: MNS - Moog's Nether Structures
     type: curseforge
     projectId: 967466
-    fileId: 7228566
-    hash: e0328d451b734a851a96bb1190427836fb6886c9
+    fileId: 7312599
+    hash: e36e41bca1e953fc05306bb84da7aef8fa9576bb
     side: both
   - name: Mouse Tweaks
     type: curseforge
@@ -698,8 +728,8 @@ mods:
   - name: MVS - Moog's Voyager Structures
     type: curseforge
     projectId: 656977
-    fileId: 7233132
-    hash: b197981072872996ccc2b967f561437fb5a3e1e1
+    fileId: 7311745
+    hash: 76779c5992bba7b1992f800697d17c03b68a3b31
     side: both
   - name: Melody
     type: curseforge
@@ -716,8 +746,8 @@ mods:
   - name: MidnightLib
     type: curseforge
     projectId: 488090
-    fileId: 6772065
-    hash: f91cfeb927feab9cc31a09f7d64184f431114371
+    fileId: 7254894
+    hash: 4e54f9df0d6fda3ef84a5720e7f2b026f8820168
     side: both
   - name: Miner's Delight +
     type: curseforge
@@ -746,8 +776,8 @@ mods:
   - name: Moonlight Lib
     type: curseforge
     projectId: 499980
-    fileId: 7238829
-    hash: 66cd7c8c604148b24113021ab2ea2c245e82d44d
+    fileId: 7266807
+    hash: e870e01b69587f49cb72f6c594867cd9c04ab0a8
     side: both
   - name: My Nether's Delight
     type: curseforge
@@ -758,8 +788,8 @@ mods:
   - name: Mythica - a Second Overworld Dimension
     type: curseforge
     projectId: 1354448
-    fileId: 7181325
-    hash: 35c49ee734e025f210d5e356451f951001f4e4c4
+    fileId: 7273740
+    hash: 5ee66d9a7bb55da860541e3f3cd83f95cbec7e3a
     side: both
   - name: NeoAuth
     type: curseforge
@@ -776,8 +806,8 @@ mods:
   - name: Not Enough Animations
     type: curseforge
     projectId: 433760
-    fileId: 7129314
-    hash: cbb5833153c362834911b20ae5665d913ded91c9
+    fileId: 7325378
+    hash: 77bc4502a329cf664c28ea21d3abccad26dfca50
     side: both
   - name: Nullscape
     type: curseforge
@@ -794,8 +824,8 @@ mods:
   - name: Oh The Biomes We've Gone
     type: curseforge
     projectId: 1070751
-    fileId: 7217863
-    hash: 09664db705620465683ce75b5fc06015148e5384
+    fileId: 7305862
+    hash: af422cabf09f8b25dc4ba0f2997f39396edeb2de
     side: both
   - name: Oh The Trees You'll Grow
     type: curseforge
@@ -806,8 +836,8 @@ mods:
   - name: Oritech
     type: curseforge
     projectId: 1030830
-    fileId: 7233763
-    hash: 5d88e3b84010c2e4544c3cce931dc572a49ad300
+    fileId: 7291456
+    hash: dcf527a374a4ba7359d0ed7895d1eb0926d42411
     side: both
   - name: Overflowing Bars
     type: curseforge
@@ -820,6 +850,12 @@ mods:
     projectId: 306770
     fileId: 6842247
     hash: 97ae42096ee4a0a242cd8468dde293017f3cc39c
+    side: both
+  - name: Piglin Proliferation
+    type: curseforge
+    projectId: 657831
+    fileId: 6304429
+    hash: 5fe1309e1b94aaa5da1a35e3bceddcc8d67967b3
     side: both
   - name: Ping Wheel
     type: curseforge
@@ -854,14 +890,14 @@ mods:
   - name: Pufferfish's Attributes [Fabric & Forge & NeoForge]
     type: curseforge
     projectId: 991341
-    fileId: 7183595
-    hash: fa8dbd06e95fab86941e31e1eb27e12348aa3049
+    fileId: 7311419
+    hash: 656952d16a449de0fb603e1ea5a17b018d005eec
     side: both
   - name: Pufferfish's Skills [Fabric & Forge & NeoForge]
     type: curseforge
     projectId: 835091
-    fileId: 7038165
-    hash: e5b3fe4ce0f8eeb3593b843ac5a7a531d00fac35
+    fileId: 7253445
+    hash: 5229f488af9e3b4472a076ca9af45e8a48e63dde
     side: both
   - name: Puzzles Lib
     type: curseforge
@@ -991,8 +1027,14 @@ mods:
   - name: Storage Delight (Forge & Neoforge)
     type: curseforge
     projectId: 979761
-    fileId: 6692011
-    hash: c29f16bf47aff5b711d1db0f50a45f3efb21e3da
+    fileId: 7313558
+    hash: b61e8454f99d4e18730ac3e2a2c51c618c4c548a
+    side: both
+  - name: Stronger Mobs Below
+    type: curseforge
+    projectId: 1293640
+    fileId: 6874590
+    hash: f304bd11a737df530878ed292ea46a8e2b23dd6d
     side: both
   - name: Structure Essentials[Forge/Fabric]
     type: curseforge
@@ -1021,8 +1063,8 @@ mods:
   - name: TooManyRecipeViewers (TMRV)
     type: curseforge
     projectId: 1194921
-    fileId: 7093011
-    hash: a24a52353fd5900964657614f6d7daa2c11d2b8e
+    fileId: 7259317
+    hash: 6f50e476a0b542ddaefdbd3fcc5ceb22791244a5
     side: both
   - name: Transmog
     type: curseforge
