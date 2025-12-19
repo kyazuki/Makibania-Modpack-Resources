@@ -12,7 +12,7 @@
 
 	[Emojiful.EmojiTypes]
 		#Loads Twemojis used in sites like Twitter and Discord
-		twemoji = true
+		twemoji = false
 		#Loads custom emojis provided by Emojiful
 		custom = false
 		#Loads datapack emojis provided by the server you join

@@ -12,7 +12,7 @@
     "extendedReach": 0.0,
     "debug": false,
     "displayBosses": true,
-    "displayMode": "TOGGLE",
+    "displayMode": "LITE",
     "enableTextToSpeech": false,
     "ttsMode": "PRESS",
     "previewOverlay": true,

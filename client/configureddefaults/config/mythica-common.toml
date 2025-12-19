@@ -22,7 +22,7 @@
 	#A list of mod ids to blacklist from having their biome regions copied to mythica
 	#Example: ["modid1", "modid2"]
 	#if a region is registered under a namespace other than the modid, that should be used instead
-	"Region Blacklist" = ["vanillabackport"]
+	"Region Blacklist" = []
 	#A list of biome resource locations to blacklist from being copied to mythica
 	#Example: ["modid:biome_name1", "modid:biome_name2"]
-	"Biome Blacklist" = ["minecraft:river", "minecraft:frozen_river", "minecraft:stony_shore", "minecraft:dripstone_caves", "minecraft:lush_caves", "minecraft:deep_dark", "minecraft:beach", "vanillabackport:pale_garden", "minecraft:windswept_savanna", "minecraft:mushroom_fields", "minecraft:badlands", "minecraft:wooded_badlands", "minecraft:eroded_badlands"]
+	"Biome Blacklist" = ["minecraft:river", "minecraft:frozen_river", "minecraft:stony_shore"]

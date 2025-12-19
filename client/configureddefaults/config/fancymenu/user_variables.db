@@ -8,13 +8,13 @@ variable {
 
 variable {
   name = resource_group
-  value = default
+  value = 1_3_0
   reset_on_launch = true
 }
 
 variable {
   name = up_to_date
-  value = 1
+  value = Makibania 1.2.3
   reset_on_launch = true
 }
 
@@ -22,5 +22,17 @@ variable {
   name = server_status
   value = §aOnline
   reset_on_launch = true
+}
+
+variable {
+  name = theme
+  value = 1_3_0
+  reset_on_launch = false
+}
+
+variable {
+  name = cool_variable_name
+  value = some_value
+  reset_on_launch = false
 }
 

@@ -1,0 +1,9 @@
+{
+  "emotecraft.options.fastmenu2": "エモートホイールに加える",
+  "emotecraft.otherconfig.validate.tooltip": "PvP用\n\nプレイヤーの描画位置がずれすぎないようにする。",
+  "emotecraft.otherconfig.validationThreshold": "しきい値",
+  "emotecraft.otherconfig.oldChooseWheel": "レガシーのエモートホイールスタイルを使用する",
+  "emotecraft.otherconfig.quark.tooltip": "非常に不安定で完全にサポートされていません。\n\n不具合やクラッシュを引き起こす可能性があるため、これを使用することは推奨されません。",
+  "category.emotecraft.keybinding": "エモートクラフト",
+  "emotecraft.config": "エモートの設定"
+}

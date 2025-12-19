@@ -39,7 +39,12 @@
 	]
 	quest.01634BB7492ED783.quest_subtitle: "アイテム検索"
 	quest.01634BB7492ED783.title: "EMI"
+	quest.01A526AB333C9190.quest_subtitle: "レベル50に到達する"
+	quest.0B86D899A0B33BE4.quest_subtitle: "アーティファクトを手に入れる"
+	quest.0D9613121C574583.quest_subtitle: "群生したキノコを採集する"
+	quest.1A97B319730A9A67.quest_subtitle: "アイテムを提出する"
 	quest.1A97B319730A9A67.title: "パーティの裏方"
+	quest.1FEF7CD1A61629A2.quest_subtitle: "アイテムを提出する"
 	quest.1FEF7CD1A61629A2.title: "ソードマスター"
 	quest.250C51A083E577B6.quest_desc: ["近くの木に向かって左クリックを長押しして、原木を採集しよう"]
 	quest.250C51A083E577B6.quest_subtitle: "木を手に入れよう"
@@ -55,6 +60,7 @@
 		"手に入れた石でより良いツルハシを作っても良いですね。"
 	]
 	quest.323A6F72E29BA875.quest_subtitle: "探検開始"
+	quest.349E76F0512A29EA.quest_subtitle: "ビール樽で飲み物を発酵させる"
 	quest.383741A3FC18FBEA.quest_desc: [
 		"プレイヤーが死亡すると、その場に死体が残り、右クリックでアイテムを回収できます。"
 		"\"u\"キーを押すと、新しい順に死亡ログが確認できます。"
@@ -63,7 +69,9 @@
 	]
 	quest.383741A3FC18FBEA.quest_subtitle: "死亡ログを活用しよう"
 	quest.383741A3FC18FBEA.title: "死体回収"
+	quest.39A53995EAA4666F.quest_subtitle: "アイテムを提出する"
 	quest.39A53995EAA4666F.title: "スーパーサラダ"
+	quest.3E320347CCAA04D8.quest_subtitle: "様々なエンダーマンを倒す"
 	quest.3E320347CCAA04D8.title: "エンダーマンの宿敵"
 	quest.42790BC0B1A9676C.title: "500 mp"
 	quest.4B5A357A43F0FBE6.quest_desc: [
@@ -109,13 +117,16 @@
 	quest.5CFAB2BF03C7EA18.quest_subtitle: "作業台を作ろう"
 	quest.5CFECB4F786BB465.quest_subtitle: "石炭を見つけて松明を作ろう"
 	quest.5CFECB4F786BB465.title: "明かりを灯そう"
+	quest.6107CFA0C75EE90E.quest_subtitle: "アイテムを提出する"
 	quest.6107CFA0C75EE90E.title: "瓶のコレクション"
 	quest.664E3C84C2FFD212.quest_desc: [
 		"\"k\"キーを押してスキル画面を表示し、"
 		"成長に使えるスキルポイントがあれば使ってみましょう。"
 	]
 	quest.664E3C84C2FFD212.quest_subtitle: "スキルの「K」"
+	quest.667F3862BC3656E4.quest_subtitle: "様々な村を訪れる"
 	quest.667F3862BC3656E4.title: "コネでカネ"
+	quest.6970178789712CC4.quest_subtitle: "スニークしてスカルクに検知されないようにする"
 	quest.75188EC9CB0174E0.quest_desc: [
 		"地図を手に持ちながら歩くと、周囲の地形が記録されます。"
 		"地図は製図台で複製でき、同じ地図を持っているプレイヤー同士は位置を確認できます。"
@@ -138,6 +149,7 @@
 	]
 	quest.7AE803414ACD2F6F.quest_subtitle: "カメラ操作"
 	quest.7AE803414ACD2F6F.title: "スクリーンショット"
+	quest.7BDE5ADE0512E878.quest_subtitle: "化石を掘り出す"
 	reward.25655EFB55BC6B03.title: "Discordへ1000mpを送信"
 	reward.5C7654889C87028A.title: "Discordへ500mpを送信"
 	reward.71A6D32B083F4086.title: "Discordへ100mpを送信"

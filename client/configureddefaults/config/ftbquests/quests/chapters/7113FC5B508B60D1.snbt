@@ -399,7 +399,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				advancement: "cosmeticarmoursmod:agricultural_apprentice_achievement"
+				advancement: "brewinandchewin:main/brew_drink"
 				criterion: ""
 				id: "5100DC941CA9B0A8"
 				type: "advancement"
@@ -437,7 +437,7 @@
 				{
 					consume_items: true
 					id: "221F9BE8B9785167"
-					item: { count: 1, id: "oceansdelight:bowl_of_guardian_soup" }
+					item: { count: 1, id: "oceansdelight:guardian_soup" }
 					type: "item"
 				}
 				{
@@ -456,12 +456,6 @@
 					consume_items: true
 					id: "1A3A36E1AB79BA3B"
 					item: { count: 1, id: "farmersdelight:pumpkin_soup" }
-					type: "item"
-				}
-				{
-					consume_items: true
-					id: "2948484B7D05167D"
-					item: { count: 1, id: "farmersdelight:noodle_soup" }
 					type: "item"
 				}
 				{
@@ -631,12 +625,6 @@
 					consume_items: true
 					id: "2BA113F8592A5210"
 					item: { count: 1, id: "expandeddelight:honeyed_goat_cheese_tart" }
-					type: "item"
-				}
-				{
-					consume_items: true
-					id: "776E927A23EA471A"
-					item: { count: 1, id: "expandeddelight:cranberry_cobbler" }
 					type: "item"
 				}
 			]

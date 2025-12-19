@@ -69,9 +69,9 @@ net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
 net.minecraft.client.gui.screens.ProgressScreen {
 }
 
-net.minecraft.client.gui.screens.TitleScreen {
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 }
 
-net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+net.minecraft.client.gui.screens.TitleScreen {
 }
 

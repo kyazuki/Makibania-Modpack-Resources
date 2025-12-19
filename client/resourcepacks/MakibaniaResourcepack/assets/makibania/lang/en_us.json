@@ -3,6 +3,7 @@
   "makibania.gui.reset_sp1.confirm": "Reset and Reselect Specialty 1",
   "makibania.gui.reset_sp1.desc": "Resetting Specialty 1 will erase all experience points and skill points gained in that category. Do you really want to reset?",
   "makibania.gui.reset_sp1.title": "Reset Specialty 1",
+  "makibania.gui.select_theme": "Client Theme",
   "makibania.menu.return_to_title": "Return to Title",
   "makibania.menu.server.connect": "Connect to Server",
   "makibania.menu.server.offline": "Server is offline.",
