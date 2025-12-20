@@ -8,7 +8,7 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 echo インストーラーをダウンロード中...
-curl -OLsSf https://github.com/medi-torimorta/Makibania-Modpack-Installer/releases/download/v3.2.1%%2B1.3.0/makibania-modpack-installer 2>/dev/null
+curl -OLsSf https://github.com/medi-torimorta/Makibania-Modpack-Installer/releases/download/v3.2.1+1.3.0/makibania-modpack-installer 2>/dev/null
 if [ $? -ne 0 ]; then
     echo インストーラーのダウンロードに失敗しました。 1>&2
     read -n 1 -p "Press any key to exit..."
