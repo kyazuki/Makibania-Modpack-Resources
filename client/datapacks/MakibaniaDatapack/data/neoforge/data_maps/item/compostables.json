@@ -1,0 +1,61 @@
+{
+    "values": {
+        "enchanted:belladonna_flower": {
+            "chance": 0.65
+        },
+        "enchanted:water_artichoke": {
+            "chance": 0.65
+        },
+        "enchanted:mandrake_root": {
+            "chance": 0.65
+        },
+        "enchanted:wolfsbane_flower": {
+            "chance": 0.65
+        },
+        "enchanted:glint_weed": {
+            "chance": 0.1
+        },
+        "enchanted:belladonna_seeds": {
+            "chance": 0.3
+        },
+        "enchanted:water_artichoke_seeds": {
+            "chance": 0.3
+        },
+        "enchanted:mandrake_seeds": {
+            "chance": 0.3
+        },
+        "enchanted:wolfsbane_seeds": {
+            "chance": 0.3
+        },
+        "enchanted:snowbell_seeds": {
+            "chance": 0.3
+        },
+        "enchanted:alder_sapling": {
+            "chance": 0.3
+        },
+        "enchanted:hawthorn_sapling": {
+            "chance": 0.3
+        },
+        "enchanted:rowan_sapling": {
+            "chance": 0.3
+        },
+        "oritech:packed_wheat": {
+            "chance": 1
+        },
+        "oritech:biomass": {
+            "chance": 0.3
+        },
+        "oritech:banana": {
+            "chance": 0.65
+        },
+        "livingthings:banana": {
+            "chance": 0.65
+        },
+        "forbidden_arcanus:yellow_orchid": {
+            "chance": 0.3
+        },
+        "forbidden_arcanus:fungyss": {
+            "chance": 0.3
+        }
+    }
+}
