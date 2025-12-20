@@ -594,12 +594,6 @@ mods:
     fileId: 7210417
     hash: 8221fde15a0b27a55155134b3c9639b41650c738
     side: both
-  - name: Illager Invasion
-    type: curseforge
-    projectId: 891324
-    fileId: 6492670
-    hash: 48bea606f6e3f10e2100349de2c6c65c76c20786
-    side: both
   - name: Immersive Aircraft [Fabric/Forge]
     type: curseforge
     projectId: 666014
