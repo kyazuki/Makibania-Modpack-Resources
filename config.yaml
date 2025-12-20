@@ -591,8 +591,8 @@ mods:
   - name: IceAndFire Community Edition
     type: curseforge
     projectId: 1040076
-    fileId: 7350158
-    hash: bc58111ad61feb1180d7197d42154281d9f38dab
+    fileId: 7210417
+    hash: 8221fde15a0b27a55155134b3c9639b41650c738
     side: both
   - name: Illager Invasion
     type: curseforge
