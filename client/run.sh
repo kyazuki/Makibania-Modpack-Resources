@@ -1,7 +1,7 @@
 #!/bin/bash
 cd "$(dirname "$0")"
 echo パック設定をダウンロード中...
-curl -OLsSf https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v1.3.0/config.yaml 2>/dev/null
+curl -OLsSf https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v1.3.1/config.yaml 2>/dev/null
 if [ $? -ne 0 ]; then
     echo パック設定のダウンロードに失敗しました。 1>&2
     read -n 1 -p "Press any key to exit..."
