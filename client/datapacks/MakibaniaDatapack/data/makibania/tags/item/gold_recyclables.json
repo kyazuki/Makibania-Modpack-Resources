@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:golden_axe",
+        "minecraft:golden_boots",
+        "minecraft:golden_chestplate",
+        "minecraft:golden_helmet",
+        "minecraft:golden_hoe",
+        "minecraft:golden_leggings",
+        "minecraft:golden_pickaxe",
+        "minecraft:golden_shovel",
+        "minecraft:golden_sword",
+        "piglinproliferation:buckler",
+        "cosmeticweaponsmod:golden_battleaxe",
+        "cosmeticweaponsmod:golden_knife",
+        "farmersdelight:golden_knife",
+        "forbidden_arcanus:golden_blacksmith_gavel",
+        "crittersandcompanions:gold_dragonfly_armor"
+    ]
+}

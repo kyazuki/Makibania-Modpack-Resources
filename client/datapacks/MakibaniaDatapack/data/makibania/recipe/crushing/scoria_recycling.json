@@ -8,8 +8,12 @@
   "processing_time": 250,
   "results": [
     {
-      "chance": 0.15,
-      "id": "minecraft:redstone"
+      "chance": 0.10,
+      "id": "create:cinder_flour"
+    },
+    {
+      "chance": 0.05,
+      "id": "minecraft:netherrack"
     }
   ]
 }

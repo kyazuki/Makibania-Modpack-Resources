@@ -1,0 +1,53 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+            "condition": "random_chance",
+            "chance": 0.2
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "chromaticarsenal:harpy_feather",
+          "quality": 1,
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chromaticarsenal:friendly_fire_flower",
+          "quality": 2,
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chromaticarsenal:momentum_stone",
+          "quality": 2,
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chromaticarsenal:cursed_totem",
+          "quality": 2,
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chromaticarsenal:copper_ring",
+          "quality": 1,
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chromaticarsenal:amethyst_ring",
+          "quality": 1,
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "forbidden_arcanus:clibano_combustion",
+  "category": "misc",
+  "cooking_time": 100,
+  "experience": 1.0,
+  "fire_type": "fire",
+  "ingredients": {
+    "first": {
+      "item": "create:scorchia"
+    },
+    "second": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "residue": {
+    "type": "minecraft:coal",
+    "chance": 0.33
+  },
+  "result": {
+    "count": 1,
+    "id": "forbidden_arcanus:darkstone"
+  }
+}

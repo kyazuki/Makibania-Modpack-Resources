@@ -30,6 +30,9 @@
         "enchanted:snowbell_seeds": {
             "chance": 0.3
         },
+        "enchanted:garlic": {
+            "chance": 0.45
+        },
         "enchanted:alder_sapling": {
             "chance": 0.3
         },

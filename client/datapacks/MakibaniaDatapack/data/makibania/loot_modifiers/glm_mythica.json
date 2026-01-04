@@ -1,0 +1,17 @@
+{
+    "type": "neoforge:add_table",
+    "conditions": [
+        
+        {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "dimension": "mythica:mythica"
+            }
+        },
+        {
+            "condition": "neoforge:loot_table_id",
+            "loot_table_id": "mss:rare"
+        }
+    ],
+    "table": "mmakibania:injects/chests/mythica_rare"
+}

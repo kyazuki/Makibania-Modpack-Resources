@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "iceandfire:silver_axe",
+        "iceandfire:armor_silver_metal_boots",
+        "iceandfire:armor_silver_metal_chestplate",
+        "iceandfire:armor_silver_metal_helmet",
+        "iceandfire:silver_hoe",
+        "iceandfire:armor_silver_metal_leggings",
+        "iceandfire:silver_pickaxe",
+        "iceandfire:silver_shovel",
+        "iceandfire:silver_sword",
+        "iceandfire:dragonarmor_silver_head",
+        "iceandfire:dragonarmor_silver_neck",
+        "iceandfire:dragonarmor_silver_body",
+        "iceandfire:dragonarmor_silver_tail"
+    ]
+}

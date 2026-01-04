@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "iceandfire:copper_axe",
+        "iceandfire:armor_copper_metal_boots",
+        "iceandfire:armor_copper_metal_chestplate",
+        "iceandfire:armor_copper_metal_helmet",
+        "iceandfire:copper_hoe",
+        "iceandfire:armor_copper_metal_leggings",
+        "iceandfire:copper_pickaxe",
+        "iceandfire:copper_shovel",
+        "iceandfire:copper_sword",
+        "iceandfire:dragonarmor_copper_head",
+        "iceandfire:dragonarmor_copper_neck",
+        "iceandfire:dragonarmor_copper_body",
+        "iceandfire:dragonarmor_copper_tail"
+    ]
+}

@@ -87,7 +87,7 @@
 				},
 				"experience": [
 					{
-						"expression": "multiplier_1 * multiplier_2 * share * (dropped_xp + max_health / 20)"
+						"expression": "multiplier_1 * multiplier_2 * share * (dropped_xp * 2 + max_health / 10)"
 					}
 				]
 			}

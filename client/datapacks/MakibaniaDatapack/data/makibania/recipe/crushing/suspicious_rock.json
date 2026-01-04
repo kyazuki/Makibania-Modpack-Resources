@@ -2,14 +2,13 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "tag": "create:stone_types/scorchia"
+      "item": "create_aquatic_ambitions:suspicious_rock"
     }
   ],
   "processing_time": 250,
   "results": [
     {
-      "chance": 0.03,
-      "id": "minecraft:coal"
+      "id": "create_aquatic_ambitions:calcium_rich_powder"
     }
   ]
 }

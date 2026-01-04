@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "enchanted:gypsum"
+    }
+  ],
+  "processing_time": 50,
+  "results": [
+    {
+      "id": "create_aquatic_ambitions:calcium_rich_powder"
+    }
+  ]
+}
