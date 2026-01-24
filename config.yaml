@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/medi-torimorta/Makibania-Modpack-Installer/refs/heads/main/config.schema.json
 schemaVersion: 2
-packVersion: "1.4.0"
+packVersion: "1.4.1"
 profile:
   name: Makibania
   icon: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABHZJREFUeJztmk9r1EAYxh//HEwrtoK7CAV3FUEU/QZCZT3oXbzo1Z4r9rDiwaKHYg8r7VmveusXKHYvHtRbD4IoQneF1iW1tNXdpJ7Wg/uGyewkmZmdSYLmB4HdZJLM88w7k5k3AQoKCgr+Yw5lXYFRqU05TwA8jjj8tLnpz8edn5kBjXKlL9o/57al6sQKH5upCst4L1r0M9KITAxolCv9e3fuhvadKJ0CADxfXo41QSTc9z1hWccZAxBvROoGNMqVZwDqvAHEidKpSBNqU04fSBbOwxvR3PSDax+Wr7oxIsWzDIwKqE05/bGZKsZmqvB9T1o8gKA8nU9GAikbwIsS8XP7Bx7MzgJAnfaReFXhPKwRZMJRQQXr3HmLc277ofZdw0i1Plsfuvf39jYmy+NGKvG9vY2Jwe8gAkj8g9lZsBuAukzLJaFyDVEUXFw/hj23hz23p10HOv+2fyXYd5ipXP3enbv4uf0jtBk0Qan1RUy3SphulZSNoPI33SpuutXQMYqA+q3adeHJhk0wgqwRccIJqUEwjyYA0UbICCeknwJ5NQEYNkJGOKH0GBQNTnliulWSFk5ozwNUoiBvEcMSMmC300k8Ie9RoMpIM0GFlo18ymSNlgH/UhSQAYsrzTWtC6TRv5ub/qEtdwfu3i+4e7+0r+N7PfheD6tv3wcrQu0ukHYUkAk6RpDw9S8trH9pDS+H2cWOzEDIk9YoP6j4U1kjeOH4mxAJ5RnYCFDuBjaj4PnyMgAs8vubm/58khFRwkVpsaP8DuBvFJw8fdqQFH3iluEDMfO1KefJlrvzGAC23B2+WGJSNDBgzm0/bJQr2i3Jrt3ThIzQPT+LlFgiL1+/AgThbwPegGAckB0MbY0DaUVTyAAbN1V9QqTZ+oB4EFxcaa7Vb9WuKw+GjNhQNMhOg0l8mmOJ8L1Ao1zpU6VlDaB8PgBQ6ou6kcw1BuKBnBjwDMwCJo1HIvtmaEAqRkS+GdKJAhNwRlg34UjUgRvjk86njY2rl86ew0G3C+f4cZv1CPjtefjtebhWq+Hdhw9Xb4xPOqu9/Te27hf7bpCNAsBsJEwsLYT+799/NFSGGVesRUKSAaGxADBjwsTSwpBg0T4g/mWpCWJnggPXQ4skmQnSxNJCsMmyf/9RbHlbK87EqTBvQlIEUEvSpmoCj+28g9RaQBQJIkRhLDJBJDQrUlkMmRJsoxuoGFC/cKZi+v5S2OwGShFw+fz52OMmWlplzDBBrvIBUY9Cm+TGgCzEAzkxICvxQA4MkBUflSUeFWFWOA7VJEnSoKbS8jbWA8oGqGIitHVe1siSeRdIYrfTwWAGaiVPqGKAcsZ4VFjxtpbD0gbwFbBpwm6nk4p4ICYjJILNEgEwmina7XRw0O3ioNvFSnMNnzY2gBRSYspJBj5LROgmSthIYlabqWWGdQwYyhKxyBjBd58shBNaaSb2o2rdb38+fv2Kz9/a9Dd14cRIeTb+6/ILZyqRK0ZOMJGZcMJYojHiU3uezAUXFBQUFDD8AYTC3EgUSH2vAAAAAElFTkSuQmCC"
@@ -432,12 +432,6 @@ mods:
     fileId: 6023706
     hash: 87bd5be58cfeb6bccb255cfc3af7cc90b46a309a
     side: both
-  - name: Enemy Echelons
-    type: curseforge
-    projectId: 656060
-    fileId: 6874524
-    hash: 3b37af0ca47d537552b5883d9d5fa80e3ceb93e0
-    side: both
   - name: Expanded Delight
     type: curseforge
     projectId: 620770
@@ -593,12 +587,6 @@ mods:
     projectId: 317134
     fileId: 6634585
     hash: 55cf667b16b81df9b8f7fead042cf2f732b21b85
-    side: both
-  - name: GottschCore
-    type: curseforge
-    projectId: 272450
-    fileId: 6863231
-    hash: 4e6850394a1e4c36e46160cbcf457d0597666ce5
     side: both
   - name: Horseman
     type: curseforge
@@ -1071,12 +1059,6 @@ mods:
     projectId: 979761
     fileId: 7313558
     hash: b61e8454f99d4e18730ac3e2a2c51c618c4c548a
-    side: both
-  - name: Stronger Mobs Below
-    type: curseforge
-    projectId: 1293640
-    fileId: 6874590
-    hash: f304bd11a737df530878ed292ea46a8e2b23dd6d
     side: both
   - name: Structure Essentials[Forge/Fabric]
     type: curseforge

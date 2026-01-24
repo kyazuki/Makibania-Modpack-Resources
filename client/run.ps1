@@ -1,7 +1,7 @@
 ﻿# パック設定をダウンロード
 Write-Host "パック設定をダウンロード中..."
 try {
-    Invoke-WebRequest -Uri "https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v1.4.0/config.yaml" -OutFile "$PSScriptRoot\config.yaml" -ErrorAction Stop
+    Invoke-WebRequest -Uri "https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v1.4.1/config.yaml" -OutFile "$PSScriptRoot\config.yaml" -ErrorAction Stop
 }
 catch {
     Write-Error ("パック設定のダウンロードに失敗しました。詳細: {0}" -f $_.Exception.Message)
