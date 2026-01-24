@@ -75,8 +75,8 @@ mods:
   - name: Balm
     type: curseforge
     projectId: 531761
-    fileId: 7264790
-    hash: 288003dfab9ef7d4aa600c9325cb64ce861c3d4d
+    fileId: 7420963
+    hash: c1c1d4859c7943c7d1c181c07fa7273a1d56df15
     side: both
   - name: Better Advancements
     type: curseforge
@@ -123,8 +123,8 @@ mods:
   - name: Carry On
     type: curseforge
     projectId: 274259
-    fileId: 5649344
-    hash: 081c4817a3059f06c387805c6504b315b554a2b0
+    fileId: 7393892
+    hash: 774bf57a199784c35e74f2d619d6001c87185a11
     side: both
   - name: Chimes
     type: curseforge
@@ -135,8 +135,8 @@ mods:
   - name: Chromatic Arsenal
     type: curseforge
     projectId: 656420
-    fileId: 6471891
-    hash: 01fb4e64c178180b8717931a0b328bea81f8bfcc
+    fileId: 7456162
+    hash: 740f88bf1d0b576eaf7add3d635dc05bb84afd19
     side: both
   - name: Chunk Sending[Forge/Fabric]
     type: curseforge
@@ -177,8 +177,8 @@ mods:
   - name: Concurrent Chunk Management Engine
     type: curseforge
     projectId: 533097
-    fileId: 7263293
-    hash: b00b795c80c69be602d2245812358fcd01951d63
+    fileId: 7445230
+    hash: 39300dc4508a0d4f9e1f3867d4b87952cbf7b6e6
     side: both
   - name: Configured Defaults
     type: curseforge
@@ -189,8 +189,8 @@ mods:
   - name: Connectivity
     type: curseforge
     projectId: 470193
-    fileId: 7032388
-    hash: afc0f8cb7c5997b108c9c20dbe4e67f6243411a1
+    fileId: 7367221
+    hash: 6adebe84f745dec8fa33bc3982383bc1cc24d49e
     side: both
   - name: Controlling
     type: curseforge
@@ -240,6 +240,12 @@ mods:
     fileId: 7178775
     hash: eee603ac7b083c9cd3a8ded4d4e3ed1a9a836f96
     side: both
+  - name: Create Deco
+    type: curseforge
+    projectId: 509285
+    fileId: 7314692
+    hash: cff4f94238d15db929bf0db48f006da438d345b5
+    side: both
   - name: Create Picky Wheels
     type: curseforge
     projectId: 866839
@@ -258,11 +264,17 @@ mods:
     fileId: 7192082
     hash: 39945d25188f3cb8feb74d09b78d7f7f7a74aaa7
     side: both
+  - name: "Create: Bits 'n' Bobs"
+    type: curseforge
+    projectId: 1398383
+    fileId: 7413766
+    hash: 01cfef084f2800f51da89470d43c1605821eb2c5
+    side: both
   - name: "Create: Food"
     type: curseforge
     projectId: 959439
-    fileId: 6741509
-    hash: d865b6a64ff1e662564cdb00f288fcdbdfe8ae0a
+    fileId: 7509565
+    hash: 5db293f62b5eab923f03ce0cab395abad6d3bed5
     side: both
   - name: "Create: Molten Vents"
     type: curseforge
@@ -330,6 +342,12 @@ mods:
     fileId: 5731913
     hash: 550f272c140566f0961c1bb3fdfb1a6272be30dd
     side: both
+  - name: Decorative Terracotta Lattices
+    type: curseforge
+    projectId: 1222076
+    fileId: 7146828
+    hash: 9d5b2c7536e7bf267033abbd6675e7be6a99873b
+    side: both
   - name: Diagonal Fences
     type: curseforge
     projectId: 458048
@@ -345,8 +363,8 @@ mods:
   - name: "Distant Horizons: A Level of Detail mod"
     type: curseforge
     projectId: 508933
-    fileId: 7350266
-    hash: ed4dcd8363226bcaf7cbad9233e41d8e61805c50
+    fileId: 7375285
+    hash: 2a1243b18ccc117dee0fae5e976a494d8234e8be
     side: both
   - name: Drippy Loading Screen
     type: curseforge
@@ -414,11 +432,17 @@ mods:
     fileId: 6023706
     hash: 87bd5be58cfeb6bccb255cfc3af7cc90b46a309a
     side: both
+  - name: Enemy Echelons
+    type: curseforge
+    projectId: 656060
+    fileId: 6874524
+    hash: 3b37af0ca47d537552b5883d9d5fa80e3ceb93e0
+    side: both
   - name: Expanded Delight
     type: curseforge
     projectId: 620770
-    fileId: 6785113
-    hash: 3ff3acb6b8736e454ca7ae95abf41cd8fd5a0a8f
+    fileId: 7441587
+    hash: cf26fe18c3a9deec525fe0f0e7c2d3b9f4e9f484
     side: both
   - name: Find It
     type: curseforge
@@ -437,6 +461,12 @@ mods:
     projectId: 404465
     fileId: 7312258
     hash: 10a0674a76a6f5d736ee43d4179512f22fce5d03
+    side: both
+  - name: FTB Ocean Mobs
+    type: curseforge
+    projectId: 1197859
+    fileId: 6539516
+    hash: a37f05230275fb49d6d614d74cb6c98c22995c45
     side: both
   - name: FTB Quests (NeoForge)
     type: curseforge
@@ -495,8 +525,8 @@ mods:
   - name: Fast Paintings
     type: curseforge
     projectId: 883287
-    fileId: 6759508
-    hash: e2cf74928a5d9d8ff3aacda7621ef73902a97cf4
+    fileId: 7305762
+    hash: 6df81c4fe659eaee718cb0856c79e4cfa272e9ea
     side: both
   - name: FastBoot
     type: curseforge
@@ -507,8 +537,8 @@ mods:
   - name: FastSuite
     type: curseforge
     projectId: 475117
-    fileId: 6751538
-    hash: c445f512f2bee24b91d405767e1b129f236505f8
+    fileId: 7428334
+    hash: 281117322556e6e1d46094a6e1a4cfa8af41df2f
     side: both
   - name: FerriteCore ((Neo)Forge)
     type: curseforge
@@ -564,6 +594,12 @@ mods:
     fileId: 6634585
     hash: 55cf667b16b81df9b8f7fead042cf2f732b21b85
     side: both
+  - name: GottschCore
+    type: curseforge
+    projectId: 272450
+    fileId: 6863231
+    hash: 4e6850394a1e4c36e46160cbcf457d0597666ce5
+    side: both
   - name: Horseman
     type: curseforge
     projectId: 1082085
@@ -573,14 +609,14 @@ mods:
   - name: Icarus
     type: curseforge
     projectId: 428151
-    fileId: 7269567
-    hash: e831076c3c3d1564940a5bfd204b4bfbb735ef2b
+    fileId: 7397408
+    hash: 1915de6d6b239f66c27629c66ebd889ba84480f5
     side: both
   - name: IceAndFire Community Edition
     type: curseforge
     projectId: 1040076
-    fileId: 7210417
-    hash: 8221fde15a0b27a55155134b3c9639b41650c738
+    fileId: 7488997
+    hash: 15796dd29f13dceb3712808f610ae00962c961f2
     side: both
   - name: Immersive Aircraft [Fabric/Forge]
     type: curseforge
@@ -597,14 +633,20 @@ mods:
   - name: Iris & Oculus Flywheel Compat
     type: curseforge
     projectId: 659897
-    fileId: 7076536
-    hash: fde6df059fe7b88007ca57a734b710dfd37c2c6e
+    fileId: 7481459
+    hash: 6de62ca60a917bc9f382fdfe40677354c1119d0d
     side: both
   - name: Iris Shaders
     type: curseforge
     projectId: 455508
     fileId: 6661598
     hash: a3e6355915c7d3b2bc392724795113e51d289378
+    side: both
+  - name: It Takes a Pillage Continuation
+    type: curseforge
+    projectId: 1111063
+    fileId: 7417040
+    hash: 207fa33a8c1a7c9ebecfd8817850d818794722c0
     side: both
   - name: Jade Addons (Neo/Forge)
     type: curseforge
@@ -615,8 +657,8 @@ mods:
   - name: "Jade 🔍"
     type: curseforge
     projectId: 324717
-    fileId: 6853386
-    hash: 0c7e9b04e2481d26c9080dd5d32351490d1fed3a
+    fileId: 7428884
+    hash: 7d23a1dd515872bd6498b8edd06bb84e61f2c4e7
     side: both
   - name: JamLib
     type: curseforge
@@ -627,14 +669,20 @@ mods:
   - name: Jupiter
     type: curseforge
     projectId: 1072905
-    fileId: 6843052
-    hash: 7b10eaf047dca32c6a3724b94e12316225dd9305
+    fileId: 7372570
+    hash: dc162dc81fdd0f8bdc96b4595ded70a1620395d6
     side: both
   - name: Just Enough Breeding (JEBr)
     type: curseforge
     projectId: 899386
     fileId: 6816404
     hash: 4f47678f57e2cadebd42484897bf5417d7fa344a
+    side: both
+  - name: Just Enough Items (JEI)
+    type: curseforge
+    projectId: 238222
+    fileId: 7391682
+    hash: d02c849e4e321e7b056a48e0242ec641560c2ab8
     side: both
   - name: Konkrete
     type: curseforge
@@ -713,6 +761,12 @@ mods:
     fileId: 7311745
     hash: 76779c5992bba7b1992f800697d17c03b68a3b31
     side: both
+  - name: Malum
+    type: curseforge
+    projectId: 484064
+    fileId: 7307339
+    hash: 7bea3f874f186a17ad3e271df145c179e81c2a1d
+    side: both
   - name: Melody
     type: curseforge
     projectId: 938643
@@ -728,8 +782,8 @@ mods:
   - name: MidnightLib
     type: curseforge
     projectId: 488090
-    fileId: 7254894
-    hash: 4e54f9df0d6fda3ef84a5720e7f2b026f8820168
+    fileId: 7318664
+    hash: 5a8b19663e5c042cc2755f671d04b789a8b6f9df
     side: both
   - name: Miner's Delight +
     type: curseforge
@@ -758,8 +812,8 @@ mods:
   - name: Moonlight Lib
     type: curseforge
     projectId: 499980
-    fileId: 7266807
-    hash: e870e01b69587f49cb72f6c594867cd9c04ab0a8
+    fileId: 7473045
+    hash: b5deaf117d5d0401053b28329e4d942a814177ad
     side: both
   - name: My Nether's Delight
     type: curseforge
@@ -806,14 +860,14 @@ mods:
   - name: Oh The Biomes We've Gone
     type: curseforge
     projectId: 1070751
-    fileId: 7305862
-    hash: af422cabf09f8b25dc4ba0f2997f39396edeb2de
+    fileId: 7386735
+    hash: b8b2aa46b3987a6ee2f7f34593fd243e647d8c9e
     side: both
   - name: Oh The Trees You'll Grow
     type: curseforge
     projectId: 962544
-    fileId: 7096302
-    hash: 32e7cd9e32ac0e4007754b79f5b08f9754c81fda
+    fileId: 7491150
+    hash: 82e14106325bebd5a536493aee90873a6cfb38fb
     side: both
   - name: Oritech
     type: curseforge
@@ -836,14 +890,14 @@ mods:
   - name: Piglin Proliferation
     type: curseforge
     projectId: 657831
-    fileId: 6304429
-    hash: 5fe1309e1b94aaa5da1a35e3bceddcc8d67967b3
+    fileId: 7390681
+    hash: 0851801cc4faa05838bb1fc1b61439ad8d525316
     side: both
   - name: Ping Wheel
     type: curseforge
     projectId: 734339
-    fileId: 7138129
-    hash: 33503a662d5cb7ca4872adf8e95789a7a1d33a4a
+    fileId: 7409935
+    hash: 8ebf0b0c2c1987aabc2d7446e8ac4a2c1b5fe3c3
     side: both
   - name: Placebo
     type: curseforge
@@ -907,8 +961,8 @@ mods:
   - name: Rebind Narrator
     type: curseforge
     projectId: 296996
-    fileId: 7134458
-    hash: c004c586aba2cd2e214e6a0b119f776b5a14d58e
+    fileId: 7370951
+    hash: 3e28da451f5d7eecb35d195fb08bfe4d7f9022ec
     side: both
   - name: Repeatable Trial Vaults
     type: curseforge
@@ -931,8 +985,8 @@ mods:
   - name: Ribbits
     type: curseforge
     projectId: 622967
-    fileId: 6988284
-    hash: 1ad756c32ed77a150e9c699884f59b1020dab721
+    fileId: 7355196
+    hash: 22dfd6a52d31bcab58b93c2d4a637ae1b2a01895
     side: both
   - name: Savage Ender Dragon[Forge/Fabric]
     type: curseforge
@@ -991,8 +1045,8 @@ mods:
   - name: "Spice of Life: Carrot Edition"
     type: curseforge
     projectId: 277616
-    fileId: 5957429
-    hash: cd70f4446b99b589702aebf9e4aaae86e376d4d7
+    fileId: 7374098
+    hash: 32e9bbe18ae1f2f7f672ce08af51ec1928599182
     side: both
   - name: "Spyglass Improvements: Zoom, Quick Access... [Fabric/NeoForge]"
     type: curseforge
@@ -1006,11 +1060,23 @@ mods:
     fileId: 6681296
     hash: b783697be3cbf6a24073bc938070b90523ce22cb
     side: both
+  - name: Steam 'n' Rails Neoforge
+    type: curseforge
+    projectId: 1414670
+    fileId: 7478287
+    hash: 6eaa3864182762595ac81c067f37fad3a5b0ae07
+    side: both
   - name: Storage Delight (Forge & Neoforge)
     type: curseforge
     projectId: 979761
     fileId: 7313558
     hash: b61e8454f99d4e18730ac3e2a2c51c618c4c548a
+    side: both
+  - name: Stronger Mobs Below
+    type: curseforge
+    projectId: 1293640
+    fileId: 6874590
+    hash: f304bd11a737df530878ed292ea46a8e2b23dd6d
     side: both
   - name: Structure Essentials[Forge/Fabric]
     type: curseforge
@@ -1035,12 +1101,6 @@ mods:
     projectId: 891880
     fileId: 6726370
     hash: ef3e419d3ef610cae6117b396e0a74b9a40be635
-    side: both
-  - name: TooManyRecipeViewers (TMRV)
-    type: curseforge
-    projectId: 1194921
-    fileId: 7259317
-    hash: 6f50e476a0b542ddaefdbd3fcc5ceb22791244a5
     side: both
   - name: Transmog
     type: curseforge
@@ -1077,6 +1137,12 @@ mods:
     projectId: 981139
     fileId: 7132260
     hash: dc071aa5dfdad81a36f339fb54eb42bbf371b324
+    side: both
+  - name: Veggies Delight
+    type: curseforge
+    projectId: 1082807
+    fileId: 7443467
+    hash: 5f5aef456677e699eb9f9b6027a9c1ec8c58c437
     side: both
   - name: Weaver's Cosmetics
     type: curseforge
@@ -1117,8 +1183,8 @@ mods:
   - name: YetAnotherConfigLib
     type: curseforge
     projectId: 667299
-    fileId: 6662857
-    hash: 7567715bd90e6f3420eee6d468eec1db861a03f2
+    fileId: 7305639
+    hash: b566b99f019feae4df41651ff17f8b295fa72435
     side: both
   - name: caramelChat
     type: direct
@@ -1128,8 +1194,8 @@ mods:
   - name: farmer's attributes
     type: curseforge
     projectId: 1355713
-    fileId: 7109056
-    hash: 5ef8aed3b5336460baf64c6a6bcd24b361527362
+    fileId: 7505737
+    hash: 2f158c4f96b7b3f099463803b879fee443ef3279
     side: both
   - name: iChunUtil
     type: curseforge
