@@ -8,13 +8,13 @@ variable {
 
 variable {
   name = resource_group
-  value = 1_3_0
+  value = valentines
   reset_on_launch = true
 }
 
 variable {
   name = up_to_date
-  value = Makibania 1.3.0
+  value = Makibania 1.3.2
   reset_on_launch = true
 }
 
@@ -26,7 +26,7 @@ variable {
 
 variable {
   name = theme
-  value = 1_3_0
+  value = valentines
   reset_on_launch = false
 }
 
