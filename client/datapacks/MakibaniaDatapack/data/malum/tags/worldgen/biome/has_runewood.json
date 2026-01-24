@@ -1,0 +1,9 @@
+{
+  "remove": [
+    "#mythica:is_snowy"
+  ],
+  "values": [
+    "#mythica:is_plains",
+    "#mythica:is_mountain"
+  ]
+}

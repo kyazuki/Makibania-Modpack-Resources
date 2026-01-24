@@ -16,6 +16,6 @@
         }
     },
     "result": {
-        "item": "immersive_aircraft:improved_landing_gear"
+        "id": "immersive_aircraft:improved_landing_gear"
     }
 }

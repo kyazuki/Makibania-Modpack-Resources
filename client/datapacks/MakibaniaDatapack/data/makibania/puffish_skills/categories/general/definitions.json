@@ -280,5 +280,113 @@
 				}
 			}
 		]
+	},
+	"point_expedition": {
+		"title": "探検スキルポイントに変換",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"description": "探検スキルポイントに変換する(第二専門選択後)",
+		"required_spent_points":2,
+		"required_skills":0,
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:compass"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:expedition",
+					"points": 1
+				}
+			}
+		]
+	},
+	"point_combat": {
+		"title": "戦闘スキルポイントに変換",
+		"required_spent_points":2,
+		"required_skills":0,
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"description": "戦闘スキルポイントに変換する(第二専門選択後)",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:combat",
+					"points": 1
+				}
+			}
+		]
+	},
+	"point_c&f": {
+		"title": "農業・料理スキルポイントに変換",
+		"required_spent_points":2,
+		"required_skills":0,
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"description": "農業・料理スキルポイントに変換する(第二専門選択後)",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:carrot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:farming_cooking",
+					"points": 1
+				}
+			}
+		]
+	},
+	"point_b&m": {
+		"title": "建築・採掘スキルポイントに変換",
+		"required_spent_points":2,
+		"required_skills":0,
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"description": "建築・採掘スキルポイントに変換する(第二専門選択後)",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:bricks"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:points",
+				"data": {
+					"category": "makibania:building_mining",
+					"points": 1
+				}
+			}
+		]
 	}
 }

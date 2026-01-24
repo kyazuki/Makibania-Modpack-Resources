@@ -1,0 +1,6 @@
+{
+  "type": "farmersdelight:add_features_by_filter",
+  "allowed_biomes": "#mythica:is_hot",
+  "features": "veggiesdelight:patch_wild_zucchinis",
+  "step": "vegetal_decoration"
+}

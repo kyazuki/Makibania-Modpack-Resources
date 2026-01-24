@@ -22,7 +22,7 @@
     ],
     "P": [
       {
-        "item": "immersive_aircraft:propeller"
+        "item": "create:propeller"
       }
     ],
     "S": [
@@ -42,7 +42,7 @@
     ]
   },
   "result": {
-    "item": "immersive_aircraft:biplane"
+    "id": "immersive_aircraft:biplane"
   },
-  "acceptMirrored": true
+  "accept_mirrored": true
 }

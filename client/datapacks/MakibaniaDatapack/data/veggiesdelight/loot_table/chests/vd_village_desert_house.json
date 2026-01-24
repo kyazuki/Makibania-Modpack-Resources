@@ -1,0 +1,49 @@
+{
+  "pools": [
+    {
+      "conditions":[
+        {
+          "condition": "minecraft:location_check",
+          "predicate": {
+            "dimension": "mythica:mythica"
+          }
+        }
+      ],
+      "rolls": {
+        "min": 1.0,
+        "max": 3.0,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 3.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "veggiesdelight:bellpepper_seeds"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 3.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "veggiesdelight:bellpepper"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"title": "ポータル解放",
+	"unlocked_by_default": false,
+	"icon": {
+		"type": "texture",
+		"data": {
+			"texture": "oritech:textures/gui/augment/portal.png"
+		}
+	},
+	"background": "textures/entity/end_portal.png"
+}

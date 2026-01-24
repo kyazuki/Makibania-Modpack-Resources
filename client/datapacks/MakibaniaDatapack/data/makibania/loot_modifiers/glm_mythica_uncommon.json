@@ -1,0 +1,41 @@
+{
+    "type": "neoforge:add_table",
+    "conditions": [
+        
+        {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "dimension": "mythica:mythica"
+            }
+        },
+        {
+            "condition": "neoforge:loot_table_id",
+            "loot_table_id": "mss:rare"
+        },
+        {
+            "condition": "neoforge:loot_table_id",
+            "loot_table_id": "takesapillage:chests/bastille/church"
+        },
+        {
+            "condition": "neoforge:loot_table_id",
+            "loot_table_id": "iceandfire:chest/ice_dragon_roost"
+        },
+        {
+            "condition": "neoforge:loot_table_id",
+            "loot_table_id": "iceandfire:chest/lightning_dragon_roost"
+        },
+        {
+            "condition": "neoforge:loot_table_id",
+            "loot_table_id": "iceandfire:chest/fire_dragon_roost"
+        },
+        {
+            "condition": "neoforge:loot_table_id",
+            "loot_table_id": "iceandfire:chest/cyclops_cave"
+        },
+        {
+            "condition": "neoforge:loot_table_id",
+            "loot_table_id": "iceandfire:chest/hydra_cave"
+        }
+    ],
+    "table": "mmakibania:injects/chests/mythica_uncommon"
+}

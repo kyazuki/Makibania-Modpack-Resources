@@ -1,0 +1,9 @@
+{
+  "type": "farmersdelight:add_features_by_filter",
+  "allowed_biomes": "#mythica:is_mythica",
+  "denied_biomes": "mythica:lush_caves",
+  "min_temperature": 0.3,
+  "max_temperature": 0.8,
+  "features": "veggiesdelight:patch_wild_garlic",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,10 @@
+{
+	"replace": true,
+	"values": [
+		"biomeswevegone:crimson_tundra",
+		"biomeswevegone:firecracker_chaparral",
+		"biomeswevegone:prairie",
+		"biomeswevegone:pumpkin_valley",
+		"biomeswevegone:rose_fields"
+	]
+}

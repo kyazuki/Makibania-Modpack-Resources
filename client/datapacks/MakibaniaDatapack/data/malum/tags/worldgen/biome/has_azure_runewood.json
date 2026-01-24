@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "biomeswevegone:frosted_taiga",
+    "biomeswevegone:maple_taiga",
+    "mythica:frozen_river",
+    "mythica:snowy_beach"
+  ]
+}

@@ -7,6 +7,7 @@
     "iceandfire:dread_spawner",
     "iceandfire:dread_portal",
     "ftbquests:barrier",
-    "ftbquests:stage_barrier"
+    "ftbquests:stage_barrier",
+    "immersive_aircraft:propeller"
   ]
 }

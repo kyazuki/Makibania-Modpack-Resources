@@ -3,6 +3,7 @@
     "entries": [
         "makibania:glm_nether_treasure",
         "makibania:glm_nether_uncommon",
-        "makibania:glm_mythica"
+        "makibania:glm_mythica_treasure",
+        "makibania:glm_mythica_uncommon"
     ]
 }

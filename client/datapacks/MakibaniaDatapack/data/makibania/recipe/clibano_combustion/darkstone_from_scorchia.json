@@ -2,6 +2,7 @@
   "type": "forbidden_arcanus:clibano_combustion",
   "category": "misc",
   "cooking_time": 100,
+  "enhancer": "forbidden_arcanus:artisan_relic",
   "experience": 1.0,
   "fire_type": "fire",
   "ingredients": {
@@ -13,7 +14,7 @@
     }
   },
   "residue": {
-    "type": "minecraft:coal",
+    "type": "forbidden_arcanus:coal",
     "chance": 0.33
   },
   "result": {

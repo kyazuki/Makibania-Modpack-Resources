@@ -1,12 +1,12 @@
 {
   "type": "create:sequenced_assembly",
   "ingredient": {
-    "item": "create:copper_casing"
+    "item": "forbidden_arcanus:clibano_core"
   },
   "loops": 1,
   "results": [
     {
-      "item": "immersive_aircraft:engine"
+      "id": "immersive_aircraft:engine"
     }
   ],
   "sequence": [
@@ -14,7 +14,7 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create:copper_casing"
+          "item": "forbidden_arcanus:clibano_core"
         },
         {
           "item": "immersive_aircraft:boiler"
@@ -22,7 +22,7 @@
       ],
       "results": [
         {
-          "item": "create:copper_casing"
+          "id": "forbidden_arcanus:clibano_core"
         }
       ]
     },
@@ -30,7 +30,7 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create:copper_casing"
+          "item": "forbidden_arcanus:clibano_core"
         },
         {
           "item": "create:precision_mechanism"
@@ -38,7 +38,7 @@
       ],
       "results": [
         {
-          "item": "create:copper_casing"
+          "id": "forbidden_arcanus:clibano_core"
         }
       ]
     },
@@ -46,15 +46,15 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create:copper_casing"
+          "item": "forbidden_arcanus:clibano_core"
         },
         {
-          "item": "create:cogwheel"
+          "item": "northstar:iron_cogwheel"
         }
       ],
       "results": [
         {
-          "item": "create:copper_casing"
+          "id": "forbidden_arcanus:clibano_core"
         }
       ]
     },
@@ -62,31 +62,15 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create:copper_casing"
+          "item": "forbidden_arcanus:clibano_core"
         },
         {
-          "item": "create:large_cogwheel"
+          "item": "northstar:iron_large_cogwheel"
         }
       ],
       "results": [
         {
-          "item": "create:copper_casing"
-        }
-      ]
-    },
-    {
-      "type": "create:deploying",
-      "ingredients": [
-        {
-          "item": "create:copper_casing"
-        },
-        {
-          "item": "supplementaries:altimeter"
-        }
-      ],
-      "results": [
-        {
-          "item": "create:copper_casing"
+          "id": "forbidden_arcanus:clibano_core"
         }
       ]
     },
@@ -94,17 +78,17 @@
       "type": "create:pressing",
       "ingredients": [
         {
-          "item": "create:copper_casing"
+          "item": "forbidden_arcanus:clibano_core"
         }
       ],
       "results": [
         {
-          "item": "create:copper_casing"
+          "id": "forbidden_arcanus:clibano_core"
         }
       ]
     }
   ],
-  "transitionalItem": {
-    "item": "create:copper_casing"
+  "transitional_item": {
+    "id": "forbidden_arcanus:clibano_core"
   }
 }

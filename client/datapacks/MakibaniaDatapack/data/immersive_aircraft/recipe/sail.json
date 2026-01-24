@@ -10,7 +10,7 @@
     }
   },
   "result": {
-    "item": "immersive_aircraft:sail",
+    "id": "immersive_aircraft:sail",
     "count": 1
   }
 }

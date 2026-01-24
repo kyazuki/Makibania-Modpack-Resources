@@ -76,5 +76,29 @@
 		"x": 0,
 		"y": 0,
 		"root": false
+	},
+	"2pniartt89nlxcuq": {
+		"definition": "point_b&m",
+		"x": 0,
+		"y": -192,
+		"root": false
+	},
+	"eyivf7f0au55e3ll": {
+		"definition": "point_expedition",
+		"x": -192,
+		"y": 0,
+		"root": false
+	},
+	"gaf1a9psh3l46ph5": {
+		"definition": "point_combat",
+		"x": 0,
+		"y": 192,
+		"root": false
+	},
+	"lgx6g32aldyhkgg1": {
+		"definition": "point_c&f",
+		"x": 192,
+		"y": 0,
+		"root": false
 	}
 }

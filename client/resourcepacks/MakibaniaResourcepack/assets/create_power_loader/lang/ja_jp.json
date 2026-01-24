@@ -1,0 +1,5 @@
+{
+  "create_power_loader.brass_chunk_loader.load_1x1": "1x1の四角形",
+  "create_power_loader.brass_chunk_loader.load_3x3": "3x3の四角形",
+  "create_power_loader.brass_chunk_loader.load_5x5": "5x5の四角形"
+}

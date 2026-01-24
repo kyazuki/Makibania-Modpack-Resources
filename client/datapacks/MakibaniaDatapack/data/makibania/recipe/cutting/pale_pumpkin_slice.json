@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "biomeswevegone:pale_pumpkin"
+        }
+    ],
+    "tool": {
+        "tag": "c:tools/knife"
+    },
+    "result": [
+        {
+            "item": {
+                "id": "makibania:pale_pumpkin_slice",
+                "count": 4
+            }
+        }
+    ]
+}

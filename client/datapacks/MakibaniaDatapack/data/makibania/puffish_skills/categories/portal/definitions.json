@@ -1,0 +1,80 @@
+{
+	"nether": {
+		"title": "ネザーポータル",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"description": "ネザーポータルを起動できるようになります。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:flint_and_steel"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "makibania:portal_igniter",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"mythica": {
+		"title": "ミシカポータル",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"description": "ミシカポータルを起動できるようになります。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "mythica:mythic_dust"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "makibania:portal_igniter",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"end": {
+		"title": "エンドポータル",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"description": "エンドポータルを起動できるようになります。",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:ender_eye"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "makibania:portal_igniter",
+					"value": 10,
+					"operation": "addition"
+				}
+			}
+		]
+	}
+}

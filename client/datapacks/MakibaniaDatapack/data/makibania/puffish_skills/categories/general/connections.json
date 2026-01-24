@@ -85,6 +85,56 @@
 				"wbpiu5sv7l21yomk",
 				"hdu2npf226e5yjjv"
 			]
+		],
+		"bidirectional": [
+			[
+				"t44rca0bes6a73ss",
+				"3mqc58tmauupssni"
+			],
+			[
+				"3mqc58tmauupssni",
+				"7glh0ygf58cnrm9m"
+			],
+			[
+				"t44rca0bes6a73ss",
+				"7glh0ygf58cnrm9m"
+			],
+			[
+				"t44rca0bes6a73ss",
+				"3b08z70h4ror56wi"
+			],
+			[
+				"t44rca0bes6a73ss",
+				"tbujcqol31e1wunb"
+			],
+			[
+				"tbujcqol31e1wunb",
+				"3b08z70h4ror56wi"
+			],
+			[
+				"3b08z70h4ror56wi",
+				"1irn7k0kjv1qvy8o"
+			],
+			[
+				"1irn7k0kjv1qvy8o",
+				"x6xv12eex9aatbme"
+			],
+			[
+				"x6xv12eex9aatbme",
+				"3b08z70h4ror56wi"
+			],
+			[
+				"1irn7k0kjv1qvy8o",
+				"7glh0ygf58cnrm9m"
+			],
+			[
+				"7glh0ygf58cnrm9m",
+				"wbpiu5sv7l21yomk"
+			],
+			[
+				"wbpiu5sv7l21yomk",
+				"1irn7k0kjv1qvy8o"
+			]
 		]
 	}
 }

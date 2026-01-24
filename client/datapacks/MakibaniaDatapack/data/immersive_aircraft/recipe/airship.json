@@ -29,7 +29,7 @@
         ],
         "~": [
             {
-                "item": "cloudstorage:happy_cloud_in_a_bottle"
+                "item": "biomeswevegone:white_puffball_cap"
             }
         ],
         "_": [
@@ -39,12 +39,12 @@
         ],
         "C": [
             {
-                "tag": "forge:chests/wooden"
+                "tag": "c:chests/wooden"
             }
         ]
     },
     "result": {
-        "item": "immersive_aircraft:airship"
+        "id": "immersive_aircraft:airship"
     },
-    "acceptMirrored": true
+    "accept_mirrored": true
 }

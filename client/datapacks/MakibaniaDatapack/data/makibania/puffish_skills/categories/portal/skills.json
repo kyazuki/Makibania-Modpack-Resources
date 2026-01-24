@@ -1,0 +1,20 @@
+{
+	"end": {
+		"definition": "end",
+		"x": 0,
+		"y": 128,
+		"root": false
+	},
+	"nether": {
+		"definition": "nether",
+		"x": 0,
+		"y": -128,
+		"root": false
+	},
+	"mythica": {
+		"definition": "mythica",
+		"x": 0,
+		"y": 0,
+		"root": false
+	}
+}

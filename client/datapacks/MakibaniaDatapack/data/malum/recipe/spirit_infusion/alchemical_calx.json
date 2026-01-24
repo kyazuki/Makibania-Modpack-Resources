@@ -1,0 +1,25 @@
+{
+  "type": "malum:spirit_infusion",
+  "input": {
+    "count": 4,
+    "item": "create_aquatic_ambitions:calcium_rich_powder"
+  },
+  "result": {
+    "count": 4,
+    "id": "malum:alchemical_calx"
+  },
+  "spirits": [
+    {
+      "type": "malum:arcane",
+      "count": 2
+    },
+    {
+      "type": "malum:earthen",
+      "count": 2
+    },
+    {
+      "type": "malum:aqueous",
+      "count": 2
+    }
+  ]
+}
