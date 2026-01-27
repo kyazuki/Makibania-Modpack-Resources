@@ -54,6 +54,12 @@ mods:
     fileId: 6669522
     hash: 069f397f1b3a30b3d5f5a98cac76304dfe345d76
     side: both
+  - name: Attribute Setter
+    type: curseforge
+    projectId: 1064034
+    fileId: 6914174
+    hash: 500760ac1c8f62b5cc8b13ec84e49636b13da97b
+    side: both
   - name: Auric Arcanum
     type: curseforge
     projectId: 1216289
@@ -123,8 +129,8 @@ mods:
   - name: Carry On
     type: curseforge
     projectId: 274259
-    fileId: 7393892
-    hash: 774bf57a199784c35e74f2d619d6001c87185a11
+    fileId: 5649344
+    hash: 081c4817a3059f06c387805c6504b315b554a2b0
     side: both
   - name: Chimes
     type: curseforge
@@ -812,8 +818,8 @@ mods:
   - name: Mythica - a Second Overworld Dimension
     type: curseforge
     projectId: 1354448
-    fileId: 7273740
-    hash: 5ee66d9a7bb55da860541e3f3cd83f95cbec7e3a
+    fileId: 7529507
+    hash: f5530e5c5c9bd4393a0e01d576d8440cf7be886c
     side: both
   - name: NeoAuth
     type: curseforge
@@ -916,6 +922,12 @@ mods:
     projectId: 991341
     fileId: 7311419
     hash: 656952d16a449de0fb603e1ea5a17b018d005eec
+    side: both
+  - name: Puffish Cooking Experience
+    type: curseforge
+    projectId: 1444955
+    fileId: 7528860
+    hash: 854b0cdc5c69668434d83f33bddc75cd762dbdd8
     side: both
   - name: Pufferfish's Skills [Fabric & Forge & NeoForge]
     type: curseforge
