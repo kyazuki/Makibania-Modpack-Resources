@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "netherdepthsupgrade:soulsucker"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 3,
+        "id": "netherdepthsupgrade:soul_sucker_leather"
+      }
+    }
+  ],
+  "tool": {
+    "item": "minecraft:shears"
+  }
+}

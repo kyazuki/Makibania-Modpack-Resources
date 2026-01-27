@@ -359,18 +359,18 @@
         },
         {
           "type": "item",
-          "name": "minecraft:obsidian",
+          "name": "forbidden_arcanus:stellarite_piece",
           "functions": [
             {
               "function": "set_count",
               "count": {
                 "type": "minecraft:uniform",
                 "min": 1,
-                "max": 6
+                "max": 2
               }
             }
           ],
-          "weight": 7
+          "weight": 2
         },
         {
           "type": "item",

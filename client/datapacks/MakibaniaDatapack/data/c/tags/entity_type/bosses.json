@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:experience_orb",
+    "ftboceanmobs:rift_weaver",
+    "livingthings:ancient_blaze"
+  ]
+}

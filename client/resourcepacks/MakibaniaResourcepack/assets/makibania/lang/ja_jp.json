@@ -63,5 +63,20 @@
   "effect.enchanted.fall_resistance.description": "落下ダメージに耐性を得る。",
   "effect.enchanted.magic_resistance.description": "魔法ダメージに耐性を得る。",
   "effect.icarus.flightless.description": "飛行ができなくなる。",
-  "effect.artifacts.magnetism.description": "アイテムを引き寄せる。"
+  "effect.artifacts.magnetism.description": "アイテムを引５き寄せる。",
+  
+  "makibania.info.wild_veggies_mythica": "この植物はミシカの全域で見つかります。",
+  "makibania.info.wild_veggies_mythica_hot": "この植物はミシカの熱い地域で見つかります。",
+  "makibania.info.wild_veggies_mythica_coast": "この植物はミシカの海岸で見つかります。",
+  "makibania.info.growing_edelwood": "魂でオークの苗木を右クリックして入手できます。",
+  "makibania.info.soul_extractor": "ソウルサンドに対して魂抽出機で右クリック(長押し)することで、魂を抽出できます。",
+  "makibania.info.ostrich_egg": "ダチョウの巣の中にある卵は、しばらくすると孵ります。",
+  "makibania.info.clam_pearl": "ハマグリをカワウソに渡すと、低確率で真珠を取り出してくれることがあります。",
+  "makibania.info.silk_lead": "シルクのリードは、動物同士をつなげることができます。",
+  "makibania.info.shroomie": "シュルーミーはキノコを渡すと植えてくれます。",
+  "makibania.info.dragonfly": "トンボはミシカの川に生息し、クモの目で飼いならすことができます。",
+  "makibania.info.ferret": "フェレットはミシカの森に生息し、生のウサギ肉を与えて飼いならすことができます。飼いならした後は、生のウサギ肉を与えると地中から宝物を掘り出します。",
+  "makibania.info.jumping_spider": "ハエトリグモはミシカの森や繁茂した洞窟に生息し、トンボの羽を与えて飼いならすことができます。飼いならした後は、飼い主を守ってくれます。",
+  "makibania.info.red_panda": "レッサーパンダはミシカのジャングルに生息し、竹を与えて飼いならすことができます。飼いならした後は、一部の敵対モブを追い払ってくれます。",
+  "makibania.info.collecting_blood": "左手に持っている間にモブを攻撃すと、血を集めることができます。"
 }

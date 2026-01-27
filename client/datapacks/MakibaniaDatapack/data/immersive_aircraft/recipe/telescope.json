@@ -1,24 +1,7 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "C=-",
-        " I "
-    ],
-    "key": {
-        "C": {
-            "item": "aether:golden_amber"
-        },
-        "-": {
-            "item": "minecraft:copper_ingot"
-        },
-        "I": {
-            "tag": "quark:posts"
-        },
-        "=": {
-            "item": "minecraft:spyglass"
-        }
-    },
-    "result": {
-        "id": "immersive_aircraft:telescope"
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:false"
     }
+  ]
 }

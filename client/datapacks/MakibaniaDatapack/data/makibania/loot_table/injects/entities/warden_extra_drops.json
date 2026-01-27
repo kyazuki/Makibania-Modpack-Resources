@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+            "condition": "random_chance",
+            "chance": 0.5
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:echo_shard",
+          "quality": 1,
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -4,6 +4,9 @@
         "makibania:glm_nether_treasure",
         "makibania:glm_nether_uncommon",
         "makibania:glm_mythica_treasure",
-        "makibania:glm_mythica_uncommon"
+        "makibania:glm_mythica_uncommon",
+        "makibania:glm_nether_aircraft_upgrades",
+        "makibania:glm_nether_aircraft_upgrades_weapon",
+        "makibania:glm_warden_extra_drops"
     ]
 }

@@ -35,6 +35,10 @@
         {
             "condition": "neoforge:loot_table_id",
             "loot_table_id": "iceandfire:chest/hydra_cave"
+        },
+        {
+            "condition": "neoforge:loot_table_id",
+            "loot_table_id": "takesapillage:chests/bastille/center"
         }
     ],
     "table": "mmakibania:injects/chests/mythica_uncommon"

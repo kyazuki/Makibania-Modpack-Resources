@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ftboceanmobs:sludge_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "ftboceanmobs:sludge_ball"
+  }
+}

@@ -334,6 +334,14 @@
 					"value": 0.04,
 					"operation": "multiply_base"
 				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "makibania:crossbow_charge_speed",
+					"value": 0.04,
+					"operation": "multiply_base"
+				}
 			}
 		]
 	},

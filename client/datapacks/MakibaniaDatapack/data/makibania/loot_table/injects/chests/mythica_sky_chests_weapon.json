@@ -1,0 +1,72 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "condition": "random_chance",
+                    "chance": 0.3
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "immersive_aircraft:rotary_cannon",
+                    "quality": 2,
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "immersive_aircraft:heavy_crossbow",
+                    "quality": 2,
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "immersive_aircraft:telescope",
+                    "quality": 2,
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "immersive_aircraft:bomb_bay",
+                    "quality": 2,
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "immersive_aircraft:gyroscope",
+                    "quality": 1,
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "immersive_aircraft:hull_reinforcement",
+                    "quality": 1,
+                    "weight": 1
+                }
+            ],
+            "rolls": 1.0
+        },
+        {
+            "bonus_rolls": 0.0,
+            "conditions": [],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "immersive_aircraft:hull",
+                    "quality": 0,
+                    "weight": 5
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "immersive_aircraft:sail",
+                    "quality": 0,
+                    "weight": 5
+                }
+            ],
+            "rolls": 3.0
+        }
+    ]
+}

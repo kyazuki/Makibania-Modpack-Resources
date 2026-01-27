@@ -1,0 +1,143 @@
+{
+  "#ftboceanmobs:rift_mobs": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 8,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "puffish_attributes:armor_shred",
+      "value": 8,
+      "operation": "ADDITION"
+    }
+  ],
+  "ftboceanmobs:rift_weaver": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 8,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 18,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 120,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "puffish_attributes:life_steal",
+      "value": 4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "puffish_attributes:magic_resistance_shred",
+      "value": 8,
+      "operation": "ADDITION"
+    }
+  ],
+  "ftboceanmobs:tentacled_horror": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 6,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 120,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "puffish_attributes:life_steal",
+      "value": 12,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "puffish_attributes:magic_resistance_shred",
+      "value": 8,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:lightning_dragon": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 12,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 120,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "puffish_attributes:life_steal",
+      "value": 6,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:ice_dragon": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 6,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 120,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "puffish_attributes:life_steal",
+      "value": 12,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:fire_dragon": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 6,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 120,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "puffish_attributes:life_steal",
+      "value": 8,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:warden": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 120,
+      "operation": "ADDITION"
+    }
+  ],
+  "livingthings:ancient_blaze": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 6,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 120,
+      "operation": "ADDITION"
+    }
+  ]
+}

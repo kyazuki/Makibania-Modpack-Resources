@@ -14,12 +14,8 @@
         "id": "create:sturdy_sheet"
     },
     {
-        "chance": 3,
-        "id": "create:andesite_alloy"
-    },
-    {
-        "chance": 2,
-        "id": "create:powdered_obsidian"
+        "chance": 5,
+        "id": "forbidden_arcanus:obsidiansteel_ingot"
     }
   ],
   "sequence": [
@@ -46,7 +42,7 @@
           "item": "create:andesite_casing"
         },
         {
-          "item": "create:forbidden_arcanus:obsidiansteel_ingot"
+          "item": "forbidden_arcanus:obsidiansteel_ingot"
         }
       ],
       "results": [

@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "netherdepthsupgrade:fortress_grouper"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 4,
+        "id": "netherdepthsupgrade:fortress_grouper_plate"
+      }
+    }
+  ],
+  "tool": {
+    "item": "minecraft:shears"
+  }
+}

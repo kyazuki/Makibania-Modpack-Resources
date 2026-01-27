@@ -5,9 +5,6 @@
     "minecraft:spawner",
     "minecraft:trial_spawner",
     "iceandfire:dread_spawner",
-    "iceandfire:dread_portal",
-    "ftbquests:barrier",
-    "ftbquests:stage_barrier",
-    "immersive_aircraft:propeller"
+    "iceandfire:dread_portal"
   ]
 }

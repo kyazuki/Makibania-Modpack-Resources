@@ -1,0 +1,12 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:veggiesdelight:wild_bellpeppers",
+    "item:veggiesdelight:mature_dandelion",
+    "item:veggiesdelight:wild_broccoli",
+    "item:veggiesdelight:wild_cauliflowers",
+    "item:veggiesdelight:wild_garlic",
+    "item:veggiesdelight:wild_sweet_potatoes"
+  ],
+  "text": "makibania.info.wild_veggies_mythica"
+}

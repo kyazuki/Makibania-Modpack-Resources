@@ -1,0 +1,21 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_sand"
+    },
+    {
+      "item": "forbidden_arcanus:soul_extractor"
+    }
+  ],
+  "keep_held_item": true,
+  "results": [
+    {
+      "id": "forbidden_arcanus:soulless_sand"
+    },
+    {
+      "chance": 0.25,
+      "id": "forbidden_arcanus:soul"
+    }
+  ]
+}

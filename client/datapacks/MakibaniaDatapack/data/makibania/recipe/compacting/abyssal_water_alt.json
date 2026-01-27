@@ -1,0 +1,15 @@
+{
+    "type": "create:compacting",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "item": "ftboceanmobs:sludge_block"
+        }
+    ],
+    "results": [
+        {
+            "amount": 1000,
+            "id": "ftboceanmobs:abyssal_water"
+        }
+    ]
+}

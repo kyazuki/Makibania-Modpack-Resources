@@ -2,6 +2,9 @@
   "values": [
     "minecraft:player",
     "minecraft:villager",
-    "minecraft:wandering_trader"
+    "minecraft:wandering_trader",
+    "biomeswevegone:oddion",
+    "biomeswevegone:man_o_war",
+    "ribbits:ribbit"
   ]
 }

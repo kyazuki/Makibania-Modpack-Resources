@@ -43,6 +43,10 @@
         {
             "condition": "neoforge:loot_table_id",
             "loot_table_id": "iceandfire:chest/fire_dragon_male_cave"
+        },
+        {
+            "condition": "neoforge:loot_table_id",
+            "loot_table_id": "takesapillage:chests/bastille/gallows"
         }
     ],
     "table": "mmakibania:injects/chests/mythica_treasure"

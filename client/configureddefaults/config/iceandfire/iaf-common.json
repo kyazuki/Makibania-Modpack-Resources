@@ -1,6 +1,6 @@
 {
   "dragon": {
-    "maxHealth": 500.0,
+    "maxHealth": 2400.0,
     "eggBornTime": 7200,
     "maxPathingNodes": 5000,
     "villagersFear": true,
@@ -11,22 +11,22 @@
     "generate.denGoldAmount": 0.25,
     "generate.oreRatio": 0.022222222222222223,
     "griefing": true,
-    "tamedGriefing": true,
+    "tamedGriefing": false,
     "flapNoiseDistance": 4,
     "fluteDistance": 8,
-    "attackDamage": 17,
-    "attackDamageFire": 2.0,
-    "attackDamageIce": 2.5,
-    "attackDamageLightning": 3.5,
+    "attackDamage": 34,
+    "attackDamageFire": 15.0,
+    "attackDamageIce": 18.0,
+    "attackDamageLightning": 20,
     "maxFlight": 256,
     "goldSearchLength": 30,
-    "canHealFromBiting": false,
+    "canHealFromBiting": true,
     "canDespawn": true,
     "sleep": true,
     "digWhenStuck": true,
     "breakBlockCooldown": 5,
-    "targetSearchLength": 128,
-    "wanderFromHomeDistance": 40,
+    "targetSearchLength": 256,
+    "wanderFromHomeDistance": 80,
     "hungerTickRate": 3000,
     "blockBreakingDropChance": 0.1,
     "explosiveBreath": false,
@@ -35,7 +35,7 @@
     "maxTamedDragonAge": 128,
     "maxBreathTimeMul": 2.0,
     "neutralToPlayer": false,
-    "enableBrushDragonScales": true,
+    "enableBrushDragonScales": false,
     "maxBrushScalesDropPerTime": 2,
     "brushTimesMul": 1.0,
     "loot.skull": true,
@@ -54,24 +54,24 @@
   "cyclops": {
     "spawnWanderingChance": 0.0011111111111111111,
     "sheepSearchLength": 17,
-    "maxHealth": 150.0,
-    "attackDamage": 15.0,
-    "biteDamage": 40.0,
+    "maxHealth": 300.0,
+    "attackDamage": 20.0,
+    "biteDamage": 60.0,
     "griefing": true
   },
   "siren": {
-    "maxHealth": 50.0,
+    "maxHealth": 100.0,
     "maxSingTime": 12000,
     "timeBetweenSongs": 2000
   },
   "gorgon": {
-    "maxHealth": 100.0
+    "maxHealth": 500.0
   },
   "deathworm": {
     "spawnChance": 0.03333333333333333,
     "targetSearchLength": 48,
-    "maxHealth": 10.0,
-    "attackDamage": 3.0,
+    "maxHealth": 70.0,
+    "attackDamage": 9.0,
     "attackMonsters": true
   },
   "cockatrice": {
@@ -80,13 +80,13 @@
     "chickenSearchLength": 32,
     "eggChance": 0.03333333333333333,
     "maxHealth": 40.0,
-    "chickensLayRottenEggs": true
+    "chickensLayRottenEggs": false
   },
   "bird": {
     "spawnChance": 0.0125,
     "targetSearchLength": 48,
     "featherDropChance": 0.04,
-    "featherAttackDamage": 1.0,
+    "featherAttackDamage": 4.0,
     "flockLength": 40,
     "flightHeight": 80,
     "attackAnimals": false
@@ -95,8 +95,8 @@
     "spawn": true,
     "spawnWeight": 60,
     "dropWeapon": true,
-    "maxHealth": 50.0,
-    "attackDamage": 10.0
+    "maxHealth": 100.0,
+    "attackDamage": 16.0
   },
   "amphithere": {
     "spawn": true,
@@ -104,14 +104,14 @@
     "villagerSearchLength": 48.0,
     "tameTime": 400,
     "flightSpeed": 1.75,
-    "maxHealth": 50.0,
-    "attackDamage": 7.0
+    "maxHealth": 80.0,
+    "attackDamage": 14.0
   },
   "seaSerpent": {
     "spawnChance": 0.004,
     "griefing": true,
-    "baseHealth": 20.0,
-    "attackDamage": 4.0
+    "baseHealth": 60.0,
+    "attackDamage": 12.0
   },
   "lich": {
     "spawn": true,
@@ -127,8 +127,8 @@
   },
   "ghost": {
     "maxHealth": 30.0,
-    "attackDamage": 3.0,
-    "fromPlayerDeaths": true
+    "attackDamage": 7.0,
+    "fromPlayerDeaths": false
   },
   "tools": {
     "dragonFireAbility": true,
@@ -145,16 +145,16 @@
     "dragonLightningMaxSearchCount": 10
   },
   "armors": {
-    "dragonSteelBaseDamage": 25.0,
+    "dragonSteelBaseDamage": 30.0,
     "dragonSteelBaseDurability": 8000,
-    "dragonsteelArmorToughness": 6.0,
-    "dragonsteelHelmetArmor": 7,
+    "dragonsteelArmorToughness": 7.0,
+    "dragonsteelHelmetArmor": 8,
     "dragonsteelHelmetDurability": 1760,
-    "dragonsteelChestplateArmor": 12,
+    "dragonsteelChestplateArmor": 14,
     "dragonsteelChestplateDurability": 2560,
-    "dragonsteelLeggingsArmor": 9,
+    "dragonsteelLeggingsArmor": 10,
     "dragonsteelLeggingsDurability": 2400,
-    "dragonsteelBootsArmor": 6,
+    "dragonsteelBootsArmor": 7,
     "dragonsteelBootsDurability": 2080,
     "dragonsteelArmorEnchantability": 30,
     "dragonsteelArmorKnockbackResistance": 0.1
@@ -176,8 +176,8 @@
     "generateSirenIslandChance": 1.0
   },
   "misc": {
-    "enableDragonSeeker": false,
-    "dreadQueenMaxHealth": 750.0
+    "enableDragonSeeker": true,
+    "dreadQueenMaxHealth": 4000.0
   },
   "version": 3
 }

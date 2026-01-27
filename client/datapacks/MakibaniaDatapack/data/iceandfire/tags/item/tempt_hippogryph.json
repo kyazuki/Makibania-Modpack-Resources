@@ -1,6 +1,7 @@
 {
   "values": [
-    "minecraft:rabbit",
-    "minecraft:cooked_rabbit"
+    "veggiesdelight:bellpepper",
+    "veggiesdelight:broccoli",
+    "veggiesdelight:cauliflower"
   ]
 }

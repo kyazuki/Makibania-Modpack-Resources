@@ -1,9 +1,9 @@
 {
 	"canAttack": true,
-	"health": 180.0,
+	"health": 220.0,
 	"movementSpeed": 0.26,
-	"attackDamage": 10.0,
-	"weaponDropChance": 15.0,
+	"attackDamage": 12.0,
+	"weaponDropChance": 1.0,
 	"spawning": {
 		"spawnWeight": 15,
 		"minSpawnCount": 1,
@@ -11,18 +11,19 @@
 	},
 	"weaponNames": {
 		"swordNames": [
-			"Edge of Suffering",
-			"Dragon\u0027s Curse",
-			"The Soul Harvester",
-			"Bloodseeker",
-			"Soul Reaper",
-			"Doomblade"
+			"苦痛の刃",
+			"虚無刀",
+			"ソウルハーベスター",
+			"ブラッドシーカー",
+			"鬼殺剣",
+			"破滅ソード"
 		],
 		"axeNames": [
-			"Demonic Soul Collector",
-			"The Reaper\u0027s Scythe",
-			"The Soul Reaper",
-			"The Soul Collector"
+			"断頭斧",
+			"処刑人の斧",
+			"首落とし",
+			"魂の収奪者",
+			"スーパーキルデスアックス"
 		]
 	}
 }

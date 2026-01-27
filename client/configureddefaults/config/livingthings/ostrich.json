@@ -1,5 +1,5 @@
 {
-	"health": 20.0,
+	"health": 30.0,
 	"movementSpeed": 0.25,
 	"canBeRidden": true,
 	"maxSpawnedInChunk": 5,

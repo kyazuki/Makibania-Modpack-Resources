@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:forbidden_arcanus:test_tube",
+    "item:forbidden_arcanus:blood_test_tube"
+  ],
+  "text": "makibania.info.collecting_blood"
+}

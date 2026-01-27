@@ -27,18 +27,13 @@
     "create:creative_crate",
     "create:creative_blaze_cake",
     "create:handheld_worldshaper",
+    "malum:geas",
 
-    "molten_vents:dormant_molten_asurine",
     "molten_vents:active_molten_asurine",
-    "molten_vents:dormant_molten_veridium",
     "molten_vents:active_molten_veridium",
-    "molten_vents:dormant_molten_crimsite",
     "molten_vents:active_molten_crimsite",
-    "molten_vents:dormant_molten_ochrum",
     "molten_vents:active_molten_ochrum",
-    "molten_vents:dormant_molten_scorchia",
     "molten_vents:active_molten_scorchia",
-    "molten_vents:dormant_molten_scoria",
     "molten_vents:active_molten_scoria",
 
     "moonlight:spawn_box",
@@ -47,6 +42,8 @@
     "livingthings:lexicon",
     "ftblibrary:icon_item",
     "ftbquests:book",
+    "ftbquests:barrier",
+    "ftbquests:stage_barrier",
     "ftbquests:detector",
     "ftbquests:screen_1",
     "ftbquests:screen_3",
@@ -54,6 +51,12 @@
     "ftbquests:screen_7",
     "ftbquests:loot_crate_opener",
     "ftbfiltersystem:smart_filter",
-    "ftbquests:task_screen_configurator"
+    "ftbquests:task_screen_configurator",
+    "immersive_aircraft:propeller",
+    "minecraft:end_portal_frame",
+    "minecraft:spawner",
+    "minecraft:trial_spawner",
+    "iceandfire:dread_spawner",
+    "iceandfire:dread_portal"
   ]
 }

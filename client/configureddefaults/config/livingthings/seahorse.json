@@ -1,5 +1,5 @@
 {
-	"health": 4.0,
+	"health": 8.0,
 	"movementSpeed": 0.2,
 	"maxSpawnedInChunk": 6,
 	"spawnBiomes": [

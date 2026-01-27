@@ -1,0 +1,12 @@
+{
+	"health": 500.0,
+	"movementSpeed": 0.25,
+	"attackDamage": 12.0,
+	"chargingTime": 200,
+	"largeFireballAmount": 10,
+	"largeFireballChance": 40,
+	"blazeSpawnCount": 4,
+	"canAttack": true,
+	"canSpawn": true,
+	"peacefulDespawn": true
+}

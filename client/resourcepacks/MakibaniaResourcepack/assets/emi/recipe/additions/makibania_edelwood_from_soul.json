@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:minecraft:oak_sapling",
+  "right": "item:forbidden_arcanus:soul",
+  "output": "item:forbidden_arcanus:growing_edelwood"
+}

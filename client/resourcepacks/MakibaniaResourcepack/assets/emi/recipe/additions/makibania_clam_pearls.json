@@ -1,0 +1,9 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:crittersandcompanions:clam",
+    "item:crittersandcompanions:pearl",
+    "item:crittersandcompanions:otter_spawn_egg"
+  ],
+  "text": "makibania.info.clam_pearl"
+}

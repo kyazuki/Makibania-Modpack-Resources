@@ -4,15 +4,15 @@
   "group": "misc",
   "pattern": [
     " P ",
-    "SES",
-    "H_H"
+    "Q_Q",
+    "SES"
   ],
   "key": {
     "S": {
       "item": "immersive_aircraft:sail"
     },
-    "H": {
-      "item": "create:andesite_casing"
+    "Q": {
+      "item": "malum:natural_quartz"
     },
     "P": {
       "item": "create:propeller"

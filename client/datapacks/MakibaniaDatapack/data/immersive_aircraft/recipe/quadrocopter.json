@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "PAP",
+    "PQP",
     " S ",
     "PEP"
   ],
@@ -11,14 +11,14 @@
         "item": "immersive_aircraft:boiler"
       }
     ],
-    "A": [
+    "B": [
       {
-        "item": "create:andesite_casing"
+        "item": "minecraft:bamboo_block"
       }
     ],
     "S": [
       {
-        "item": "createdeco:andesite_mesh_fence"
+        "item": "woodworks:bamboo_ladder"
       }
     ],
     "P": [
@@ -28,7 +28,7 @@
     ]
   },
   "result": {
-    "item": "immersive_aircraft:quadrocopter",
+    "id": "immersive_aircraft:quadrocopter",
     "count": 1
   }
 }

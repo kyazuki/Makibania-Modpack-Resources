@@ -50,7 +50,7 @@
         },
         {
           "type": "item",
-          "name": "minecraft:iron_ingot",
+          "name": "create:zinc_ingot",
           "functions": [
             {
               "function": "set_count",

@@ -1,0 +1,36 @@
+{
+    "type": "neoforge:add_table",
+    "conditions": [
+        {
+            "condition": "minecraft:any_of",
+            "terms": [
+                {
+                    "condition": "neoforge:loot_table_id",
+                    "loot_table_id": "skyvillages:chests/sky_village_weaponsmith"
+                },
+                {
+                    "condition": "neoforge:loot_table_id",
+                    "loot_table_id": "skyvillages:chests/sky_village_fletcher"
+                },
+                {
+                    "condition": "neoforge:loot_table_id",
+                    "loot_table_id": "skyvillages:chests/sky_village_armorer"
+                },
+                {
+                    "condition": "neoforge:loot_table_id",
+                    "loot_table_id": "mss:cathedral_rare"
+                },
+                {
+                    "condition": "neoforge:loot_table_id",
+                    "loot_table_id": "mss:cartographer_tower"
+                },
+                {
+                    "condition": "neoforge:loot_table_id",
+                    "loot_table_id": "mss:houses_rare"
+                }
+
+            ]
+        }        
+    ],
+    "table": "makibania:injects/chests/mythica_sky_chests_weapon"
+}

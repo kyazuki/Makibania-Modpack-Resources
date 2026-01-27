@@ -30,6 +30,9 @@
     "endermanoverhaul:mushroom_fields_enderman",
     "endermanoverhaul:dark_oak_enderman",
     "endermanoverhaul:desert_enderman",
-    "iceandfire:deathworm"
+    "iceandfire:deathworm",
+    "takesapillage:archer",
+    "takesapillage:legioner",
+    "takesapillage:skirmisher"
   ]
 }

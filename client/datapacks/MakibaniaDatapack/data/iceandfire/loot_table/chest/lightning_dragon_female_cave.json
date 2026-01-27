@@ -126,6 +126,21 @@
         },
         {
           "type": "item",
+          "name": "forbidden_arcanus:silver_dragon_scale",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              }
+            }
+          ],
+          "weight": 2
+        },
+        {
+          "type": "item",
           "name": "iceandfire:copper_nugget",
           "functions": [
             {

@@ -1,0 +1,10 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:soul_sand",
+    "item:forbidden_arcanus:soulless_sand",
+    "item:forbidden_arcanus:soul_extractor",
+    "item:forbidden_arcanus:soul"
+  ],
+  "text": "makibania.info.soul_extractor"
+}

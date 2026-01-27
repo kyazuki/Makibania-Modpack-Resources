@@ -23,12 +23,12 @@
     ],
     "~": [
       {
-        "item": "cloudstorage:happy_cloud_in_a_bottle"
+        "item": "biomeswevegone:white_puffball_cap"
       }
     ],
     "C": [
       {
-        "tag": "forge:chests/wooden"
+        "tag": "c:chests/wooden"
       }
     ]
   },
