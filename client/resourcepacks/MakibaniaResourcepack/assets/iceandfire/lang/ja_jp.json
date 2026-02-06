@@ -349,5 +349,21 @@
     "jei.iceandfire.dragon_forge_ice": "氷竜炉",
     "jei.iceandfire.dragon_forge_lightning": "雷竜炉",
     "text.iceandfire.not_enable": "この機能は設定で無効化されています",
-    "warning.iceandfire.dreadland.not_complete": ""
+    "warning.iceandfire.dreadland.not_complete": "",
+    "iceandfire.ponder.dragon_forge.header": "ドラゴンブレスで鍛造する",
+    "iceandfire.ponder.dragon_forge.text_1": "これが竜炉の中心で、すべてのアイテムはここに入ります。",
+    "iceandfire.ponder.dragon_forge.text_2": "ドラゴンがこのブロックを視認可能な必要があります",
+    "iceandfire.ponder.dragon_forge.text_3": "炉に対応した種類のドラゴンが必要です",
+    "iceandfire.ponder.dragon_forge.text_4": "各面の中心のブロックをクリックして炉を開くことができます",
+    "iceandfire.ponder.tag.dragon_forge": "竜炉",
+    "iceandfire.ponder.tag.dragon_forge.description": "ドラゴンブレスで鍛造する特殊な炉",
+    "block.iceandfire.ghost_chest": "呪われたチェスト",
+    "entity.iceandfire.ghost": "幽霊",
+    "item.iceandfire.spawn_egg_ghost": "幽霊のスポーンエッグ",
+    "item.iceandfire.ectoplasm": "エクトプラズム",
+    "item.iceandfire.ghost_ingot": "ファンタズムインゴット",
+    "item.iceandfire.ghost_ingot.desc_0": "§6レアドロップ§r",
+    "item.iceandfire.ghost_sword": "ファンタズムブレード",
+    "item.iceandfire.ghost_sword.desc_0": "ブロックを貫通する、回転する剣型の攻撃を発射する",
+    "item.iceandfire.ghost_sword.desc_1": "剣型の攻撃は追加ダメージを与える"
 }
