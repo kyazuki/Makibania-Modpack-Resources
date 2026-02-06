@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "archeological:aged_brick"
+    },
+    {
+      "item": "minecraft:brick"
+    }
+  ],
+  "result": {
+    "id": "archeological:aged_brick",
+    "count": 2
+  }
+}

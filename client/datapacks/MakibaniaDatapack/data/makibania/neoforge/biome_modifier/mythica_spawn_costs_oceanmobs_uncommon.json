@@ -1,0 +1,17 @@
+{
+    "type": "neoforge:add_spawn_costs",
+    "biomes": [
+        "mythica:deep_cold_ocean",
+        "mythica:deep_frozen_ocean"
+    ],
+    "entity_types": [
+        "ftboceanmobs:rift_demon",
+        "ftboceanmobs:rift_minotaur",
+        "ftboceanmobs:mossback_goliath",
+        "ftboceanmobs:corrosive_craig"
+    ],
+    "spawn_cost": {
+        "energy_budget": 1.4,
+        "charge": 2
+    }
+}

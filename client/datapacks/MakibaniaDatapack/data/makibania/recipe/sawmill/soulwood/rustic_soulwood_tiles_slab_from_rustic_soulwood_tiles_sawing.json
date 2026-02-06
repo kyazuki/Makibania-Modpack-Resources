@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "woodworks:config",
+      "value": "sawmill"
+    }
+  ],
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "item": "malum:rustic_soulwood_tiles"
+  },
+  "result": {
+    "count": 2,
+    "id": "malum:rustic_soulwood_tiles_slab"
+  }
+}

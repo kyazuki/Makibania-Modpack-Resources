@@ -1,5 +1,7 @@
 {
+  "replace": true,
   "values": [
-    "minecraft:sugar"
+    "minecraft:sugar",
+    "createfood:powdered_sugar"
   ]
 }

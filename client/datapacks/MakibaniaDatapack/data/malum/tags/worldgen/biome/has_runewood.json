@@ -1,4 +1,5 @@
 {
+  "replace": true,
   "remove": [
     "#mythica:is_snowy"
   ],

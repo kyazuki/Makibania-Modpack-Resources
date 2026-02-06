@@ -1,0 +1,16 @@
+{
+    "type": "neoforge:add_spawn_costs",
+    "biomes": [
+        "mythica:deep_cold_ocean",
+        "mythica:deep_frozen_ocean",
+        "mythica:cold_ocean",
+        "mythica:frozen_ocean"
+    ],
+    "entity_types": [
+        "ftboceanmobs:shadow_beast"
+    ],
+    "spawn_cost": {
+        "energy_budget": 0.7,
+        "charge": 0.6
+    }
+}

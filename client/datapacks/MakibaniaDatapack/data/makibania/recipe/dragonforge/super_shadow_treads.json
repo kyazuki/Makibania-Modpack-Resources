@@ -1,0 +1,14 @@
+{
+  "type": "iceandfire:dragonforge",
+  "dragonType": "ice",
+  "cookTime": 1000,
+  "input": {
+    "item": "chromaticarsenal:shadow_treads"
+  },
+  "blood": {
+    "item": "chromaticarsenal:ascension_essence"
+  },
+  "result": {
+    "id": "chromaticarsenal:super_shadow_treads"
+  }
+}

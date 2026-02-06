@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"count": {
+								"type": "minecraft:uniform",
+								"max": 6.0,
+								"min": 2.0
+							},
+							"enchantment": "minecraft:looting",
+							"function": "minecraft:enchanted_count_increase"
+						}
+					],
+					"name": "mythica:mythic_dust"
+				}
+			],
+			"rolls": 1.0
+		}
+	]
+}

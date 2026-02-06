@@ -39,7 +39,7 @@
         },
         {
           "type": "item",
-          "name": "forbidden_arcanus:gold_dragon_scale",
+          "name": "forbidden_arcanus:golden_dragon_scale",
           "functions": [
             {
               "function": "set_count",

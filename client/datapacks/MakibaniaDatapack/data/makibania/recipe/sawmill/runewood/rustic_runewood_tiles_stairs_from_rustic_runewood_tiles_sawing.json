@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "woodworks:config",
+      "value": "sawmill"
+    }
+  ],
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "item": "malum:rustic_runewood_tiles"
+  },
+  "result": {
+    "count": 1,
+    "id": "malum:rustic_runewood_tiles_stairs"
+  }
+}

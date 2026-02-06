@@ -1,0 +1,15 @@
+{
+    "type": "neoforge:add_table",
+    "conditions": [
+        {
+            "condition": "minecraft:any_of",
+            "terms": [
+                {
+                    "condition": "neoforge:loot_table_id",
+                    "loot_table_id": "minersdelight:entities/jumping_spider"
+                }
+            ]
+        }        
+    ],
+    "table": "makibania:injects/entities/jumping_spider_extra_drops"
+}

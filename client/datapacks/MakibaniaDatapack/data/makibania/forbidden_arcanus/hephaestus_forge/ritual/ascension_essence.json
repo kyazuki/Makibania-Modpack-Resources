@@ -1,0 +1,29 @@
+{
+  "enhancers": "forbidden_arcanus:divine_pact",
+  "essences": {
+    "aureal": 2250,
+    "blood": 4000,
+    "experience": 800,
+    "souls": 100
+  },
+  "forge_tier": 5,
+  "inputs": [
+    {
+      "amount": 8,
+      "ingredient": {
+        "item": "mythica:mythic_dust"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "malum:mnemonic_fragment"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "chromaticarsenal:ascension_essence"
+    }
+  }
+}

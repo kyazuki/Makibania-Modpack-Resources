@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "d": {
+      "item": "forbidden_arcanus:deorum_ingot"
+    },
+    "e":{
+      "item": "minecraft:emerald"
+    },
+    "s": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "n": {
+      "item": "forbidden_arcanus:deorum_nugget"
+    }
+  },
+  "pattern": [
+    " d ",
+    "nen",
+    " s "
+  ],
+  "result": {
+    "count": 1,
+    "id": "enchanted:arthana",
+    "components":{
+      "minecraft:enchantments":{
+        "levels":{
+          "minecraft:looting":5
+        }
+      }
+    }
+  }
+}

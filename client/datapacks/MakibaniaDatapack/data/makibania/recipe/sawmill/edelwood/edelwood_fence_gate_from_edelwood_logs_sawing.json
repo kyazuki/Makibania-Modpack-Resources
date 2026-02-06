@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "woodworks:config",
+      "value": "sawmill"
+    }
+  ],
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "forbidden_arcanus:edelwood_logs"
+  },
+  "result": {
+    "count": 1,
+    "id": "forbidden_arcanus:edelwood_fence_gate"
+  }
+}

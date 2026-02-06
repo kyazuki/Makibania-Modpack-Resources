@@ -1,0 +1,81 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:cinder_flour"
+  },
+  "loops": 1,
+  "results": [
+    {
+        "id": "northstar:rutile_concentrate",
+        "count": 2
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "northstar:dormant_martian_sapling_sequenced"
+        },
+        {
+          "type": "fluid_stack",
+          "amount": 1000,
+          "fluid": "ftboceanmobs:abyssal_water"
+        }
+      ],
+      "results": [
+        {
+          "id": "northstar:dormant_martian_sapling_sequenced"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:cinder_flour"
+        },
+        {
+          "item": "chromaticarsenal:ascension_essence"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:cinder_flour"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:cinder_flour"
+        },
+        {
+          "item": "northstar:rutile_concentrate"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:cinder_flour"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:cinder_flour"
+        }
+      ],
+      "results": [
+        {
+          "id": "create:cinder_flour"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "create:cinder_flour"
+  }
+}

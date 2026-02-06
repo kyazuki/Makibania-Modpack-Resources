@@ -1,0 +1,14 @@
+{
+  "type": "iceandfire:dragonforge",
+  "dragonType": "lightning",
+  "cookTime": 1000,
+  "input": {
+    "item": "chromaticarsenal:golden_heart"
+  },
+  "blood": {
+    "item": "chromaticarsenal:ascension_essence"
+  },
+  "result": {
+    "id": "chromaticarsenal:super_golden_heart"
+  }
+}

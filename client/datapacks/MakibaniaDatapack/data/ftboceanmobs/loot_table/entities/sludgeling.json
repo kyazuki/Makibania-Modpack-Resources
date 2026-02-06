@@ -6,6 +6,15 @@
 			"entries": [
 				{
 					"type": "minecraft:item",
+					"functions": [
+						{
+							"count": {
+								"type": "minecraft:uniform",
+								"max": 1.0,
+								"min": 0.0
+							}
+						}
+					],
 					"name": "ftboceanmobs:sludge_ball"
 				}
 			],

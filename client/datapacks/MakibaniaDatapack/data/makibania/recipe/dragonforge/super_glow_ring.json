@@ -1,0 +1,14 @@
+{
+  "type": "iceandfire:dragonforge",
+  "dragonType": "lightning",
+  "cookTime": 1000,
+  "input": {
+    "item": "chromaticarsenal:duality_rings"
+  },
+  "blood": {
+    "item": "chromaticarsenal:ascension_essence"
+  },
+  "result": {
+    "id": "chromaticarsenal:super_glow_ring"
+  }
+}

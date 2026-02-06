@@ -21,6 +21,27 @@
 				}
 			],
 			"rolls": 1.0
+		},
+		{
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"count": {
+								"type": "minecraft:uniform",
+								"max": 6.0,
+								"min": 0.0
+							},
+							"enchantment": "minecraft:looting",
+							"function": "minecraft:enchanted_count_increase"
+						}
+					],
+					"name": "chromaticarsenal:chroma_shard"
+				}
+			],
+			"rolls": 1.0
 		}
 	]
 }

@@ -34,7 +34,7 @@
     },
     {
       "attribute": "puffish_attributes:life_steal",
-      "value": 4,
+      "value": 0.2,
       "operation": "ADDITION"
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "attribute": "puffish_attributes:life_steal",
-      "value": 12,
+      "value": 0.8,
       "operation": "ADDITION"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "attribute": "puffish_attributes:life_steal",
-      "value": 6,
+      "value": 1.5,
       "operation": "ADDITION"
     }
   ],
@@ -95,7 +95,7 @@
     },
     {
       "attribute": "puffish_attributes:life_steal",
-      "value": 12,
+      "value": 3,
       "operation": "ADDITION"
     }
   ],
@@ -112,6 +112,23 @@
     },
     {
       "attribute": "puffish_attributes:life_steal",
+      "value": 2,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:deathworm": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 6,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "puffish_attributes:life_steal",
+      "value": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "puffish_attributes:armor_shred",
       "value": 8,
       "operation": "ADDITION"
     }
@@ -137,6 +154,42 @@
     {
       "attribute": "minecraft:generic.armor_toughness",
       "value": 120,
+      "operation": "ADDITION"
+    }
+  ],
+  "takesapillage:archer": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 8,
+      "operation": "ADDITION"
+    }
+  ],
+  "takesapillage:legioner": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 6,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 16,
+      "operation": "ADDITION"
+    }
+  ],
+  "takesapillage:skirmisher": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 6,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 8,
       "operation": "ADDITION"
     }
   ]

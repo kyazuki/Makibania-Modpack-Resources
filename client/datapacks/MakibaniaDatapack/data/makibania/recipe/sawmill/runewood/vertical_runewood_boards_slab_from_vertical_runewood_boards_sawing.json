@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "woodworks:config",
+      "value": "sawmill"
+    }
+  ],
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "item": "malum:vertical_runewood_boards"
+  },
+  "result": {
+    "count": 2,
+    "id": "malum:vertical_runewood_boards_slab"
+  }
+}

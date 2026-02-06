@@ -1,0 +1,14 @@
+{
+  "type": "iceandfire:dragonforge",
+  "dragonType": "lightning",
+  "cookTime": 1000,
+  "input": {
+    "item": "chromaticarsenal:harpy_feather"
+  },
+  "blood": {
+    "item": "chromaticarsenal:ascension_essence"
+  },
+  "result": {
+    "id": "chromaticarsenal:super_harpy_feather"
+  }
+}

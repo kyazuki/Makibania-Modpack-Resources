@@ -1,0 +1,14 @@
+{
+  "type": "iceandfire:dragonforge",
+  "dragonType": "ice",
+  "cookTime": 1000,
+  "input": {
+    "item": "chromaticarsenal:ward_crystal"
+  },
+  "blood": {
+    "item": "chromaticarsenal:ascension_essence"
+  },
+  "result": {
+    "id": "chromaticarsenal:super_ward_crystal"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "iceandfire:dragonforge",
+  "dragonType": "fire",
+  "cookTime": 1000,
+  "input": {
+    "item": "chromaticarsenal:friendly_fire_flower"
+  },
+  "blood": {
+    "item": "chromaticarsenal:ascension_essence"
+  },
+  "result": {
+    "id": "chromaticarsenal:super_friendly_fire_flower"
+  }
+}

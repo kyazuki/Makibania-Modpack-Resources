@@ -1,0 +1,16 @@
+{
+  "type": "justenoughbreeding:breeding",
+  "mod": "iceandfire",
+  "mobs": [
+    {
+      "hippogryph": {
+        "inputs": [
+          {
+            "tag": "iceandfire:breed_hippogryph"
+          }
+        ],
+        "tamed": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "woodworks:config",
+      "value": "sawmill"
+    }
+  ],
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "malum:soulwood_board_ingredient"
+  },
+  "result": {
+    "count": 4,
+    "id": "malum:vertical_soulwood_boards"
+  }
+}

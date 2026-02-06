@@ -1,4 +1,5 @@
 {
+  "replace": true,
   "values": [
     "minecraft:prismarine_crystals",
     "ftboceanmobs:sludge_ball"

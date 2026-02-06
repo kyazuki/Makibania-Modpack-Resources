@@ -1,0 +1,10 @@
+{
+  "type": "malum:void_favor",
+  "input": {
+    "item": "forbidden_arcanus:maledictus_pact"
+  },
+  "result": {
+    "count": 1,
+    "id": "forbidden_arcanus:divine_pact"
+  }
+}
