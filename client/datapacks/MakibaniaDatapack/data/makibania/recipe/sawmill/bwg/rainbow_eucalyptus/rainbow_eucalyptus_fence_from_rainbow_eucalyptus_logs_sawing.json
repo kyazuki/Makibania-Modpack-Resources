@@ -1,0 +1,16 @@
+﻿{
+  "neoforge:conditions": [
+    {
+      "type": "woodworks:config",
+      "value": "sawmill"
+    }
+  ],
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "biomeswevegone:rainbow_eucalyptus_logs"
+  },
+  "result": {
+    "count": 4,
+    "id": "biomeswevegone:rainbow_eucalyptus_fence"
+  }
+}

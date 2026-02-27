@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "ftboceanmobs:energy_geyser",
+        "forbidden_arcanus:arcane_crystal_block",
+        "forbidden_arcanus:corrupted_arcane_crystal_block"
+    ]
+}

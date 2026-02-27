@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+        "biomeswevegone:dacite",
+        "biomeswevegone:white_dacite",
+        "biomeswevegone:white_dacite_cobblestone",
+        "minecraft:stone",
+        "minecraft:mossy_cobblestone",
+        "minecraft:basalt"
+    ]
+}

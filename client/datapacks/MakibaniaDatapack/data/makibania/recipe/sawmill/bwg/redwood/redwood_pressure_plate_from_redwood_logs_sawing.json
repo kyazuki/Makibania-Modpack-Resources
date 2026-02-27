@@ -1,0 +1,16 @@
+﻿{
+  "neoforge:conditions": [
+    {
+      "type": "woodworks:config",
+      "value": "sawmill"
+    }
+  ],
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "biomeswevegone:redwood_logs"
+  },
+  "result": {
+    "count": 2,
+    "id": "biomeswevegone:redwood_pressure_plate"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "woodworks:config",
+      "value": "sawmill"
+    }
+  ],
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "tag": "biomeswevegone:sakura_logs"
+  },
+  "result": {
+    "count": 4,
+    "id": "biomeswevegone:sakura_fence"
+  }
+}
