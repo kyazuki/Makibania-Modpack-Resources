@@ -4,6 +4,7 @@ from pathlib import Path
 import json
 import sys
 import yaml
+from ruamel.yaml import YAML
 
 
 @dataclass
@@ -108,10 +109,68 @@ def report_changes(
             print(f"\t\tHash: {mod.hash}")
 
 
+def apply_changes(
+    config_path: Path, add_mods: list[CurseForgeMod], update_mods: list[CurseForgeMod]
+) -> None:
+    """追加/更新されたModの情報でconfig.yamlを書き換える。
+
+    ruamel.yamlを使うことでコメント・フォーマットをそのまま保持する。
+    """
+    if not add_mods and not update_mods:
+        return
+
+    rtyaml = YAML()
+    rtyaml.preserve_quotes = True
+    with open(config_path, "r", encoding="utf-8") as f:
+        config = rtyaml.load(f)
+    mods = config.get("mods")
+    if mods is None:
+        print("Failed to parse config.yaml.", file=sys.stderr)
+        return
+
+    # projectId -> mods リスト内のインデックス (curseforge のみ)
+    pid_to_index: dict[int, int] = {}
+    for i, m in enumerate(mods):
+        if m.get("type") == "curseforge":
+            pid = m.get("projectId")
+            if pid is not None:
+                pid_to_index[pid] = i
+
+    # 既存Modの更新
+    for mod in update_mods:
+        idx = pid_to_index.get(mod.project_id)
+        if idx is not None:
+            mods[idx]["fileId"] = mod.file_id
+            if mod.hash is not None:
+                mods[idx]["hash"] = mod.hash
+
+    # 新規Modの追加
+    for mod in add_mods:
+        entry = {
+            "name": mod.name,
+            "type": "curseforge",
+            "projectId": mod.project_id,
+            "fileId": mod.file_id,
+            "hash": mod.hash,
+            "side": "both",
+        }
+        mods.append(entry)
+
+    # 名前順にソート (case-insensitive)
+    mods.sort(key=lambda m: m.get("name", "").lower())
+    config["mods"] = mods
+
+    # 書き戻し (UTF-8を明示的に指定)
+    with open(config_path, "w", encoding="utf-8") as f:
+        rtyaml.dump(config, f)
+    print(f"config.yaml updated: {len(add_mods)} added, {len(update_mods)} updated.")
+
+
 def main():
     args = parse_args()
     add_mods, update_mods = check_add_or_update(args.instance_path, args.config_path)
     report_changes(add_mods, update_mods)
+    apply_changes(args.config_path, add_mods, update_mods)
 
 
 if __name__ == "__main__":

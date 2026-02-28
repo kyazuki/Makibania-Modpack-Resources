@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "Parse CurseForge instance file(minecraftinstance.json) and detect added/updated mods."
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = ["pyyaml>=6.0.3"]
+dependencies = [
+    "pyyaml>=6.0.3",
+    "ruamel-yaml>=0.18",
+]
