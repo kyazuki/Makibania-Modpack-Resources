@@ -79,5 +79,11 @@
   "makibania.info.jumping_spider": "ハエトリグモはミシカの森や繁茂した洞窟に生息し、トンボの羽を与えて飼いならすことができます。飼いならした後は、飼い主を守ってくれます。",
   "makibania.info.red_panda": "レッサーパンダはミシカのジャングルに生息し、竹を与えて飼いならすことができます。飼いならした後は、一部の敵対モブを追い払ってくれます。",
   "makibania.info.collecting_blood": "左手に持っている間にモブを攻撃すと、血を集めることができます。",
-  "makibania.info.archaeologic_finds": "これらのアイテムは、地中の遺跡での考古学発掘から入手できます。"
+  "makibania.info.archaeologic_finds": "これらのアイテムは、地中の遺跡での考古学発掘から入手できます。",
+  "makibania.info.hippogryph_tame_items": "ヒッポグリフは、パプリカ、カリフラワー、ブロッコリーで飼いならすことができます。",
+
+  "sliding_door.mode.manual": "手動",
+  "sliding_door.mode.normal": "通常 (デフォルト)",
+  "sliding_door.mode.special": "特殊",
+  "sliding_door.mode.special_inverted": "特殊反転"
 }
