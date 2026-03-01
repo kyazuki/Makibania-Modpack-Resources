@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/medi-torimorta/Makibania-Modpack-Installer/refs/heads/main/config.schema.json
 schemaVersion: 2
-packVersion: "2.1.0"
+packVersion: "2.1.1"
 profile:
   name: Makibania
   icon: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABHZJREFUeJztmk9r1EAYxh//HEwrtoK7CAV3FUEU/QZCZT3oXbzo1Z4r9rDiwaKHYg8r7VmveusXKHYvHtRbD4IoQneF1iW1tNXdpJ7Wg/uGyewkmZmdSYLmB4HdZJLM88w7k5k3AQoKCgr+Yw5lXYFRqU05TwA8jjj8tLnpz8edn5kBjXKlL9o/57al6sQKH5upCst4L1r0M9KITAxolCv9e3fuhvadKJ0CADxfXo41QSTc9z1hWccZAxBvROoGNMqVZwDqvAHEidKpSBNqU04fSBbOwxvR3PSDax+Wr7oxIsWzDIwKqE05/bGZKsZmqvB9T1o8gKA8nU9GAikbwIsS8XP7Bx7MzgJAnfaReFXhPKwRZMJRQQXr3HmLc277ofZdw0i1Plsfuvf39jYmy+NGKvG9vY2Jwe8gAkj8g9lZsBuAukzLJaFyDVEUXFw/hj23hz23p10HOv+2fyXYd5ipXP3enbv4uf0jtBk0Qan1RUy3SphulZSNoPI33SpuutXQMYqA+q3adeHJhk0wgqwRccIJqUEwjyYA0UbICCeknwJ5NQEYNkJGOKH0GBQNTnliulWSFk5ozwNUoiBvEcMSMmC300k8Ie9RoMpIM0GFlo18ymSNlgH/UhSQAYsrzTWtC6TRv5ub/qEtdwfu3i+4e7+0r+N7PfheD6tv3wcrQu0ukHYUkAk6RpDw9S8trH9pDS+H2cWOzEDIk9YoP6j4U1kjeOH4mxAJ5RnYCFDuBjaj4PnyMgAs8vubm/58khFRwkVpsaP8DuBvFJw8fdqQFH3iluEDMfO1KefJlrvzGAC23B2+WGJSNDBgzm0/bJQr2i3Jrt3ThIzQPT+LlFgiL1+/AgThbwPegGAckB0MbY0DaUVTyAAbN1V9QqTZ+oB4EFxcaa7Vb9WuKw+GjNhQNMhOg0l8mmOJ8L1Ao1zpU6VlDaB8PgBQ6ou6kcw1BuKBnBjwDMwCJo1HIvtmaEAqRkS+GdKJAhNwRlg34UjUgRvjk86njY2rl86ew0G3C+f4cZv1CPjtefjtebhWq+Hdhw9Xb4xPOqu9/Te27hf7bpCNAsBsJEwsLYT+799/NFSGGVesRUKSAaGxADBjwsTSwpBg0T4g/mWpCWJnggPXQ4skmQnSxNJCsMmyf/9RbHlbK87EqTBvQlIEUEvSpmoCj+28g9RaQBQJIkRhLDJBJDQrUlkMmRJsoxuoGFC/cKZi+v5S2OwGShFw+fz52OMmWlplzDBBrvIBUY9Cm+TGgCzEAzkxICvxQA4MkBUflSUeFWFWOA7VJEnSoKbS8jbWA8oGqGIitHVe1siSeRdIYrfTwWAGaiVPqGKAcsZ4VFjxtpbD0gbwFbBpwm6nk4p4ICYjJILNEgEwmina7XRw0O3ioNvFSnMNnzY2gBRSYspJBj5LROgmSthIYlabqWWGdQwYyhKxyBjBd58shBNaaSb2o2rdb38+fv2Kz9/a9Dd14cRIeTb+6/ILZyqRK0ZOMJGZcMJYojHiU3uezAUXFBQUFDD8AYTC3EgUSH2vAAAAAElFTkSuQmCC"
@@ -752,8 +752,8 @@ mods:
     side: both
   - name: Makibania
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.0/makibania-neoforge-2.1.0+mc1.21.1.jar
-    hash: b1b983881400d44e4da30b0e9e342ac09e9d2758
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.1/makibania-neoforge-2.1.1+mc1.21.1.jar
+    hash: 7c07ef679e7d6d4089732e68d4f59ec9a0f0207a
     side: both
   - name: MES - Moog's End Structures
     type: curseforge
@@ -1266,8 +1266,8 @@ mods:
 resources:
   - name: Default Config Files
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.0/configureddefaults.zip
-    hash: 8de8411d1d3329b3e78b3f4a03924f351f835d6b
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.1/configureddefaults.zip
+    hash: 45ff361973bc4219dfdd0bb33f8cad3fefda5127
     targetDir: configureddefaults
     decompress: true
     side: both
@@ -1279,13 +1279,13 @@ resources:
     side: both
   - name: Makibania Data Pack
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.0/MakibaniaDatapack.zip
-    hash: 22011bdce994bac51ba57010b32c2667a33b79f1
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.1/MakibaniaDatapack.zip
+    hash: 8fce2bb5739114c71cc0a7c3f73d2c107ab87483
     targetDir: datapacks
     side: both
   - name: Makibania Resource Pack
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.0/MakibaniaResourcepack.zip
-    hash: 8dc6362647e46f3c1261a93d4b0dbe70d18b7206
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.1/MakibaniaResourcepack.zip
+    hash: 4af1e32f6b7174353b80d607d68a3dd5bb0e6987
     targetDir: resourcepacks
     side: both
