@@ -1,0 +1,70 @@
+{
+  "essences": {
+    "aureal": 500,
+    "blood": 5000,
+    "experience": 1200,
+    "souls": 10
+  },
+  "forge_tier": 4,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "minecraft:honeycomb"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "betterend:dragon_bone_block"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "iceandfire:dragonbone"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "betterend:enchanted_membrane"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:dragon_scale"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "betterend:enchanted_membrane"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "iceandfire:dragonbone"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "betterend:dragon_bone_block"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "minecraft:elytra"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "icarus:black_dragon_wings"
+    }
+  }
+}

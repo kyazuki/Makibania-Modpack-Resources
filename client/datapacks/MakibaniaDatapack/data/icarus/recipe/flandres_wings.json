@@ -1,0 +1,54 @@
+{
+  "type": "betterend:infusion",
+  "catalysts": {
+    "east": {
+      "item": {
+        "item": "minecraft:emerald"
+      }
+    },
+    "north": {
+      "item": {
+        "item": "minecraft:honeycomb"
+      }
+    },
+    "north_east": {
+      "item": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "north_west": {
+      "item": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "south": {
+      "item": {
+        "item": "enchanted:anointing_paste"
+      }
+    },
+    "south_east": {
+      "item": {
+        "item": "iceandfire:sapphire_gem"
+      }
+    },
+    "south_west": {
+      "item": {
+        "item": "betterend:amber_gem"
+      }
+    },
+    "west": {
+      "item": {
+        "item": "minecraft:diamond"
+      }
+    }
+  },
+  "input": {
+    "item": {
+      "item": "minecraft:elytra"
+    }
+  },
+  "result": {
+    "item": "icarus:flandres_wings"
+  },
+  "time": 500
+}

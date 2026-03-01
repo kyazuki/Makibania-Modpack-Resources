@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "tag": "c:plates/plastic"
+    },
+    "i": {
+      "item": "minecraft:iron_bars"
+    },
+    "s": {
+      "item": "forbidden_arcanus:spawner_scrap"
+    }
+  },
+  "pattern": [
+    "isi",
+    "ccc",
+    "isi"
+  ],
+  "result": {
+    "count": 2,
+    "id": "oritech:spawner_cage_block"
+  }
+}

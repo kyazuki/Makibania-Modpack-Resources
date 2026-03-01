@@ -6,51 +6,51 @@
       "conditions": [
         {
             "condition": "random_chance",
-            "chance": 0.7
+            "chance": 0.5
         }
       ],
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "forbidden_arcanus:crescent_moon",
-          "quality": 3,
+          "name": "iron_ender_chests:copper_ender_chest",
+          "quality": 1,
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "iron_ender_chests:diamond_ender_chest",
+          "quality": 2,
           "weight": 1
         },
         {
           "type": "minecraft:item",
-          "name": "chromaticarsenal:gravity_stone",
+          "name": "iron_ender_chests:emerald_ender_chest",
+          "quality": 2,
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "iron_ender_chests:redstone_ender_chest",
+          "quality": 2,
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "iron_ender_chests:lapis_ender_chest",
+          "quality": 2,
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "iron_ender_chests:iron_ender_chest",
           "quality": 1,
-          "weight": 4
+          "weight": 5
         },
         {
           "type": "minecraft:item",
-          "name": "chromaticarsenal:vertical_stasis_stone",
-          "quality": 1,
-          "weight": 4
-        },
-        {
-          "type": "minecraft:item",
-          "name": "chromaticarsenal:ward_crystal",
+          "name": "iron_ender_chests:gold_ender_chest",
           "quality": 2,
-          "weight": 4
-        },
-        {
-          "type": "minecraft:item",
-          "name": "chromaticarsenal:glass_shield",
-          "quality": 2,
-          "weight": 4
-        },
-        {
-          "type": "minecraft:item",
-          "name": "chromaticarsenal:luna_flower",
-          "quality": 2,
-          "weight": 4
-        },
-        {
-          "type": "minecraft:item",
-          "name": "chromaticarsenal:luna_flower",
-          "quality": 2,
-          "weight": 4
+          "weight": 3
         }
       ],
       "rolls": 1.0

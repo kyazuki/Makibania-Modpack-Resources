@@ -1,0 +1,12 @@
+{
+  "type": "bclib:smithing",
+  "allowedTools": "betterend:anvil_tool/netherite",
+  "anvilLevel": 5,
+  "damage": 6,
+  "input": {
+    "item": "iron_ender_chests:diamond_ender_chest"
+  },
+  "result": {
+    "item": "iron_ender_chests:netherite_ender_chest"
+  }
+}

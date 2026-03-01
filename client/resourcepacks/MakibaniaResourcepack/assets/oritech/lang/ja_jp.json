@@ -2,5 +2,7 @@
   "block.oritech.nickel_ore": "月面ニッケル鉱石",
   "block.oritech.deepslate_nickel_ore": "月面深層ニッケル鉱石",
   "block.oritech.deepslate_uranium_ore": "月面深層ウラニウム鉱石",
-  "block.oritech.fluid_pipe": "加圧流体パイプ"
+  "block.oritech.fluid_pipe": "加圧流体パイプ",
+  "block.oritech.raw_uranium_block": "ウラニウムの原石ブロック",
+  "block.oritech.uranium_dust_block": "ウラニウムブロック"
 }

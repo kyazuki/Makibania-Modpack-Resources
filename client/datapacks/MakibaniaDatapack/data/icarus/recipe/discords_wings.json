@@ -1,0 +1,31 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 2,
+      "item": "forbidden_arcanus:dark_nether_star"
+    },
+    {
+      "count": 1,
+      "item": "malum:runic_sapball"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "minecraft:elytra"
+  },
+  "result": {
+    "count": 1,
+    "id": "icarus:discords_wings"
+  },
+  "spirits": [
+    {
+      "type": "malum:eldritch",
+      "count": 2
+    },
+    {
+      "type": "malum:aerial",
+      "count": 2
+    }
+  ]
+}

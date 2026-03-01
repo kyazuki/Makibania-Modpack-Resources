@@ -1,0 +1,54 @@
+{
+  "type": "betterend:infusion",
+  "catalysts": {
+    "east": {
+      "item": {
+        "item": "minecraft:feather"
+      }
+    },
+    "north": {
+      "item": {
+        "item": "minecraft:honeycomb"
+      }
+    },
+    "north_east": {
+      "item": {
+        "item": "minecraft:honeycomb"
+      }
+    },
+    "north_west": {
+      "item": {
+        "item": "minecraft:honeycomb"
+      }
+    },
+    "south": {
+      "item": {
+        "item": "enchanted:anointing_paste"
+      }
+    },
+    "south_east": {
+      "item": {
+        "item": "minecraft:feather"
+      }
+    },
+    "south_west": {
+      "item": {
+        "item": "minecraft:feather"
+      }
+    },
+    "west": {
+      "item": {
+        "item": "minecraft:feather"
+      }
+    }
+  },
+  "input": {
+    "item": {
+      "item": "minecraft:elytra"
+    }
+  },
+  "result": {
+    "item": "icarus:white_feathered_wings"
+  },
+  "time": 500
+}

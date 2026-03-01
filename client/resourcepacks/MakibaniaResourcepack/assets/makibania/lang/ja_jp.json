@@ -81,6 +81,11 @@
   "makibania.info.collecting_blood": "左手に持っている間にモブを攻撃すと、血を集めることができます。",
   "makibania.info.archaeologic_finds": "これらのアイテムは、地中の遺跡での考古学発掘から入手できます。",
   "makibania.info.hippogryph_tame_items": "ヒッポグリフは、パプリカ、カリフラワー、ブロッコリーで飼いならすことができます。",
+  "makibania.info.baby_ender_dragon": "エンダードラゴンの赤ちゃんは、ドラゴンの卵をプルプァの柱に載せると生まれ、コーラスフルーツで手懐けることができます。飼いならした後は、飼い主のために戦います。",
+  "makibania.info.infusion_pedestal": "注入の儀式を行うために使用します。儀式を行うには、中央に注入の台座を置き、ヘパイストスの金床と同様周囲に8つの台座を設置します。アイテムを設置した後、注入の台座を右クリックして起動します。",
+
+
+  "painting.makibania.train.title": "まきば号",
 
   "sliding_door.mode.manual": "手動",
   "sliding_door.mode.normal": "通常 (デフォルト)",

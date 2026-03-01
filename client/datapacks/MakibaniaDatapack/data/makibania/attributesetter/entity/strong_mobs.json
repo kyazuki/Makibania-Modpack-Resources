@@ -33,11 +33,6 @@
       "operation": "ADDITION"
     },
     {
-      "attribute": "puffish_attributes:life_steal",
-      "value": 0.2,
-      "operation": "ADDITION"
-    },
-    {
       "attribute": "puffish_attributes:magic_resistance_shred",
       "value": 8,
       "operation": "ADDITION"
@@ -190,6 +185,23 @@
     {
       "attribute": "minecraft:generic.attack_damage",
       "value": 8,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:ender_dragon": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 12,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 120,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "puffish_attributes:life_steal",
+      "value": 0.1,
       "operation": "ADDITION"
     }
   ]

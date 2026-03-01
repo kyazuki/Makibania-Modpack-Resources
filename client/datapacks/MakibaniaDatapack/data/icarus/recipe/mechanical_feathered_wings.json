@@ -1,0 +1,27 @@
+{
+    "type": "create:mechanical_crafting",
+    "accept_mirrored": true,
+    "key": {
+        "E": {
+            "item": "minecraft:elytra"
+        },
+        "C": {
+            "item": "create:cogwheel"
+        },
+        "P": {
+            "item": "create:precision_mechanism"
+        },
+        "S": {
+            "item": "immersive_aircraft:sail"
+        }
+    },
+    "pattern": [
+        "CPC",
+        "SES",
+        "S S"
+    ],
+    "result": {
+        "id": "icarus:white_mechanical_feathered_wings",
+        "count": 1
+    }
+}
