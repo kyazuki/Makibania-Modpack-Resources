@@ -456,6 +456,12 @@ mods:
     fileId: 6948369
     hash: 98db9bbdb139cc379a2518f4dd9309093e0afe0c
     side: both
+  - name: Ender Dragon Egg Respawn
+    type: curseforge
+    projectId: 1280060
+    fileId: 6618949
+    hash: 112c0898334499c1084d7a53148a30a5c6a836fa
+    side: both
   - name: Enderman Overhaul
     type: curseforge
     projectId: 574409
@@ -1236,8 +1242,8 @@ mods:
   - name: farmer's attributes
     type: curseforge
     projectId: 1355713
-    fileId: 7505737
-    hash: 2f158c4f96b7b3f099463803b879fee443ef3279
+    fileId: 7694981
+    hash: dc810aa65e2f34222d747c7e029d98ed795bdab9
     side: both
   - name: iChunUtil
     type: curseforge
