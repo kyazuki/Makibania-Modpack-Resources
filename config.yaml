@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/medi-torimorta/Makibania-Modpack-Installer/refs/heads/main/config.schema.json
 schemaVersion: 2
-packVersion: "2.1.0"
+packVersion: "2.1.1"
 profile:
   name: Makibania
   icon: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABHZJREFUeJztmk9r1EAYxh//HEwrtoK7CAV3FUEU/QZCZT3oXbzo1Z4r9rDiwaKHYg8r7VmveusXKHYvHtRbD4IoQneF1iW1tNXdpJ7Wg/uGyewkmZmdSYLmB4HdZJLM88w7k5k3AQoKCgr+Yw5lXYFRqU05TwA8jjj8tLnpz8edn5kBjXKlL9o/57al6sQKH5upCst4L1r0M9KITAxolCv9e3fuhvadKJ0CADxfXo41QSTc9z1hWccZAxBvROoGNMqVZwDqvAHEidKpSBNqU04fSBbOwxvR3PSDax+Wr7oxIsWzDIwKqE05/bGZKsZmqvB9T1o8gKA8nU9GAikbwIsS8XP7Bx7MzgJAnfaReFXhPKwRZMJRQQXr3HmLc277ofZdw0i1Plsfuvf39jYmy+NGKvG9vY2Jwe8gAkj8g9lZsBuAukzLJaFyDVEUXFw/hj23hz23p10HOv+2fyXYd5ipXP3enbv4uf0jtBk0Qan1RUy3SphulZSNoPI33SpuutXQMYqA+q3adeHJhk0wgqwRccIJqUEwjyYA0UbICCeknwJ5NQEYNkJGOKH0GBQNTnliulWSFk5ozwNUoiBvEcMSMmC300k8Ie9RoMpIM0GFlo18ymSNlgH/UhSQAYsrzTWtC6TRv5ub/qEtdwfu3i+4e7+0r+N7PfheD6tv3wcrQu0ukHYUkAk6RpDw9S8trH9pDS+H2cWOzEDIk9YoP6j4U1kjeOH4mxAJ5RnYCFDuBjaj4PnyMgAs8vubm/58khFRwkVpsaP8DuBvFJw8fdqQFH3iluEDMfO1KefJlrvzGAC23B2+WGJSNDBgzm0/bJQr2i3Jrt3ThIzQPT+LlFgiL1+/AgThbwPegGAckB0MbY0DaUVTyAAbN1V9QqTZ+oB4EFxcaa7Vb9WuKw+GjNhQNMhOg0l8mmOJ8L1Ao1zpU6VlDaB8PgBQ6ou6kcw1BuKBnBjwDMwCJo1HIvtmaEAqRkS+GdKJAhNwRlg34UjUgRvjk86njY2rl86ew0G3C+f4cZv1CPjtefjtebhWq+Hdhw9Xb4xPOqu9/Te27hf7bpCNAsBsJEwsLYT+799/NFSGGVesRUKSAaGxADBjwsTSwpBg0T4g/mWpCWJnggPXQ4skmQnSxNJCsMmyf/9RbHlbK87EqTBvQlIEUEvSpmoCj+28g9RaQBQJIkRhLDJBJDQrUlkMmRJsoxuoGFC/cKZi+v5S2OwGShFw+fz52OMmWlplzDBBrvIBUY9Cm+TGgCzEAzkxICvxQA4MkBUflSUeFWFWOA7VJEnSoKbS8jbWA8oGqGIitHVe1siSeRdIYrfTwWAGaiVPqGKAcsZ4VFjxtpbD0gbwFbBpwm6nk4p4ICYjJILNEgEwmina7XRw0O3ioNvFSnMNnzY2gBRSYspJBj5LROgmSthIYlabqWWGdQwYyhKxyBjBd58shBNaaSb2o2rdb38+fv2Kz9/a9Dd14cRIeTb+6/ILZyqRK0ZOMJGZcMJYojHiU3uezAUXFBQUFDD8AYTC3EgUSH2vAAAAAElFTkSuQmCC"
@@ -149,6 +149,11 @@ mods:
     projectId: 1014463
     fileId: 6819298
     hash: d9deff1cc7beaf8aaf16b6d906a98bd9ec11fefa
+    side: both
+  - name: caramelChat
+    type: direct
+    url: https://cdn.modrinth.com/data/M4vJe1FJ/versions/qSoQkIII/caramelChat-mc1.21.1-neoforge-1.2.2.jar
+    hash: 05338c95b1901a1f33f99d936a720691f44b9b88
     side: both
   - name: Carry On
     type: curseforge
@@ -402,6 +407,12 @@ mods:
     fileId: 7248439
     hash: 907f43294b63cd845bf2fdad1ea5fe5c52552508
     side: both
+  - name: Easy Shulker Boxes
+    type: curseforge
+    projectId: 594006
+    fileId: 6697879
+    hash: 9491302950e20bec758f67f13ff21663ecf40986
+    side: both
   - name: EMI
     type: curseforge
     projectId: 580555
@@ -431,12 +442,6 @@ mods:
     projectId: 735528
     fileId: 6759924
     hash: 4d48dec751310a0221254aca09d6325530e60731
-    side: both
-  - name: Easy Shulker Boxes
-    type: curseforge
-    projectId: 594006
-    fileId: 6697879
-    hash: 9491302950e20bec758f67f13ff21663ecf40986
     side: both
   - name: Emojiful
     type: curseforge
@@ -474,53 +479,17 @@ mods:
     fileId: 7441587
     hash: cf26fe18c3a9deec525fe0f0e7c2d3b9f4e9f484
     side: both
-  - name: Find It
-    type: curseforge
-    projectId: 1098000
-    fileId: 5778573
-    hash: b29256a63ea3749dadbe7d65a6124449174fa7b3
-    side: both
-  - name: FTB Filter System
-    type: curseforge
-    projectId: 943925
-    fileId: 7429011
-    hash: a48e54edeacc59aaba29a1b627799c052112ee0b
-    side: both
-  - name: FTB Library (Forge)
-    type: curseforge
-    projectId: 404465
-    fileId: 7420412
-    hash: 1d9d1dbcdc5a9de7e5353694a69bc506af5609ef
-    side: both
-  - name: FTB Ocean Mobs
-    type: curseforge
-    projectId: 1197859
-    fileId: 6539516
-    hash: a37f05230275fb49d6d614d74cb6c98c22995c45
-    side: both
-  - name: FTB Quests (NeoForge)
-    type: curseforge
-    projectId: 289412
-    fileId: 7429016
-    hash: 33cd484029425a8f7a0b75e80790402f1d04d144
-    side: both
-  - name: FTB Teams (NeoForge)
-    type: curseforge
-    projectId: 404468
-    fileId: 7369021
-    hash: 328e04bf1a445870aacea8fe7637670f84272a8f
-    side: both
-  - name: FTB XMod Compat
-    type: curseforge
-    projectId: 889915
-    fileId: 7429014
-    hash: 32bef47834dd829bfa94a7c8922be50d544f333b
-    side: both
   - name: FancyMenu
     type: curseforge
     projectId: 367706
     fileId: 7256741
     hash: 061a2c1ae0563d9d433928c243c58ee9b45f630f
+    side: both
+  - name: farmer's attributes
+    type: curseforge
+    projectId: 1355713
+    fileId: 7694981
+    hash: dc810aa65e2f34222d747c7e029d98ed795bdab9
     side: both
   - name: "Farmer's Cutting: Oh The Biomes We've Gone"
     type: curseforge
@@ -576,6 +545,12 @@ mods:
     fileId: 5850121
     hash: 7279fc52c32a033acc2864a9bcb018b2e04bbd03
     side: both
+  - name: Find It
+    type: curseforge
+    projectId: 1098000
+    fileId: 5778573
+    hash: b29256a63ea3749dadbe7d65a6124449174fa7b3
+    side: both
   - name: Forbidden and Arcanus
     type: curseforge
     projectId: 309858
@@ -599,6 +574,42 @@ mods:
     projectId: 915324
     fileId: 6792381
     hash: edbc169c78f9f1cdf5233e996f12b21e7e1cdf18
+    side: both
+  - name: FTB Filter System
+    type: curseforge
+    projectId: 943925
+    fileId: 7429011
+    hash: a48e54edeacc59aaba29a1b627799c052112ee0b
+    side: both
+  - name: FTB Library (Forge)
+    type: curseforge
+    projectId: 404465
+    fileId: 7420412
+    hash: 1d9d1dbcdc5a9de7e5353694a69bc506af5609ef
+    side: both
+  - name: FTB Ocean Mobs
+    type: curseforge
+    projectId: 1197859
+    fileId: 6539516
+    hash: a37f05230275fb49d6d614d74cb6c98c22995c45
+    side: both
+  - name: FTB Quests (NeoForge)
+    type: curseforge
+    projectId: 289412
+    fileId: 7429016
+    hash: 33cd484029425a8f7a0b75e80790402f1d04d144
+    side: both
+  - name: FTB Teams (NeoForge)
+    type: curseforge
+    projectId: 404468
+    fileId: 7369021
+    hash: 328e04bf1a445870aacea8fe7637670f84272a8f
+    side: both
+  - name: FTB XMod Compat
+    type: curseforge
+    projectId: 889915
+    fileId: 7429014
+    hash: 32bef47834dd829bfa94a7c8922be50d544f333b
     side: both
   - name: Fzzy Config
     type: curseforge
@@ -641,6 +652,12 @@ mods:
     projectId: 1040076
     fileId: 7524985
     hash: 85834389f4da06aeaba38134726c07daf03711f1
+    side: both
+  - name: iChunUtil
+    type: curseforge
+    projectId: 229060
+    fileId: 6000439
+    hash: 1f161c8b6288e6094fc57f4a9c10a6050df71081
     side: both
   - name: Immersive Aircraft [Fabric/Forge]
     type: curseforge
@@ -752,44 +769,8 @@ mods:
     side: both
   - name: Makibania
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.0/makibania-neoforge-2.1.0+mc1.21.1.jar
-    hash: b1b983881400d44e4da30b0e9e342ac09e9d2758
-    side: both
-  - name: MES - Moog's End Structures
-    type: curseforge
-    projectId: 892382
-    fileId: 7365612
-    hash: e44787b0d977a27a0367b76a09ba680487334671
-    side: both
-  - name: MMV - Moog's Missing Villages
-    type: curseforge
-    projectId: 1153951
-    fileId: 7098537
-    hash: 169f06dbf76c079ff93dc134fd8931beef2a1a82
-    side: both
-  - name: MNS - Moog's Nether Structures
-    type: curseforge
-    projectId: 967466
-    fileId: 7312599
-    hash: e36e41bca1e953fc05306bb84da7aef8fa9576bb
-    side: both
-  - name: Mouse Tweaks
-    type: curseforge
-    projectId: 60089
-    fileId: 5637846
-    hash: 6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc
-    side: both
-  - name: MSS - Moog's Soaring Structures
-    type: curseforge
-    projectId: 1040210
-    fileId: 7132460
-    hash: 2bd48d0ffa02cf251c7c5f1ad2ddd4b0695ea10c
-    side: both
-  - name: MVS - Moog's Voyager Structures
-    type: curseforge
-    projectId: 656977
-    fileId: 7311745
-    hash: 76779c5992bba7b1992f800697d17c03b68a3b31
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.1/makibania-neoforge-2.1.1+mc1.21.1.jar
+    hash: 7c07ef679e7d6d4089732e68d4f59ec9a0f0207a
     side: both
   - name: Malum
     type: curseforge
@@ -809,6 +790,12 @@ mods:
     fileId: 6974346
     hash: 87e45e6a0b09133a5bc4b19b6fe71f42e279ba1b
     side: both
+  - name: MES - Moog's End Structures
+    type: curseforge
+    projectId: 892382
+    fileId: 7365612
+    hash: e44787b0d977a27a0367b76a09ba680487334671
+    side: both
   - name: MidnightLib
     type: curseforge
     projectId: 488090
@@ -820,6 +807,18 @@ mods:
     projectId: 689630
     fileId: 6860679
     hash: c19ad4f93945a92f83ae6fc9bb5a0d74d8c5cf73
+    side: both
+  - name: MMV - Moog's Missing Villages
+    type: curseforge
+    projectId: 1153951
+    fileId: 7098537
+    hash: 169f06dbf76c079ff93dc134fd8931beef2a1a82
+    side: both
+  - name: MNS - Moog's Nether Structures
+    type: curseforge
+    projectId: 967466
+    fileId: 7312599
+    hash: e36e41bca1e953fc05306bb84da7aef8fa9576bb
     side: both
   - name: ModernFix
     type: curseforge
@@ -844,6 +843,24 @@ mods:
     projectId: 499980
     fileId: 7669172
     hash: 9850582dcc9bef6cf5a901f15c240f17dd74ddb8
+    side: both
+  - name: Mouse Tweaks
+    type: curseforge
+    projectId: 60089
+    fileId: 5637846
+    hash: 6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc
+    side: both
+  - name: MSS - Moog's Soaring Structures
+    type: curseforge
+    projectId: 1040210
+    fileId: 7132460
+    hash: 2bd48d0ffa02cf251c7c5f1ad2ddd4b0695ea10c
+    side: both
+  - name: MVS - Moog's Voyager Structures
+    type: curseforge
+    projectId: 656977
+    fileId: 7311745
+    hash: 76779c5992bba7b1992f800697d17c03b68a3b31
     side: both
   - name: My Nether's Delight
     type: curseforge
@@ -911,6 +928,12 @@ mods:
     fileId: 5770623
     hash: a9dea4b9ef893fc955512ff2dee75c9c82e09a52
     side: both
+  - name: "oωo (owo-lib)"
+    type: curseforge
+    projectId: 532610
+    fileId: 6785734
+    hash: 48dda11a6710591cf162bdbedf982ea21dd1f2ed
+    side: both
   - name: Patchouli
     type: curseforge
     projectId: 306770
@@ -965,17 +988,17 @@ mods:
     fileId: 7311419
     hash: 656952d16a449de0fb603e1ea5a17b018d005eec
     side: both
-  - name: Puffish Cooking Experience
-    type: curseforge
-    projectId: 1444955
-    fileId: 7528860
-    hash: 854b0cdc5c69668434d83f33bddc75cd762dbdd8
-    side: both
   - name: Pufferfish's Skills [Fabric & Forge & NeoForge]
     type: curseforge
     projectId: 835091
     fileId: 7672803
     hash: 4e6119010eaad3a571f70b7198422bb1b9d92589
+    side: both
+  - name: Puffish Cooking Experience
+    type: curseforge
+    projectId: 1444955
+    fileId: 7528860
+    hash: 854b0cdc5c69668434d83f33bddc75cd762dbdd8
     side: both
   - name: Puzzles Lib
     type: curseforge
@@ -1077,6 +1100,12 @@ mods:
     projectId: 394468
     fileId: 6382651
     hash: 38af70fa4dc4b2aaac636e92fdba3bedd5a025e1
+    side: both
+  - name: spark
+    type: curseforge
+    projectId: 361579
+    fileId: 6225208
+    hash: 9430cc2ab64ff89d698be593769fb9f9ee4efae6
     side: both
   - name: Sparkweave Engine
     type: curseforge
@@ -1204,6 +1233,12 @@ mods:
     fileId: 7469725
     hash: 330ab9d6d8d92a9337e97ef22e64f83fe2d4bf2a
     side: both
+  - name: YetAnotherConfigLib
+    type: curseforge
+    projectId: 667299
+    fileId: 7437845
+    hash: fe270c9f6e0a8142cf316944087f5109cef08bbb
+    side: both
   - name: YUNG's API (NeoForge)
     type: curseforge
     projectId: 1015100
@@ -1228,64 +1263,29 @@ mods:
     fileId: 6913179
     hash: bcab81f578b3cb31e599ae327c6634b9fa8d0f04
     side: both
-  - name: YetAnotherConfigLib
-    type: curseforge
-    projectId: 667299
-    fileId: 7437845
-    hash: fe270c9f6e0a8142cf316944087f5109cef08bbb
-    side: both
-  - name: caramelChat
-    type: direct
-    url: https://cdn.modrinth.com/data/M4vJe1FJ/versions/qSoQkIII/caramelChat-mc1.21.1-neoforge-1.2.2.jar
-    hash: 05338c95b1901a1f33f99d936a720691f44b9b88
-    side: both
-  - name: farmer's attributes
-    type: curseforge
-    projectId: 1355713
-    fileId: 7694981
-    hash: dc810aa65e2f34222d747c7e029d98ed795bdab9
-    side: both
-  - name: iChunUtil
-    type: curseforge
-    projectId: 229060
-    fileId: 6000439
-    hash: 1f161c8b6288e6094fc57f4a9c10a6050df71081
-    side: both
-  - name: "oωo (owo-lib)"
-    type: curseforge
-    projectId: 532610
-    fileId: 6785734
-    hash: 48dda11a6710591cf162bdbedf982ea21dd1f2ed
-    side: both
-  - name: spark
-    type: curseforge
-    projectId: 361579
-    fileId: 6225208
-    hash: 9430cc2ab64ff89d698be593769fb9f9ee4efae6
-    side: both
 resources:
   - name: Default Config Files
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.0/configureddefaults.zip
-    hash: 8de8411d1d3329b3e78b3f4a03924f351f835d6b
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.1/configureddefaults.zip
+    hash: 45ff361973bc4219dfdd0bb33f8cad3fefda5127
     targetDir: configureddefaults
     decompress: true
+    side: both
+  - name: Makibania Data Pack
+    type: direct
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.1/MakibaniaDatapack.zip
+    hash: 8fce2bb5739114c71cc0a7c3f73d2c107ab87483
+    targetDir: datapacks
+    side: both
+  - name: Makibania Resource Pack
+    type: direct
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.1/MakibaniaResourcepack.zip
+    hash: 4af1e32f6b7174353b80d607d68a3dd5bb0e6987
+    targetDir: resourcepacks
     side: both
   - name: Photon Shaders
     type: direct
     url: https://cdn.modrinth.com/data/lLqFfGNs/versions/rz2vlXVm/photon_v1.2a.zip
     hash: 6ad7e57f22ceb5530b168d077414abc8387c9b04
     targetDir: shaderpacks
-    side: both
-  - name: Makibania Data Pack
-    type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.0/MakibaniaDatapack.zip
-    hash: 22011bdce994bac51ba57010b32c2667a33b79f1
-    targetDir: datapacks
-    side: both
-  - name: Makibania Resource Pack
-    type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.1.0/MakibaniaResourcepack.zip
-    hash: 8dc6362647e46f3c1261a93d4b0dbe70d18b7206
-    targetDir: resourcepacks
     side: both

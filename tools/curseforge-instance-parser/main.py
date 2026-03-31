@@ -116,10 +116,11 @@ def apply_changes(
 
     ruamel.yamlを使うことでコメント・フォーマットをそのまま保持する。
     """
-    if not add_mods and not update_mods:
-        return
 
     rtyaml = YAML()
+    rtyaml.width = sys.maxsize
+    rtyaml.sequence_indent = 4
+    rtyaml.sequence_dash_offset = 2
     rtyaml.preserve_quotes = True
     with open(config_path, "r", encoding="utf-8") as f:
         config = rtyaml.load(f)
