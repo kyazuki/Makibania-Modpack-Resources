@@ -1,6 +1,6 @@
 #function event_games:hell_cauldron/start
 tag @a[tag=hell_cauldron_player] remove hell_cauldron_player
-execute store result score evg_hc_player_count evg_tmp at @e[tag=hell_cauldron_center] run tag @a[predicate=event_games:in_event_dim, distance=..11] add hell_cauldron_player
+execute store result score evg_hc_player_count evg_tmp at @e[tag=hell_cauldron_center] run tag @a[predicate=event:in_event_dim, distance=..11] add hell_cauldron_player
 tag @a[tag=hell_cauldron_player] add hell_cauldron_player_alive
 tag @a[tag=hell_cauldron_player] remove hell_cauldron_player_dead
 function event_games:hell_cauldron/generate_floor

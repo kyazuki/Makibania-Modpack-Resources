@@ -1,0 +1,44 @@
+{
+  "type": "oritech:resource_node",
+  "config": {
+    "nodeSize": 6,
+    "nodeOreChance": 0.4,
+    "boulderRadius": 3,
+    "nodeOres": [
+      "makibania:resource_node_salt",
+      "makibania:resource_node_salt",
+      "makibania:resource_node_salt",
+      "makibania:resource_node_zinc",
+      "makibania:resource_node_zinc",
+      "oritech:resource_node_redstone",
+      "oritech:resource_node_redstone"
+    ],
+    "boulderOres": [
+      "northstar:mars_deep_redstone_ore",
+      "northstar:mars_deep_zinc_ore",
+      "northstar:mars_deep_zinc_ore",
+      "northstar:mars_deep_zinc_ore",
+      "northstar:mars_deep_redstone_ore",
+      "minecraft:redstone_block",
+      "northstar:mars_deep_redstone_ore",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone",
+      "northstar:mars_deep_stone"
+    ],
+    "overlayBlock": "minecraft:lava",
+    "overlayHeight": 5
+  }
+}

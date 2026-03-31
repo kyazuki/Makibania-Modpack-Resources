@@ -9,16 +9,16 @@
       "oritech:resource_node_platinum",
       "oritech:resource_node_lapis",
       "oritech:resource_node_platinum",
-      "oritech:resource_node_redstone",
-      "oritech:resource_node_redstone",
-      "oritech:resource_node_redstone"
+      "makibania:resource_node_tungsten",
+      "makibania:resource_node_tungsten",
+      "makibania:resource_node_tungsten"
     ],
     "boulderOres": [
       "northstar:mercury_deep_gold_ore",
       "oritech:deepslate_platinum_ore",
-      "northstar:mercury_deep_redstone_ore",
-      "northstar:mercury_deep_stone",
-      "northstar:mercury_deep_stone",
+      "northstar:mercury_deep_tungsten_ore",
+      "northstar:mercury_deep_tungsten_ore",
+      "northstar:mercury_deep_lapis_ore",
       "northstar:mercury_deep_stone",
       "northstar:mercury_deep_stone",
       "northstar:mercury_deep_stone",

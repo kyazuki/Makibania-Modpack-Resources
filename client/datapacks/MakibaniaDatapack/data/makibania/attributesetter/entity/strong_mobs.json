@@ -204,5 +204,61 @@
       "value": 0.1,
       "operation": "ADDITION"
     }
+  ],
+  "northstar:mars_worm": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 6,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 6,
+      "operation": "ADDITION"
+    }
+  ],
+  "northstar:mars_cobra": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 6,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 6,
+      "operation": "ADDITION"
+    }
+  ],
+  "northstar:venus_mimic": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 12,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 8,
+      "operation": "ADDITION"
+    }
+  ],
+  "northstar:venus_scorpion": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 4,
+      "operation": "ADDITION"
+    }
+  ],
+  "northstar:mercury_raptor": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 12,
+      "operation": "ADDITION"
+    }
   ]
+
 }

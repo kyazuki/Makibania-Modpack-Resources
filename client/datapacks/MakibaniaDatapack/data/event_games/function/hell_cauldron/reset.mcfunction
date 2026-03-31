@@ -3,7 +3,7 @@
 #パネルを初期状態に戻す
 execute at @e[tag=hell_cauldron_center] run place template event_games:hell_cauldron/panels/default ~-7 ~ ~-7
 #床を初期状態に戻す
-execute at @e[tag=hell_cauldron_center] run fill ~-6 ~-1 ~-6 ~6 ~-1 ~6 minecraft:glass
+execute at @e[tag=hell_cauldron_center] run fill ~-6 ~-1 ~-6 ~6 ~-1 ~6 create:framed_glass
 #最下層を初期状態に戻す
 execute at @e[tag=hell_cauldron_center] run fill ~-6 ~-12 ~-6 ~6 ~-12 ~6 minecraft:bedrock
 

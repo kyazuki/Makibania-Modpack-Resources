@@ -18,4 +18,4 @@ execute unless score evg_rng0 evg_tmp matches 13 run fill ~-6 ~-1 ~-6 ~6 ~-1 ~6 
 execute unless score evg_rng0 evg_tmp matches 14 run fill ~-6 ~-1 ~-6 ~6 ~-1 ~6 minecraft:air replace minecraft:white_glazed_terracotta
 execute unless score evg_rng0 evg_tmp matches 15 run fill ~-6 ~-1 ~-6 ~6 ~-1 ~6 minecraft:air replace minecraft:yellow_glazed_terracotta
 
-fill ~-6 ~-1 ~-6 ~6 ~-1 ~6 minecraft:air replace minecraft:glass
+fill ~-6 ~-1 ~-6 ~6 ~-1 ~6 minecraft:air replace create:framed_glass

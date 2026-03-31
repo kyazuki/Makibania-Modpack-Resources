@@ -1,0 +1,6 @@
+{
+    "type": "neoforge:add_features",
+    "biomes": "#makibania:is_mars",
+    "features": "makibania:resource_node_mars",
+    "step": "top_layer_modification"
+  }

@@ -1,9 +1,9 @@
 {
   "enhancers": "forbidden_arcanus:crescent_moon",
   "essences": {
-    "aureal": 1200,
+    "aureal": 128,
     "blood": 0,
-    "experience": 220,
+    "experience": 0,
     "souls": 9
   },
   "forge_tier": 2,

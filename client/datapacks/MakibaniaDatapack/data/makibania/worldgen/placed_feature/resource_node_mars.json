@@ -1,0 +1,16 @@
+{
+  "feature": "makibania:resource_node_mars",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 3500
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    }
+  ]
+}

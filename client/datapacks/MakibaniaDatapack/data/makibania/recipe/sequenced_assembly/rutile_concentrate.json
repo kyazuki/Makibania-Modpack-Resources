@@ -39,6 +39,7 @@
           "item": "chromaticarsenal:ascension_essence"
         }
       ],
+      "keep_held_item": true,
       "results": [
         {
           "id": "create:cinder_flour"

@@ -1,0 +1,11 @@
+{
+  "type": "malum:unchained_transmutation",
+  "group": "resource_node",
+  "input": {
+    "item": "oritech:resource_node_diamond"
+  },
+  "result": {
+    "count": 1,
+    "id": "makibania:resource_node_arcane_crystal"
+  }
+}

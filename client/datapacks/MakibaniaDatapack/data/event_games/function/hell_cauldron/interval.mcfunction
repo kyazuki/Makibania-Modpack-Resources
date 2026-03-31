@@ -13,6 +13,6 @@ execute if score evg_hc_round evg_tmp matches 15 run schedule function event_gam
 execute store result score evg_hc_survivors evg_tmp if entity @a[tag=hell_cauldron_player_alive]
 execute if score evg_hc_player_count evg_tmp matches 1 if score evg_hc_round evg_tmp matches ..19 if score evg_hc_survivors evg_tmp matches 1 run schedule function event_games:hell_cauldron/round_start 3s
 execute unless score evg_hc_player_count evg_tmp matches ..1 if score evg_hc_round evg_tmp matches ..19 if score evg_hc_survivors evg_tmp matches 2.. run schedule function event_games:hell_cauldron/round_start 3s
-execute if score evg_hc_player_count evg_tmp matches 1 if score evg_hc_round evg_tmp matches ..19 if score evg_hc_survivors evg_tmp matches 0 run schedule function event_games:hell_cauldron/result
+execute if score evg_hc_player_count evg_tmp matches 1 if score evg_hc_round evg_tmp matches ..19 if score evg_hc_survivors evg_tmp matches 0 run function event_games:hell_cauldron/result
 execute unless score evg_hc_player_count evg_tmp matches ..1 if score evg_hc_round evg_tmp matches ..19 if score evg_hc_survivors evg_tmp matches ..1 run function event_games:hell_cauldron/result
 execute if score evg_hc_round evg_tmp matches 20.. run function event_games:hell_cauldron/result
