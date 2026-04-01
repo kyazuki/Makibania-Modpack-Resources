@@ -1,0 +1,20 @@
+{
+  "type": "oritech:grinder",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    {
+      "item": "malum:blazing_quartz_ore"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "malum:blazing_quartz"
+    }
+  ],
+  "time": 60
+}

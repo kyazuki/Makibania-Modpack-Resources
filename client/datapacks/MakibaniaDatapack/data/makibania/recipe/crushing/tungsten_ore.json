@@ -1,0 +1,22 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "northstar:raw_tungsten_ore"
+    }
+  ],
+  "processing_time": 250,
+  "results": [
+    {
+      "id": "northstar:crushed_raw_tungsten"
+    },
+    {
+      "chance": 0.25,
+      "id": "northstar:crushed_raw_tungsten"
+    },
+    {
+      "chance": 0.75,
+      "id": "create:experience_nugget"
+    }
+  ]
+}

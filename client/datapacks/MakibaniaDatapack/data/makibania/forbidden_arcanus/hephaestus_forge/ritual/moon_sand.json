@@ -22,7 +22,7 @@
   "result": {
     "type": "forbidden_arcanus:create_item",
     "result_item": {
-      "count": 1,
+      "count": 64,
       "id": "northstar:moon_sand"
     }
   }

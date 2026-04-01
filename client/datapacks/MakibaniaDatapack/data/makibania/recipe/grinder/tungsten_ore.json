@@ -1,0 +1,24 @@
+{
+  "type": "oritech:grinder",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    {
+      "tag": "c:ores/tungsten"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "northstar:raw_tungsten_ore"
+    },
+    {
+      "count": 1,
+      "id": "northstar:raw_titanium_ore"
+    }
+  ],
+  "time": 140
+}

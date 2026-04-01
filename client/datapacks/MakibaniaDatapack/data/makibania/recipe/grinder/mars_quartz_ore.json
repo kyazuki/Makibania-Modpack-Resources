@@ -1,0 +1,25 @@
+{
+  "type": "oritech:grinder",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    [
+      {
+        "item": "northstar:mars_deep_quartz_ore"
+      },
+      {
+        "item": "northstar:mars_quartz_ore"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "malum:blazing_quartz"
+    }
+  ],
+  "time": 60
+}

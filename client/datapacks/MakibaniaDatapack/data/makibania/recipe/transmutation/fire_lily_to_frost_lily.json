@@ -1,0 +1,11 @@
+{
+  "type": "malum:unchained_transmutation",
+  "group": "dragon_lily",
+  "input": {
+    "item": "iceandfire:fire_lily"
+  },
+  "result": {
+    "count": 1,
+    "id": "iceandfire:frost_lily"
+  }
+}
