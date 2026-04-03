@@ -1,0 +1,11 @@
+{
+  "type": "cakescosmetics:sewing",
+  "ingredient": {
+    "count": 1,
+    "item": "makibania:galactic_sewing_kit"
+  },
+  "result": {
+    "count": 1,
+    "id": "weavers_cosmetics:swimming_set_white_boots"
+  }
+}

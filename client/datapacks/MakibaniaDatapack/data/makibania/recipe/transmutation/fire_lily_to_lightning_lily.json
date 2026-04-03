@@ -2,7 +2,7 @@
   "type": "malum:unchained_transmutation",
   "group": "dragon_lily",
   "input": {
-    "item": "iceandfire:frost_lily"
+    "item": "iceandfire:fire_lily"
   },
   "result": {
     "count": 1,

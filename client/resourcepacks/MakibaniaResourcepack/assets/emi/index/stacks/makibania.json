@@ -1,5 +1,8 @@
 {
   "filters": [
-    "/plushie_buddies:/"
+    "/plushie_buddies:/",
+    "/_plate_block/",
+    "/_bottle_block/",
+    "/_bowl_block/"
   ]
 }

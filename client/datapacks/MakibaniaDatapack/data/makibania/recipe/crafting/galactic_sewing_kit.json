@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "makibania:duratium_needle"
+    },
+    {
+      "item": "makibania:thread_platinum"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "makibania:galactic_sewing_kit"
+  }
+}

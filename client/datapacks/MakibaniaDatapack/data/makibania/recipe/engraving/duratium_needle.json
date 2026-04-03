@@ -1,0 +1,15 @@
+{
+  "type": "northstar:engraving",
+  "ingredients": [
+    {
+      "item": "oritech:duratium_ingot"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "id": "makibania:duratium_needle",
+      "count": 4
+    }
+  ]
+}

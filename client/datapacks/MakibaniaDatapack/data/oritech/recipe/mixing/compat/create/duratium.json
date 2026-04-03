@@ -9,10 +9,10 @@
   "heat_requirement": "superheated",
   "ingredients": [
     {
-      "item": "oritech:adamant_ingot"
+      "tag": "c:ingots/platinum"
     },
     {
-      "item": "oritech:adamant_ingot"
+      "tag": "c:ingots/platinum"
     },
     {
       "item": "northstar:tungsten_ingot"
