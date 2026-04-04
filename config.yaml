@@ -877,8 +877,8 @@ mods:
   - name: Mythica - a Second Overworld Dimension
     type: curseforge
     projectId: 1354448
-    fileId: 7529507
-    hash: f5530e5c5c9bd4393a0e01d576d8440cf7be886c
+    fileId: 7871984
+    hash: dff7019f2284efee87e94f5c407d1412aa90f598
     side: both
   - name: NeoAuth
     type: curseforge
