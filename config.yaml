@@ -18,11 +18,17 @@ mods:
     fileId: 7489091
     hash: d613dbc38ca5bcc718408db432385c2e67ac763f
     side: both
+  - name: Animal Hats
+    type: curseforge
+    projectId: 1313913
+    fileId: 7741235
+    hash: 26eef3e36bd3af25e5122dec2e9b918e26270c4e
+    side: both
   - name: AppleSkin
     type: curseforge
     projectId: 248787
-    fileId: 7517379
-    hash: 32be58815905e472016b6413175a27e6cbf05b90
+    fileId: 7854442
+    hash: 81cf0e668f991f83ac8820c386fbd6c9c3602246
     side: both
   - name: Archeological
     type: curseforge
@@ -93,8 +99,8 @@ mods:
   - name: BCLib Neoforge
     type: curseforge
     projectId: 1422283
-    fileId: 7559232
-    hash: b9641bf985c19b6d71e7a5d502e93a13cceb0b35
+    fileId: 7755328
+    hash: ddeb239d00fe5ece6352778726e4f599c7f20b49
     side: both
   - name: Better Advancements
     type: curseforge
@@ -111,8 +117,8 @@ mods:
   - name: BetterEnd Neoforge
     type: curseforge
     projectId: 1422294
-    fileId: 7637954
-    hash: beab6339c6872e11a3e13a136dcf3f554e51c22f
+    fileId: 7754760
+    hash: a4344efa302c04ab11fa5313032836c662fb540c
     side: both
   - name: Block Runner
     type: curseforge
@@ -212,8 +218,8 @@ mods:
   - name: Concurrent Chunk Management Engine
     type: curseforge
     projectId: 533097
-    fileId: 7445230
-    hash: 39300dc4508a0d4f9e1f3867d4b87952cbf7b6e6
+    fileId: 7694225
+    hash: 7837dd615c054675d88e034be04ffa1cec114265
     side: both
   - name: Configured Defaults
     type: curseforge
@@ -236,8 +242,8 @@ mods:
   - name: CorgiLib
     type: curseforge
     projectId: 693313
-    fileId: 6808264
-    hash: a84b16272a6cd1b3fec0ff0e2ffdd05cf92dc02a
+    fileId: 7773534
+    hash: 6699f876f9e10f936910055f7fe1a283d8bb9e0f
     side: both
   - name: Corpse
     type: curseforge
@@ -266,8 +272,8 @@ mods:
   - name: CraterLib
     type: curseforge
     projectId: 867099
-    fileId: 7301675
-    hash: 25d61724a03e68adcee9d838bbf6bf6f061e1eb3
+    fileId: 7810753
+    hash: 269b42adba7b874a58559cbaff3d4c028b09c837
     side: both
   - name: Create
     type: curseforge
@@ -308,8 +314,8 @@ mods:
   - name: "Create: Food"
     type: curseforge
     projectId: 959439
-    fileId: 7509565
-    hash: 5db293f62b5eab923f03ce0cab395abad6d3bed5
+    fileId: 7768111
+    hash: af4b5fae1d35f7e4aa9c233f56ba8eb475dbe533
     side: both
   - name: "Create: Molten Vents"
     type: curseforge
@@ -356,8 +362,8 @@ mods:
   - name: Cupboard
     type: curseforge
     projectId: 326652
-    fileId: 6078150
-    hash: 8f6eb497f60fb6a2cf2b276113d33e61b9a5c2a5
+    fileId: 7746488
+    hash: e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70
     side: both
   - name: Curios API (Forge/NeoForge)
     type: curseforge
@@ -500,8 +506,8 @@ mods:
   - name: Farmer's Delight
     type: curseforge
     projectId: 398521
-    fileId: 7596366
-    hash: 93f4de62fce2b90ee8c87e4f6d9b82edb132003d
+    fileId: 7801529
+    hash: 2415b91d6437977e676985b4a2ef877208d202e1
     side: both
   - name: Farmer's Delight Wearable Cooking Pot
     type: curseforge
@@ -536,8 +542,8 @@ mods:
   - name: FastSuite
     type: curseforge
     projectId: 475117
-    fileId: 7428334
-    hash: 281117322556e6e1d46094a6e1a4cfa8af41df2f
+    fileId: 7527945
+    hash: 664e62684311f727f1fac18f0de28e5317874b7e
     side: both
   - name: FerriteCore ((Neo)Forge)
     type: curseforge
@@ -620,8 +626,8 @@ mods:
   - name: GeckoLib
     type: curseforge
     projectId: 388172
-    fileId: 7415496
-    hash: fb0ac6ad63dc5f401c15c66a037c08e9709d1c42
+    fileId: 7707149
+    hash: eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce
     side: both
   - name: Get It Together, Drops!
     type: curseforge
@@ -650,8 +656,8 @@ mods:
   - name: IceAndFire Community Edition
     type: curseforge
     projectId: 1040076
-    fileId: 7524985
-    hash: 85834389f4da06aeaba38134726c07daf03711f1
+    fileId: 7722420
+    hash: c4d33745a8041465f2d12bb76fc048750288ce24
     side: both
   - name: iChunUtil
     type: curseforge
@@ -662,8 +668,8 @@ mods:
   - name: Immersive Aircraft [Fabric/Forge]
     type: curseforge
     projectId: 666014
-    fileId: 7578996
-    hash: 196aaca1152a93696c0898d070edb044d63e7c92
+    fileId: 7725795
+    hash: ba66e5fa04484bd95a1002b03f44da41ebe27f23
     side: both
   - name: In Control!
     type: curseforge
@@ -716,8 +722,8 @@ mods:
   - name: Jupiter
     type: curseforge
     projectId: 1072905
-    fileId: 7592856
-    hash: 0cbf3a3fdcd1ebf151e183547d83c5d5dcb90432
+    fileId: 7738312
+    hash: 569fb484ea5c8e8d690945ad4cd132131a719751
     side: both
   - name: Just Enough Breeding (JEBr)
     type: curseforge
@@ -841,8 +847,8 @@ mods:
   - name: Moonlight Lib
     type: curseforge
     projectId: 499980
-    fileId: 7669172
-    hash: 9850582dcc9bef6cf5a901f15c240f17dd74ddb8
+    fileId: 7708176
+    hash: 99f9973f69460a772a4e8beccb9ca3f69e0a1291
     side: both
   - name: Mouse Tweaks
     type: curseforge
@@ -919,8 +925,8 @@ mods:
   - name: Oritech
     type: curseforge
     projectId: 1030830
-    fileId: 7595311
-    hash: 72227bb7da23200da439c52633efc664de81de09
+    fileId: 7786123
+    hash: fe04966ff230c307dd2ea2259f90468b77147e8d
     side: both
   - name: Overflowing Bars
     type: curseforge
@@ -961,8 +967,8 @@ mods:
   - name: Platform
     type: curseforge
     projectId: 997634
-    fileId: 7609671
-    hash: b33452ab3a003fb12271b5b8c51f93c1c3c5559e
+    fileId: 7811411
+    hash: 64a91143d14a045f0c94ee548d8ec608e468232f
     side: both
   - name: Plushie Buddies
     type: curseforge
@@ -1080,8 +1086,8 @@ mods:
   - name: Simple Discord Link Bot
     type: curseforge
     projectId: 541320
-    fileId: 7297900
-    hash: ac5a0565559b5deb38a1a91af737af8569f80a36
+    fileId: 7810964
+    hash: 66238d684a64c4aa6ff8c82562a5ef413cf66a7f
     side: both
   - name: Sky Villages [Forge]
     type: curseforge
@@ -1194,8 +1200,8 @@ mods:
   - name: Vanilla Backport
     type: curseforge
     projectId: 417430
-    fileId: 7597655
-    hash: e57f9d74f7e3b740bb26534bd6dbe8d9bc3a9253
+    fileId: 7830651
+    hash: 1da63cff572c6ea3127438a7a6ca179e2a16471c
     side: both
   - name: Variants&Ventures
     type: curseforge
