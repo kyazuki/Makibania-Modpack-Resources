@@ -1,0 +1,21 @@
+{
+  "type": "northstar:freezing",
+  "ingredients": [
+    {
+      "item": "malum:void_salts"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 100,
+      "tag": "makibania:voidable"
+    }
+  ],
+  "minTemperature": -256,
+  "processing_time": 10,
+  "results": [
+    {
+      "amount": 1,
+      "id": "malum:void_salts"
+    }
+  ]
+}

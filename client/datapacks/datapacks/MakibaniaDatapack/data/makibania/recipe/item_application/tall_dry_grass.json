@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "minecraft:tall_grass"
+    },
+    {
+      "item": "enchanted:reek_of_misfortune"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:tall_dry_grass"
+    }
+  ]
+}

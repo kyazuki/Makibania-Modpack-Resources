@@ -1,0 +1,26 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "malum"
+        }
+    ],
+    "type": "oritech:deep_drill",
+    "fluidInput": {
+        "amount": 0,
+        "fluid": "minecraft:empty"
+    },
+    "fluidOutputs": [],
+    "ingredients": [
+        {
+            "item": "makibania:resource_node_soulstone"
+        }
+    ],
+    "results": [
+        {
+            "count": 1,
+            "id": "malum:raw_soulstone"
+        }
+    ],
+    "time": 1
+}
