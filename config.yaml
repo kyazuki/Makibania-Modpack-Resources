@@ -182,8 +182,8 @@ mods:
   - name: Chunk Sending[Forge/Fabric]
     type: curseforge
     projectId: 831663
-    fileId: 5540768
-    hash: 35cfb1c8a22f7acc25fbd9ff6ae6ec53329fa0de
+    fileId: 7926632
+    hash: 636a121a3252028bb0ec14a3f39f9bbf723ddacd
     side: both
   - name: Clickable advancements[Forge/Fabric]
     type: curseforge
@@ -272,20 +272,20 @@ mods:
   - name: CraterLib
     type: curseforge
     projectId: 867099
-    fileId: 7810753
-    hash: 269b42adba7b874a58559cbaff3d4c028b09c837
+    fileId: 7949736
+    hash: 17a164b323369f3e0636737fab0ce58a00d65bc9
     side: both
   - name: Create
     type: curseforge
     projectId: 328085
-    fileId: 7178775
-    hash: eee603ac7b083c9cd3a8ded4d4e3ed1a9a836f96
+    fileId: 7408951
+    hash: bf08bf8980c080f42d6f644f4f44a725cf7c3be9
     side: both
   - name: Create Deco
     type: curseforge
     projectId: 509285
-    fileId: 7314692
-    hash: cff4f94238d15db929bf0db48f006da438d345b5
+    fileId: 7943181
+    hash: 93d9eff58b46c6953e907d071e6be4e3ce07be38
     side: both
   - name: Create Picky Wheels
     type: curseforge
@@ -314,8 +314,8 @@ mods:
   - name: "Create: Food"
     type: curseforge
     projectId: 959439
-    fileId: 7768111
-    hash: af4b5fae1d35f7e4aa9c233f56ba8eb475dbe533
+    fileId: 7963768
+    hash: 6a084610f0abe0463a5029ac9f33c1985864e84b
     side: both
   - name: "Create: Molten Vents"
     type: curseforge
@@ -404,8 +404,8 @@ mods:
   - name: "Distant Horizons: A Level of Detail mod"
     type: curseforge
     projectId: 508933
-    fileId: 7375285
-    hash: 2a1243b18ccc117dee0fae5e976a494d8234e8be
+    fileId: 7977110
+    hash: 1ff0a8920e52add541471f7b32d0d389997145ba
     side: both
   - name: Drippy Loading Screen
     type: curseforge
@@ -464,8 +464,8 @@ mods:
   - name: "Enchanted: Witchcraft"
     type: curseforge
     projectId: 560363
-    fileId: 6948369
-    hash: 98db9bbdb139cc379a2518f4dd9309093e0afe0c
+    fileId: 8055168
+    hash: 2380cb5a49c7eb86afa6f790a920d1872d5cb85e
     side: both
   - name: Ender Dragon Egg Respawn
     type: curseforge
@@ -506,8 +506,8 @@ mods:
   - name: Farmer's Delight
     type: curseforge
     projectId: 398521
-    fileId: 7801529
-    hash: 2415b91d6437977e676985b4a2ef877208d202e1
+    fileId: 7953736
+    hash: a63092cb1e9cd1fb40a9bf1e9a5042d241eddb21
     side: both
   - name: Farmer's Delight Wearable Cooking Pot
     type: curseforge
@@ -835,8 +835,8 @@ mods:
   - name: Modopedia
     type: curseforge
     projectId: 1132038
-    fileId: 6765935
-    hash: 757512b0144c13411b7c34b36fe08bd29a5617a5
+    fileId: 8043293
+    hash: 086e80d3d763c491576012ff230b45ba6f477e83
     side: both
   - name: Moog's Structure Lib (moogs_structures)
     type: curseforge
@@ -925,8 +925,8 @@ mods:
   - name: Oritech
     type: curseforge
     projectId: 1030830
-    fileId: 7786123
-    hash: fe04966ff230c307dd2ea2259f90468b77147e8d
+    fileId: 7978285
+    hash: d10c3e3387f79bb43c638fb1d83ee1738991e3f2
     side: both
   - name: Overflowing Bars
     type: curseforge
@@ -949,8 +949,8 @@ mods:
   - name: Piglin Proliferation
     type: curseforge
     projectId: 657831
-    fileId: 7390681
-    hash: 0851801cc4faa05838bb1fc1b61439ad8d525316
+    fileId: 7881864
+    hash: 35e9e9ac2bc52fece9b6c665254d91713ca2f2f6
     side: both
   - name: Ping Wheel
     type: curseforge
@@ -1086,8 +1086,8 @@ mods:
   - name: Simple Discord Link Bot
     type: curseforge
     projectId: 541320
-    fileId: 7810964
-    hash: 66238d684a64c4aa6ff8c82562a5ef413cf66a7f
+    fileId: 7950232
+    hash: c53f4d0f5216fb4c37eada79f9d1f5baf20904b1
     side: both
   - name: Sky Villages [Forge]
     type: curseforge
@@ -1155,6 +1155,18 @@ mods:
     fileId: 6732857
     hash: 79f88be6fa9d56cf4b13dca68efc46872d54c391
     side: both
+  - name: SuperMartijn642's Config Lib
+    type: curseforge
+    projectId: 438332
+    fileId: 5546996
+    hash: 07452242e389975e8a88b97066f4bae6a4ebe574
+    side: both
+  - name: SuperMartijn642's Core Lib
+    type: curseforge
+    projectId: 454372
+    fileId: 7783425
+    hash: 84802fbe1645de8caf61ccb07db6cf451e614f68
+    side: both
   - name: Sussy Sniffers
     type: curseforge
     projectId: 1083346
@@ -1178,6 +1190,12 @@ mods:
     projectId: 848032
     fileId: 6010596
     hash: fb37ae0a35e8bb9340e61007275121f02cf7a8bc
+    side: both
+  - name: Trash Cans
+    type: curseforge
+    projectId: 394535
+    fileId: 5891067
+    hash: 8e853e0784b01b36b4503ef5599be2724be74b07
     side: both
   - name: Uranus
     type: curseforge
@@ -1230,8 +1248,8 @@ mods:
   - name: WorldWeaver Neoforge
     type: curseforge
     projectId: 1422284
-    fileId: 7672397
-    hash: 09e1803fe6a85292ced6b64eb2cd53cafbbb6df6
+    fileId: 7893177
+    hash: 48e94bc5bcf174473803b40cc2308c4affc4993b
     side: both
   - name: WunderLib Neoforge
     type: curseforge
