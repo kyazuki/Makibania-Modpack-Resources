@@ -1155,18 +1155,6 @@ mods:
     fileId: 6732857
     hash: 79f88be6fa9d56cf4b13dca68efc46872d54c391
     side: both
-  - name: SuperMartijn642's Config Lib
-    type: curseforge
-    projectId: 438332
-    fileId: 5546996
-    hash: 07452242e389975e8a88b97066f4bae6a4ebe574
-    side: both
-  - name: SuperMartijn642's Core Lib
-    type: curseforge
-    projectId: 454372
-    fileId: 7783425
-    hash: 84802fbe1645de8caf61ccb07db6cf451e614f68
-    side: both
   - name: Sussy Sniffers
     type: curseforge
     projectId: 1083346
@@ -1190,12 +1178,6 @@ mods:
     projectId: 848032
     fileId: 6010596
     hash: fb37ae0a35e8bb9340e61007275121f02cf7a8bc
-    side: both
-  - name: Trash Cans
-    type: curseforge
-    projectId: 394535
-    fileId: 5891067
-    hash: 8e853e0784b01b36b4503ef5599be2724be74b07
     side: both
   - name: Uranus
     type: curseforge
