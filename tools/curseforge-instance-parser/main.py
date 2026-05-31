@@ -41,13 +41,13 @@ def parse_args() -> Arguments:
 
 def check_add_or_update(instance_path: Path, config_path: Path) -> tuple[list, list]:
     # minecraftinstance.jsonからインストールされているModを取得
-    instance = json.loads(instance_path.read_text())
+    instance = json.loads(instance_path.read_text(encoding="utf-8"))
     installed_mods = instance.get("installedAddons")
     if installed_mods is None:
         print("Failed to parse minecraftinstance.json.", file=sys.stderr)
         sys.exit(1)
     # config.yamlからCurseForge Modの設定を取得
-    config = yaml.safe_load(config_path.read_text())
+    config = yaml.safe_load(config_path.read_text(encoding="utf-8"))
     mod_configs = config.get("mods")
     if mod_configs is None:
         print("Failed to parse config.yaml.", file=sys.stderr)
