@@ -1,0 +1,14 @@
+{
+  "type": "iceandfire:dragonforge",
+  "dragonType": "fire",
+  "cookTime": 500,
+  "input": {
+    "item": "minecraft:raw_iron"
+  },
+  "blood": {
+    "item": "northstar:mars_sprout_seeds"
+  },
+  "result": {
+    "id": "northstar:raw_martian_iron_ore"
+  }
+}

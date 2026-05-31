@@ -1,0 +1,36 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 64,
+      "item": "malum:refined_brilliance"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "forbidden_arcanus:utrem_jar"
+  },
+  "result": {
+      "count": 1,
+      "id": "forbidden_arcanus:essence_utrem_jar",
+      "components":{
+      "forbidden_arcanus:essence_storage":{
+        "data":{
+          "amount":1000,
+          "type":"experience"
+        },
+        "limit":10000
+      }
+    }
+    },
+  "spirits": [
+    {
+      "type": "malum:sacred",
+      "count": 1
+    },
+    {
+      "type": "malum:arcane",
+      "count": 1
+    }
+  ]
+}

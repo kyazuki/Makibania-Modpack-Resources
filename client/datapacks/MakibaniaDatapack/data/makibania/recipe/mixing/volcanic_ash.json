@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "northstar:volcanic_ash"
+    },
+    {
+      "item": "iceandfire:ash"
+    },
+    {
+      "item": "iceandfire:ash"
+    },
+    {
+      "item": "iceandfire:ash"
+    }
+  ],
+  "results": [
+    {
+      "count": 16,
+      "id": "northstar:volcanic_ash_item"
+    }
+  ]
+}

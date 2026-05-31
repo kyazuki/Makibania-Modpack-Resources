@@ -1,0 +1,38 @@
+{
+  "enhancers": "forbidden_arcanus:divine_pact",
+  "essences": {
+    "aureal": 5000,
+    "blood": 0,
+    "experience": 0,
+    "souls": 0
+  },
+  "forge_tier": 3,
+  "inputs": [
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "forbidden_arcanus:rune"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "item": "forbidden_arcanus:utrem_jar"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "forbidden_arcanus:essence_utrem_jar",
+      "components":{
+      "forbidden_arcanus:essence_storage":{
+        "data":{
+          "amount":5000,
+          "type":"aureal"
+        },
+        "limit":10000
+      }
+    }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "northstar:volcanic_ash_item"
+    },
+    {
+      "item": "northstar:volcanic_ash_item"
+    },
+    {
+      "item": "northstar:volcanic_ash_item"
+    },
+    {
+      "item": "northstar:volcanic_ash_item"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "northstar:volcanic_ash"
+  }
+}
