@@ -1,0 +1,4 @@
+#Players in these dimensions are included in the overworld sleep check.
+#Sleeping players in these dimensions count toward skipping the night.
+#Example: ["mythica:mythica", "modid:dimension_name"]
+"Sleepable Dimensions" = ["mythica:mythica"]
