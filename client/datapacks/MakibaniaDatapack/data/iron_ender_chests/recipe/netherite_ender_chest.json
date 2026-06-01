@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing_transform",
   "addition": {
-    "item": "betterend:terminite_ingot"
+    "item": "betterend:aeternium_ingot"
   },
   "base": {
     "item": "iron_ender_chests:diamond_ender_chest"
@@ -11,6 +11,6 @@
     "id": "iron_ender_chests:netherite_ender_chest"
   },
   "template": {
-    "item": "betterend:terminite_upgrade_smithing_template"
+    "item": "betterend:aeternium_upgrade_smithing_template"
   }
 }
