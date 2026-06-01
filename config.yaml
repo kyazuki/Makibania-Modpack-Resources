@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/medi-torimorta/Makibania-Modpack-Installer/refs/heads/main/config.schema.json
 schemaVersion: 2
-packVersion: "2.3.0"
+packVersion: "2.5.0"
 profile:
   name: Makibania
   icon: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABHZJREFUeJztmk9r1EAYxh//HEwrtoK7CAV3FUEU/QZCZT3oXbzo1Z4r9rDiwaKHYg8r7VmveusXKHYvHtRbD4IoQneF1iW1tNXdpJ7Wg/uGyewkmZmdSYLmB4HdZJLM88w7k5k3AQoKCgr+Yw5lXYFRqU05TwA8jjj8tLnpz8edn5kBjXKlL9o/57al6sQKH5upCst4L1r0M9KITAxolCv9e3fuhvadKJ0CADxfXo41QSTc9z1hWccZAxBvROoGNMqVZwDqvAHEidKpSBNqU04fSBbOwxvR3PSDax+Wr7oxIsWzDIwKqE05/bGZKsZmqvB9T1o8gKA8nU9GAikbwIsS8XP7Bx7MzgJAnfaReFXhPKwRZMJRQQXr3HmLc277ofZdw0i1Plsfuvf39jYmy+NGKvG9vY2Jwe8gAkj8g9lZsBuAukzLJaFyDVEUXFw/hj23hz23p10HOv+2fyXYd5ipXP3enbv4uf0jtBk0Qan1RUy3SphulZSNoPI33SpuutXQMYqA+q3adeHJhk0wgqwRccIJqUEwjyYA0UbICCeknwJ5NQEYNkJGOKH0GBQNTnliulWSFk5ozwNUoiBvEcMSMmC300k8Ie9RoMpIM0GFlo18ymSNlgH/UhSQAYsrzTWtC6TRv5ub/qEtdwfu3i+4e7+0r+N7PfheD6tv3wcrQu0ukHYUkAk6RpDw9S8trH9pDS+H2cWOzEDIk9YoP6j4U1kjeOH4mxAJ5RnYCFDuBjaj4PnyMgAs8vubm/58khFRwkVpsaP8DuBvFJw8fdqQFH3iluEDMfO1KefJlrvzGAC23B2+WGJSNDBgzm0/bJQr2i3Jrt3ThIzQPT+LlFgiL1+/AgThbwPegGAckB0MbY0DaUVTyAAbN1V9QqTZ+oB4EFxcaa7Vb9WuKw+GjNhQNMhOg0l8mmOJ8L1Ao1zpU6VlDaB8PgBQ6ou6kcw1BuKBnBjwDMwCJo1HIvtmaEAqRkS+GdKJAhNwRlg34UjUgRvjk86njY2rl86ew0G3C+f4cZv1CPjtefjtebhWq+Hdhw9Xb4xPOqu9/Te27hf7bpCNAsBsJEwsLYT+799/NFSGGVesRUKSAaGxADBjwsTSwpBg0T4g/mWpCWJnggPXQ4skmQnSxNJCsMmyf/9RbHlbK87EqTBvQlIEUEvSpmoCj+28g9RaQBQJIkRhLDJBJDQrUlkMmRJsoxuoGFC/cKZi+v5S2OwGShFw+fz52OMmWlplzDBBrvIBUY9Cm+TGgCzEAzkxICvxQA4MkBUflSUeFWFWOA7VJEnSoKbS8jbWA8oGqGIitHVe1siSeRdIYrfTwWAGaiVPqGKAcsZ4VFjxtpbD0gbwFbBpwm6nk4p4ICYjJILNEgEwmina7XRw0O3ioNvFSnMNnzY2gBRSYspJBj5LROgmSthIYlabqWWGdQwYyhKxyBjBd58shBNaaSb2o2rdb38+fv2Kz9/a9Dd14cRIeTb+6/ILZyqRK0ZOMJGZcMJYojHiU3uezAUXFBQUFDD8AYTC3EgUSH2vAAAAAElFTkSuQmCC"
@@ -341,6 +341,12 @@ mods:
     fileId: 6731245
     hash: 9d271d70b1d2870d5c232e71e2923abaac3a6767
     side: both
+  - name: Create：FluidLogistic
+    type: curseforge
+    projectId: 1475079
+    fileId: 8077818
+    hash: 30eae61190d79d481fddd1c45783bdc3e10cab67
+    side: both
   - name: Creeper Overhaul
     type: curseforge
     projectId: 561625
@@ -478,6 +484,12 @@ mods:
     projectId: 574409
     fileId: 7661859
     hash: f71aa503738f2e23a8d939b7ea9f96f2fe203f11
+    side: both
+  - name: Entangled
+    type: curseforge
+    projectId: 301034
+    fileId: 7783144
+    hash: 72d63d64ee774b89302e0d6b220757ba11b6ec4f
     side: both
   - name: Expanded Delight
     type: curseforge
@@ -677,6 +689,12 @@ mods:
     fileId: 7436215
     hash: 8b25ac143e5c2392336d0f899160bdfe1ee3d1a5
     side: both
+  - name: Interdimensional Sleeping
+    type: curseforge
+    projectId: 1559350
+    fileId: 8173436
+    hash: 3259906e87f6b7d2d78e1bcb661f2bed7cd867c0
+    side: both
   - name: Iris & Oculus Flywheel Compat
     type: curseforge
     projectId: 659897
@@ -775,8 +793,8 @@ mods:
     side: both
   - name: Makibania
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.3.0/makibania-neoforge-2.3.0+mc1.21.1.jar
-    hash: 761165f48365b8ce45bb9a7e66bd59871ddcdc3b
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.5.0/makibania-neoforge-2.5.0+mc1.21.1.jar
+    hash: 884334a98f21720629f0f854f1a0d6280b99df5e
     side: both
   - name: Malum
     type: curseforge
@@ -877,8 +895,8 @@ mods:
   - name: Mythica - a Second Overworld Dimension
     type: curseforge
     projectId: 1354448
-    fileId: 7871984
-    hash: dff7019f2284efee87e94f5c407d1412aa90f598
+    fileId: 8173447
+    hash: 00a4e40962172eacd18cdf7005428f9206b5952c
     side: both
   - name: NeoAuth
     type: curseforge
@@ -1140,8 +1158,8 @@ mods:
   - name: Steam 'n' Rails Neoforge
     type: curseforge
     projectId: 1414670
-    fileId: 7478287
-    hash: 6eaa3864182762595ac81c067f37fad3a5b0ae07
+    fileId: 8095851
+    hash: 9d52eef0772b81de397271b98c0201a59733f9c6
     side: both
   - name: Storage Delight (Forge & Neoforge)
     type: curseforge
@@ -1154,6 +1172,18 @@ mods:
     projectId: 832882
     fileId: 6732857
     hash: 79f88be6fa9d56cf4b13dca68efc46872d54c391
+    side: both
+  - name: SuperMartijn642's Config Lib
+    type: curseforge
+    projectId: 438332
+    fileId: 5546996
+    hash: 07452242e389975e8a88b97066f4bae6a4ebe574
+    side: both
+  - name: SuperMartijn642's Core Lib
+    type: curseforge
+    projectId: 454372
+    fileId: 7783425
+    hash: 84802fbe1645de8caf61ccb07db6cf451e614f68
     side: both
   - name: Sussy Sniffers
     type: curseforge
@@ -1272,15 +1302,15 @@ mods:
 resources:
   - name: Default Config Files
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.2.0/configureddefaults.zip
-    hash: 6762f65031ca8842b1ecb641ff87c615f359dc7c
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.5.0/configureddefaults.zip
+    hash: ded9e06d379a3255c631781ce50bec3f04b27e7c
     targetDir: configureddefaults
     decompress: true
     side: both
   - name: Makibania Data Pack
     type: direct
-    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.3.0/MakibaniaDatapack.zip
-    hash: 1b792305fef46424d0c6d21b1ee5a4a97e3787c2
+    url: https://github.com/kyazuki/Makibania-Modpack-Resources/releases/download/v2.5.0/MakibaniaDatapack.zip
+    hash: 564de864c6ab0e5014b4c1a282ad55df42a302e0
     targetDir: datapacks
     side: both
   - name: Makibania Resource Pack
