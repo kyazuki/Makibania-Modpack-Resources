@@ -1,0 +1,18 @@
+{
+  "type": "oritech:particle_collision",
+  "ingredients": [
+    {
+      "item": "create:zinc_block"
+    },
+    {
+      "item": "iceandfire:silver_block"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "entangled:block"
+    }
+  ],
+  "time": 2500
+}
